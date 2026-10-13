@@ -1,0 +1,382 @@
+Browser
+Search
+Search API
+Brave Ads
+Sign up
+Log in
+Brave Search API
+API features
+Developer docs
+Use cases
+How-to guides
+Latest API news
+Tools & integrations
+MCP Server
+Log in / sign up
+Brave Search API
+
+Power your agents & chatbots with the world's largest independent index of the Web.
+
+Get started*
+Read the docs
+
+*with $5 in free monthly credits
+
+Third-party verified as having the highest agent quality score and lowest latency among leading search APIs.
+
+Plans
+Search
+
+The real-time search data your chatbots & agents need to generate answers.
+
+Complete search results (URLs, text, news, images, and more), with additional LLM context optimized for AI.
+
+$5 per 1,000 requests
+
+Get started
+Includes $5 in free credits every month
+
+Credits are automatically applied to your account
+
+SPECIAL FEATURES
+Goggles: Custom reranking & result filtering
+Extra alternate snippets
+Schema-enriched results + added metadata
+CAPACITY
+50 queries per second
+Answers
+
+Summarized, completed answers to any question.
+
+Answers grounded on a single search or multiple searches for better accuracy & reduced hallucinations.
+
+$4 per 1,000 requests
+
++ $5 per million input/output tokens
+
+Get started
+Includes $5 in free credits every month
+
+Credits are automatically applied to your account
+
+SPECIAL FEATURES
+Grounding supported by citations
+Streaming
+OpenAI SDK compatible
+CAPACITY
+2 queries per second
+Enterprise
+
+Need custom terms, capacity, or endpoints? Contact us about bespoke plans for large-scale deployments.
+
+SPECIAL FEATURES
+Full-funnel Zero Data Retention
+Custom agreements & NDAs
+Invoicing & enterprise-grade support
+Contact us
+API news
+What a pizza-ordering hackathon reveals about connecting AI agents to the Web
+Brave Place Search API: The Google Maps Alternative That Costs 6–7x Less
+Claude Cowork on Amazon Bedrock with Brave Search: bringing real-time Web intelligence for your organization
+Brave Search API approaches 700,000 OpenClaw users, highlighting the surge in machine-first search
+Build with the power of the web
+Power agentic search
+
+Chatbots, coding assistants, and AI-search engines all need real-time data to reduce hallucinations and ground their responses with multiple sources. The Brave Search API excels in RAG pipelines, and it’s the leading search tool for applications that use Claude MCP.
+
+Train foundation models
+Create search-enabled tools
+Trusted by industry leaders
+The Brave Search API provides accurate search results for our academic citation services. It delivers high-quality data at a reasonable price, and with intuitive data structuring. Its speed and precision have been crucial.
+—Ben Tucker, SVP of Engineering,
+Chegg
+Key features
+World-class quality
+
+In blinded testing, Brave Search performs on par with—or better than—incumbent search giants.
+
+Specialized endpoints
+
+Adapt results with different specialized endpoints, including local, images, AI summaries, and more.
+
+Comprehensive and fresh
+
+Brave’s index includes 40+ billion pages, kept fresh by 100+ million page updates every day.
+
+Search Goggles
+
+Discard domains or re-rank results for better control of the response to your query via the Brave Search Goggles feature.
+
+Extra snippets
+
+Get up to five snippets picked in real time to maximize contextual relevance to a search.
+
+Schema-enriched results
+
+Get additional formatted data for popular formats like movie reviews and wikis.
+
+LLM Context (agentic search)
+Answers
+Image
+Video
+News
+Web (human search)
+Python
+cURL
+JavaScript
+GO
+ 1
+#!/usr/bin/env python
+
+ 2
+
+
+ 3
+import requests
+
+ 4
+
+
+ 5
+print(
+
+ 6
+    requests.get(
+
+ 7
+        "https://api.search.brave.com/res/v1/llm/context",
+
+ 8
+        headers={
+
+ 9
+            "X-Subscription-Token": "<BRAVE_SEARCH_API_KEY>",
+
+10
+        },
+
+11
+        params={
+
+12
+            "q": "what is tallest mountain in solar system",
+
+13
+        },
+
+14
+    ).json()
+
+15
+)
+JSON
+ 1
+{
+
+ 2
+  "grounding": {
+
+ 3
+    "generic": [
+
+ 4
+      {
+
+ 5
+        "url": "https://en.wikipedia.org/wiki/List_of_tallest_mountains_in_the_Solar_System",
+
+ 6
+        "title": "List of tallest mountains in the Solar System",
+
+ 7
+        "snippets": [
+
+ 8
+          "{\"title\":\"List of tallest mountains in the Solar System\",\"table\":[{\"Planet\":\"Mercury\",\"Tallest peak\":\"Caloris Montes\",\"Base-to-peak height\":\"≤ 3 km (1.9 mi)\",\"% of radius\":\"0.12\",\"Origin\":\"impact\",\"Notes\":\"Formed by the Caloris impact\"},{\"Planet\":\"Venus\",\"Tallest peak\":\"Maat Mons\",\"Base-to-peak height\":\"4.9 km (3.0 mi) (approx.)\",\"% of radius\":\"0.081\",\"Origin\":\"volcanic\",\"Notes\":\"Highest volcano on Venus\"},{\"Planet\":\"Earth\",\"Tallest peak\":\"Mauna Kea and Mauna Loa\",\"Base-to-peak height\":\"10.2 km (6.3 mi)\",\"% of radius\":\"0.16\",\"Origin\":\"volcanic\",\"Notes\":\"4.2 km (2.6 mi) of this is above sea level\"},{\"Planet\":\"Earth\",\"Tallest peak\":\"Haleakalā\",\"Base-to-peak height\":\"9.1 km (5.7 mi)\",\"% of radius\":\"0.14\",\"Origin\":\"volcanic\",\"Notes\":\"Rises 3.1 km above sea level\"},{\"Planet\":\"Earth\",\"Tallest peak\":\"Pico del Teide\",\"Base-to-peak height\":\"7.5 km (4.7 mi)\",\"% of radius\":\"0.12\",\"Origin\":\"volcanic\",\"Notes\":\"Rises 3.7 km above sea level\"},{\"Planet\":\"Earth\",\"Tallest peak\":\"Denali (Mount McKinley)\",\"Base-to-peak height\":\"5.3 to 5.9 km (3.3 to 3.7 mi)\",\"% of radius\":\"0.093\",\"Origin\":\"tectonic\",\"Notes\":\"Tallest mountain base-to-peak on land\"},{\"Planet\":\"Earth\",\"Tallest peak\":\"Mount Everest\",\"Base-to-peak height\":\"3.6 to 4.6 km (2.2 to 2.9 mi)\",\"% of radius\":\"0.072\",\"Origin\":\"tectonic\",\"Notes\":\"4.6 km on north face, 3.6 km on south face; highest elevation (8.8 km) above sea level, as well as by wet and dry prominence (but not among the tallest from base to peak, nor in distance to Earth's center, as Chimborazo rises highest).\"},{\"Planet\":\"Moon\",\"Tallest peak\":\"Mons Huygens\",\"Base-to-peak height\":\"5.3 km (3.3 mi)\",\"% of radius\":\"0.31\",\"Origin\":\"impact\",\"Notes\":\"Formed by the Imbrium impact.\"},{\"Planet\":\"Moon\",\"Tallest peak\":\"Mons Mouton\",\"Base-to-peak height\":\"6 km (3.7 mi)\",\"% of radius\":\"0.35\",\"Origin\":\"impact\",\"Notes\":\"Possibly formed by the South Pole-Aitken basin impact.\"},{\"Planet\":\"Moon\",\"Tallest peak\":\"Southern Farside Mountain\",\"Base-to-peak height\":\"7 km (4.3 mi)\",\"% of radius\":\"0.40\",\"Origin\":\"impact\",\"Notes\":\"Informal name of the Moon's tallest free-standing mountain. Possibly formed by the South Pole-Aitken basin impact. Not highest lunar peak by prominence, which would be Selenean summit.\"},{\"Planet\":\"Moon\",\"Tallest peak\":\"Mons Hadley\",\"Base-to-peak height\":\"4.5 km (2.8 mi)\",\"% of radius\":\"0.26\",\"Origin\":\"impact\",\"Notes\":\"Formed by the Imbrium impact\"},{\"Planet\":\"Moon\",\"Tallest peak\":\"Mons Rümker\",\"Base-to-peak height\":\"1.3 km (0.81 mi)\",\"% of radius\":\"0.063\",\"Origin\":\"volcanic\",\"Notes\":\"Largest volcanic construct on the Moon\"},{\"Planet\":\"Mars\",\"Tallest peak\":\"Olympus Mons\",\"Base-to-peak height\":\"21.9–26 km (13.6–16.2 mi; 72,000–85,000 ft)\",\"% of radius\":\"0.65\",\"Origin\":\"volcanic\",\"Notes\":\"Tallest mountain in the Solar System. Rises 26 km above northern plains, (dry prominence) 1000 km away. Summit calderas are 60×80 km wide, up to 3.2 km deep; scarp around margin is up to 8 km high. A shield volcano, the mean flank slope is a modest 5.2 degrees.\"},{\"Planet\":\"Mars\",\"Tallest peak\":\"Ascraeus Mons\",\"Base-to-peak height\":\"14.9 km (9.3 mi)\",\"% of radius\":\"0.44\",\"Origin\":\"volcanic\",\"Notes\":\"Tallest of the three Tharsis Montes\"},{\"Planet\":\"Mars\",\"Tallest peak\":\"Elysium Mons\",\"Base-to-peak height\":\"12.6 km (7.8 mi)\",\"% of radius\":\"0.37\",\"Origin\":\"volcanic\",\"Notes\":\"Highest volcano in Elysium\"},{\"Planet\":\"Mars\",\"Tallest peak\":\"Arsia Mons\",\"Base-to-peak height\":\"11.7 km (7.3 mi)\",\"% of radius\":\"0.35\",\"Origin\":\"volcanic\",\"Notes\":\"Summit caldera is 108 to 138 km (67 to 86 mi) across\"},{\"Planet\":\"Mars\",\"Tallest peak\":\"Pavonis Mons\",\"Base-to-peak height\":\"8.4 km (5.2 mi)\",\"% of radius\":\"0.25\",\"Origin\":\"volcanic\",\"Notes\":\"Summit caldera is 4.8 km (3.0 mi) deep\"},{\"Planet\":\"Mars\",\"Tallest peak\":\"Anseris Mons\",\"Base-to-peak height\":\"6.2 km (3.9 mi)\",\"% of radius\":\"0.18\",\"Origin\":\"impact\",\"Notes\":\"Among the highest nonvolcanic peaks on Mars, formed by the Hellas impact\"},{\"Planet\":\"Mars\",\"Tallest peak\":\"Aeolis Mons (\\\"Mount Sharp\\\")\",\"Base-to-peak height\":\"4.5 to 5.5 km (2.8 to 3.4 mi)\",\"% of radius\":\"0.16\",\"Origin\":\"deposition and erosion\",\"Notes\":\"Formed from deposits in Gale crater; the MSL rover has been ascending it since November 2014.\"},{\"Planet\":\"Vesta\",\"Tallest peak\":\"Rheasilvia central peak\",\"Base-to-peak height\":\"20–22 km (12–14 mi; 66,000–72,000 ft)\",\"% of radius\":\"8.4\",\"Origin\":\"impact\",\"Notes\":\"Almost 200 km (120 mi) wide. See also: List of largest craters in the Solar System\"},{\"Planet\":\"Ceres\",\"Tallest peak\":\"Ahuna Mons\",\"Base-to-peak height\":\"4 km (2.5 mi)\",\"% of radius\":\"0.85\",\"Origin\":\"cryovolcanic\",\"Notes\":\"Isolated steep-sided dome in relatively smooth area; max. height of ~ 5 km on steepest side; roughly antipodal to largest impact basin on Ceres\"},{\"Planet\":\"Io\",\"Tallest peak\":\"Boösaule Montes \\\"South\\\"\",\"Base-to-peak height\":\"17.5 to 18.2 km (10.9 to 11.3 mi)\",\"% of radius\":\"1.0\",\"Origin\":\"tectonic\",\"Notes\":\"Has a 15 km (9 mi) high scarp on its SE margin\"},{\"Planet\":\"Io\",\"Tallest peak\":\"Ionian Mons east ridge\",\"Base-to-peak height\":\"12.7 km (7.9 mi) (approx.)\",\"% of radius\":\"0.70\",\"Origin\":\"tectonic\",\"Notes\":\"Has the form of a curved double ridge\"},{\"Planet\":\"Io\",\"Tallest peak\":\"Euboea Montes\",\"Base-to-peak height\":\"10.5 to 13.4 km (6.5 to 8.3 mi)\",\"% of radius\":\"0.74\",\"Origin\":\"tectonic\",\"Notes\":\"A NW flank landslide left a 25,000 km3 debris apron\"},{\"Planet\":\"Io\",\"Tallest peak\":\"unnamed (245° W, 30° S)\",\"Base-to-peak height\":\"2.5 km (1.6 mi) (approx.)\",\"% of radius\":\"0.14\",\"Origin\":\"volcanic\",\"Notes\":\"One of the tallest of Io's many volcanoes, with an atypical conical form\"},{\"Planet\":\"Mimas\",\"Tallest peak\":\"Herschel central peak\",\"Base-to-peak height\":\"7 km (4 mi) (approx.)\",\"% of radius\":\"3.5\",\"Origin\":\"impact\",\"Notes\":\"See also: List of largest craters in the Solar System\"},{\"Planet\":\"Dione\",\"Tallest peak\":\"Janiculum Dorsa\",\"Base-to-peak height\":\"1.5 km (0.9 mi)\",\"% of radius\":\"0.27\",\"Origin\":\"tectonic\",\"Notes\":\"Surrounding crust depressed ca. 0.3 km.\"},{\"Planet\":\"Titan\",\"Tallest peak\":\"Mithrim Montes\",\"Base-to-peak height\":\"≤ 3.3 km (2.1 mi)\",\"% of radius\":\"0.13\",\"Origin\":\"tectonic\",\"Notes\":\"May have formed due to global contraction\"},{\"Planet\":\"Titan\",\"Tallest peak\":\"Doom Mons\",\"Base-to-peak height\":\"1.45 km (0.90 mi)\",\"% of radius\":\"0.056\",\"Origin\":\"cryovolcanic\",\"Notes\":\"Adjacent to Sotra Patera, a 1.7 km (1.1 mi) deep collapse feature\"},{\"Planet\":\"Iapetus\",\"Tallest peak\":\"equatorial ridge\",\"Base-to-peak height\":\"20 km (12 mi) (approx.)\",\"% of radius\":\"2.7\",\"Origin\":\"uncertain\",\"Notes\":\"Individual peaks have not been measured\"},{\"Planet\":\"Oberon\",\"Tallest peak\":\"unnamed (\\\"limb mountain\\\")\",\"Base-to-peak height\":\"11 km (7 mi) (approx.)\",\"% of radius\":\"1.4\",\"Origin\":\"impact (?)\",\"Notes\":\"A value of 6 km was given shortly after the Voyager 2 encounter\"},{\"Planet\":\"Pluto\",\"Tallest peak\":\"Tenzing Montes, peak \\\"T2\\\"\",\"Base-to-peak height\":\"~6.2 km (3.9 mi)\",\"% of radius\":\"0.52\",\"Origin\":\"tectonic (?)\",\"Notes\":\"Composed of water ice; named after Tenzing Norgay\"},{\"Planet\":\"Pluto\",\"Tallest peak\":\"Piccard Mons\",\"Base-to-peak height\":\"~5.5 km (3.4 mi)\",\"% of radius\":\"0.46\",\"Origin\":\"cryovolcanic (?)\",\"Notes\":\"~220 km across; central depression is 11 km deep\"},{\"Planet\":\"Pluto\",\"Tallest peak\":\"Wright Mons\",\"Base-to-peak height\":\"~4.7 km (2.9 mi)\",\"% of radius\":\"0.40\",\"Origin\":\"cryovolcanic (?)\",\"Notes\":\"~160 km across; summit depression ~56 km across and 4.5 km deep\"},{\"Planet\":\"Charon\",\"Tallest peak\":\"Butler Mons\",\"Base-to-peak height\":\"≥ 4.5 km (2.8 mi)\",\"% of radius\":\"0.74\",\"Origin\":\"tectonic (?)\",\"Notes\":\"Vulcan Planitia, the southern plains, has several isolated peaks, possibly tilted crustal blocks\"},{\"Planet\":\"Charon\",\"Tallest peak\":\"Dorothy central peak\",\"Base-to-peak height\":\"~4.0 km (2.5 mi)\",\"% of radius\":\"0.66\",\"Origin\":\"impact\",\"Notes\":\"North polar impact basin Dorothy, Charon's largest, is ~240 km across and 6 km deep\"},{\"Planet\":\"Máni\",\"Tallest peak\":\"unnamed\",\"Base-to-peak height\":\"25 km (16 mi)\",\"% of radius\":\"6.3\",\"Origin\":\"impact\",\"Notes\":\"Discovered by stellar occultation; it is unclear whether this feature is a genuine topographic peak or a transiting/occulting satellite.\"}],\"caption\":\"List\",\"headers\":[\"List of t",
+
+ 9
+          "## List\n### Tallest mountains by elevation\n* Olympus Mons 72,000&nbsp;ft (22,000&nbsp;m)\n\n* Equatorial Ridge 65,617&nbsp;ft (20,000&nbsp;m)\n\n* Boösaule Mons 59,711&nbsp;ft (18,200&nbsp;m)\n\n* Ascraeus Mons 49,000&nbsp;ft (15,000&nbsp;m)\n\n* Ionian Mons 41,667&nbsp;ft (12,700&nbsp;m)\n\n* Elysium Mons 41,338&nbsp;ft (12,600&nbsp;m)\n\n* Arsia Mons 38,386&nbsp;ft (11,700&nbsp;m)\n\n* Limb Mountain 36,089&nbsp;ft (11,000&nbsp;m)\n\n* Euboea Montes 34,449&nbsp;ft (10,500&nbsp;m)\n\n* Mauna Kea 33,500&nbsp;ft (10,200&nbsp;m)\n\n* Mount Everest 29,029&nbsp;ft (8,848&nbsp;m)\n\n* Herschel Peak 22,966&nbsp;ft (7,000&nbsp;m)\n\n* Anseris Mons 20,341&nbsp;ft (6,200&nbsp;m)\n\n* Tenzing Montes 20,341&nbsp;ft (6,200&nbsp;m)\n\n* Denali/Mount McKinley 20,310&nbsp;ft (6,190&nbsp;m)\n\n* Mount Kilimanjaro 19,341&nbsp;ft (5,895&nbsp;m)\n\n* Mons Huygens 18,045&nbsp;ft (5,500&nbsp;m)\n\n* Aeolis Mons 18,045&nbsp;ft (5,500&nbsp;m)\n\n* Piccard Mons 18,045&nbsp;ft (5,500&nbsp;m)\n\n* Maat Mons 16,076&nbsp;ft (4,900&nbsp;m)\n\n* Wright Mons 15,420&nbsp;ft (4,700&nbsp;m)\n\n* Mons Hadley 14,764&nbsp;ft (4,500&nbsp;m)\n\n* Butler Mons 14,764&nbsp;ft (4,500&nbsp;m)\n\n* Ahuna Mons 13,500&nbsp;ft (4,100&nbsp;m)\n\n* Dorothy Peak 13,123&nbsp;ft (4,000&nbsp;m)\n\n* Mithrim Montes 10,948&nbsp;ft (3,337&nbsp;m)\n\n* Haleakalā 10,023&nbsp;ft (3,055&nbsp;m)\n\n* Caloris Montes 9,843&nbsp;ft (3,000&nbsp;m)\n\n* Io (unnamed peak) 8,202&nbsp;ft (2,500&nbsp;m)\n\n* Janiculum Dorsa 4,921&nbsp;ft (1,500&nbsp;m)\n\n* Doom Mons 4,757&nbsp;ft (1,450&nbsp;m)\n\n* Mons Rümker 4,265&nbsp;ft (1,300&nbsp;m)"
+
+10
+        ]
+
+11
+      },
+
+12
+      ...
+
+13
+    ],
+
+14
+    "map": []
+
+15
+  },
+
+16
+  "sources": {
+
+17
+    "https://en.wikipedia.org/wiki/List_of_tallest_mountains_in_the_Solar_System": {
+
+18
+      "title": "List of tallest mountains in the Solar System",
+
+19
+      "hostname": "en.wikipedia.org",
+
+20
+      "age": [
+
+21
+        "Friday, February 06, 2026",
+
+22
+        "2026-02-06",
+
+23
+        "11 days ago"
+
+24
+      ]
+
+25
+    },
+
+26
+    ...
+
+27
+  }
+
+28
+}
+Enterprise ready
+SOC 2 attested
+
+The Brave Search API is SOC 2 Type II attested, with its strict security and privacy controls independently verified by a third-party auditor. Visit our Trust Center to learn more.
+
+Zero Data Retention
+
+The only search API built with privacy at its core is also the only search API that can offer true Zero Data Retention. With ZDR, companies can meet ever-growing compliance obligations and gain a competitive advantage. Learn more about ZDR.
+
+High capacity, low latency
+
+Engineered for large-scale deployments, the Brave Search API can handle the capacity needs of even the largest global enterprises. Market-leading low latencies support individual use cases and workflows.
+
+FAQ
+What is the Brave Search API?
+Why is a credit card required to subscribe to a free plan?
+What other web search API options can the Brave Search API compliment or replace?
+Where does the data come from?
+What are the key benefits of the Brave Search API?
+Does the Brave Search API surface recent events?
+Can I store results retrieved from the Brave Search API?
+What about copyright?
+Does the Brave Search API follow security and privacy best practices?
+USER RESOURCES
+Help center
+Community
+What's new in Brave?
+Release notes
+Status
+FAQs
+Transparency report
+Merch store
+PRIVACY POLICY
+Brave Browser
+Brave Search
+Brave Search RTBF
+Website & email
+Publishers & creators
+Advertisers
+CCPA
+BLOGS
+Brave blog
+Privacy updates
+Web standards
+Research
+Podcast
+FOR BUSINESSES
+Search API
+Brave Ads
+Group policy
+BEGINNER GUIDES
+Intros to browsers, search, & AI
+Intros to Web3
+Privacy glossary
+API glossary
+World Cup Ad Blocker
+DOWNLOADS
+Desktop
+Android
+iOS
+Linux
+Brave Origin
+Beta
+Nightly
+SOCIAL MEDIA
+Reddit
+X (formerly Twitter)
+Brave API on X
+Mastodon
+Bluesky
+Facebook
+YouTube
+COMPANY
+Reviewer's guide
+Brand assets
+Careers
+Events
+GitHub
+Reviews
+Tor Onion address
+More AI features
+WEB3
+Rewards
+Wallet
+Basic Attention Token
+Brave Creators
+Brave Wallet docs
+CONTACT
+SUPPORT
+community.brave.app
+user-support@brave.com
+API SALES
+api-sales@brave.com
+ADVERTISING
+adsales@brave.com
+Please only use this email address if you are interested in purchasing advertising with Brave. For support, please visit community.brave.app.
+BUSINESS
+bizdev@brave.com
+PRESS
+press@brave.com
+legal@brave.com
+OFFICES
+
+Brave San Francisco
+48 2nd St, Floor 3
+San Francisco, CA 94105
+
+CHOOSE A LANGUAGE 
+Bahasa Indonesia
+Deutsch
+English
+Español
+Français
+Italiano
+Nederlands
+Polski
+Português
+Tiếng Việt
+Türkçe
+Русский
+ภาษาไทย
+한국어
+中文 (中国)
+中文 (繁體)
+日本語
+Terms of use | Report a security issue
+© 2015 - 2026 Brave Software, Inc. | All rights reserved

@@ -1,0 +1,206 @@
+Apps & Models
+Use cases
+Developers
+Pricing
+Enterprise
+Sign in
+Sign up
+Sign up
+Contact sales
+Contact sales
+Plans & pricing
+Plans
+API usage costs
+Billing cadence
+Monthly
+Yearly
+Up to 33% off
+Plus plan
+Recommended
+$20
+
+per month, $180 billed annually
+
+2,400 credits/mo
+Choose Plus plan
+Choose Plus plan
+Choose Plus plan
+Private generation
+Unlimited slow credits
+Large generation queue
+Top up credits at any time
+Explore the community gallery
+Pro plan
+$60
+
+per month, $504 billed annually
+
+7,500 credits/mo
+Choose Pro plan
+Choose Pro plan
+Choose Pro plan
+Private generation
+Unlimited slow credits
+Batch Generation
+Quality export
+Largest generation queue
+Top up credits at any time
+Explore the community gallery
+Everything in Plus plan
+Team plan
+$30
+
+per user/month, billed annually
+
+3,600 credits/user/mo
+Choose Team plan
+Choose Team plan
+Choose Team plan
+Central billing and administration
+Collaboration features
+Top up credits at any time
+Largest generation queue
+Everything in Plus plan
+
+*Minimum 2 users
+
+Enterprise
+Contact us
+
+post paid
+
+Custom credit amount
+Contact sales
+Contact sales
+Contact sales
+Private custom models trained on your visual data
+Volume discounts on the API (billed separately)
+Priority customer support
+
+Powering teams at the world's most innovative companies
+
+Comparison table billing cadence
+Monthly
+Yearly
+	
+Free plan
+$0
+Start for free
+Start for free
+	
+Plus plan
+$15/mo
+Choose Plus
+Choose Plus
+	
+Pro plan
+$42/mo
+Choose Pro
+Choose Pro
+	
+Team
+$20/user/mo
+Choose Team
+Choose Team
+	
+Enterprise
+Custom pricing
+Contact sales
+Contact sales
+
+Credits & generations	
+Slow credits	Weekly for eligible accounts	Unlimited	Unlimited	Unlimited	Unlimited with contract
+Priority credits	—	2,400/mo.	7,500/mo.	3,600/user/mo.	Custom
+Running + queued generations	1	8	32	—	—
+Private generations	—				
+Batch generation	—	—			
+Generation queue	—	Large	Largest	Largest	Custom
+Quality export	—				
+Collaboration & admin	
+Seat-based billing	—	—	—		with contract
+Central billing & admin	—	—	—		
+Collaboration features	—	—	—		
+Enterprise add-ons	
+Custom model training	—	—	Limited	Limited	
+Volume API discounts	—	—	—	—	
+Priority support	—	—	—	—	
+Using your credits
+
+Generations use a different number of credits based on the Model and Rendering settings you choose.
+
+Model	Rendering	Credits
+4.5	Very Low (with source images)	0.8 credits / 1 image
+Low	3 credits / 1 image
+Medium	6 credits / 1 image
+High	10 credits / 1 image
+High (with source images)	22 credits / 1 image
+4.0 (2K)	Turbo	3 credits / 1 image
+Balanced	6 credits / 1 image
+Quality	10 credits / 1 image
+3.0**	Turbo	12 credits / 4 images
+Default	24 credits / 4 images
+Quality	36 credits / 4 images
+2a	Turbo	10 credits / 4 images
+Default	16 credits / 4 images
+Quality	24 credits / 4 images
+2.0**	Turbo	20 credits / 4 images
+Default	32 credits / 4 images
+Quality	48 credits / 4 images
+1.0	Turbo	8 credits / 4 images
+Default	24 credits / 4 images
+Upscale 1.0	Default*	6 credits / 1 image
+
+* Only available with paid plans.
+
+** Magic Fill only supported on 2.0 and 3.0.
+
+Frequently asked
+questions
+What are priority credits?
+Priority credits let you generate images instantly. They can only be obtained through paid subscription plans and top-up credit purchases.
+What happens when I run out of priority credits?
+Do my unused priority credits carry over to the next monthly period?
+Can I generate unpublished images?
+Can I delete my images?
+Can I use generated images for commercial purposes?
+How can I update my credit card and billing information?
+Can I cancel my plan?
+How do I upgrade my plan? Will I be double charged?
+What payment methods do you support?
+Does the price include tax?
+Do you offer discounts or free trials?
+
+Current prices loaded.
+
+One platform covers the work from prompt to production.
+
+iPhone app
+Apps
+Ad Resizer
+Background Remover
+Colorways
+Material Swap
+Object Remover
+Models
+Ideogram 4.5
+Ideogram 4.0
+Ideogram 3.0
+P-Image-Ideogram
+Custom Image Models
+Product
+Home
+API
+MCP
+Pricing
+Enterprise
+Careers
+Blog
+Social
+X (Twitter)
+YouTube
+LinkedIn
+Instagram
+TikTok
+Discord
+
+© 2026 Ideogram, Inc. All rights reserved. Terms of Service and Privacy Policy.

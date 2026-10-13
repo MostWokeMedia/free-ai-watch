@@ -1,0 +1,297 @@
+We and our partners use cookies, scripts and certain similar technologies (“Cookies”) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on your browsing habits. You can opt out of certain Cookies through the Cookie Settings link below. See our Privacy Policy.
+
+Cookie settings
+For AI agents: a documentation index is available at the root level at /llms.txt. Append /llms.txt to any URL for a page-level index, or .md for the markdown version of any page.
+
+🚀 Meet Embed 5: Cohere’s most powerful embeddings models yet, now available in Pro and Fast. (Learn more)
+
+docs
+v2 API
+DASHBOARD
+PLAYGROUND
+DOCS
+COMMUNITY
+LOG IN
+Guides and concepts
+API Reference
+Release Notes
+LLMU
+Cookbooks
+Search
+/
+Ask AI
+Skip to navigation
+On this page
+Chat API (per model)
+Other API Endpoints
+Scroll to top
+Going to Production
+Different Types of API Keys and Rate Limits
+Copy page
+
+Cohere offers two kinds of API keys: evaluation keys (free but limited in usage), and production keys (paid and much less limited in usage). You can create a trial or production key on the API keys page. For more details on pricing please see our pricing docs.
+
+Prod keys work like trial keys for newer model variants such as Command A Reasoning. Please contact sales@cohere.com if you intend to use those models in production.
+Trial keys (and prod keys on newer Chat model variants) are limited to 1,000 API calls a month.
+Chat API (per model)
+Model	Trial rate limit	Production rate limit
+Command A+	20 req / min	Contact sales@cohere.com
+Command A Reasoning	20 req / min	Contact sales@cohere.com
+Command A Translate	20 req / min	Contact sales@cohere.com
+Command A Vision	20 req / min	Contact sales@cohere.com
+Command A	20 req / min	500 req / min
+Command R+	20 req / min	500 req / min
+Command R	20 req / min	500 req / min
+Command R7B	20 req / min	500 req / min
+North Mini Code	20 req / min	500 req / min
+Other API Endpoints
+Endpoint	Trial rate limit	Production rate limit
+Audio Transcriptions	5 req / min	Contact sales@cohere.com
+Embed	2,000 inputs / min	2,000 inputs / min
+Embed (Images)	5 inputs / min	400 inputs / min
+EmbedJob	5 req / min	50 req / min
+Rerank	10 req / min	1,000 req / min
+Tokenize	100 req / min	2,000 req / min
+Parse	500 req / min	500 req / min
+Default (anything not covered above)	500 req / min	500 req / min
+
+If you have any questions or want to speak about getting a rate limit increase, reach out to support@cohere.com.
+
+Was this page helpful?
+Yes
+No
+Edit this page
+Previous
+Going Live with a Cohere Model
+Next
+Built with
+Get Started
+Welcome to Cohere
+Cohere Platform
+Overview
+Installation
+Creating a client
+Quickstart
+Playground
+FAQs
+Model Vault
+Overview
+Quickstart
+Deploy & manage
+Operate & observe
+Standard Vault
+Encrypted Vault
+Model Vault with North
+Models
+An Overview of Cohere's Models
+Audio
+Aya
+Command
+Embed
+North
+Rerank
+Parse
+Text Generation
+Introduction to Text Generation at Cohere
+Using the Chat API
+Reasoning
+Image Inputs
+Streaming Responses
+Structured Outputs
+Predictable Outputs
+Advanced Generation Parameters
+Retrieval Augmented Generation (RAG)
+Tool Use
+Tokens and Tokenizers
+Summarizing Text
+Embeddings (Vectors, Search, Retrieval)
+Introduction to Embeddings at Cohere
+Semantic Search with Embeddings
+Multimodal Embeddings
+Batch Embedding Jobs
+Reranking
+Going to Production
+API Keys and Rate Limits
+Going Live
+Deprecations
+How Does Cohere's Pricing Work?
+Integrations
+Integrating Embedding Models with Other Tools
+Cohere and LangChain
+LlamaIndex and Cohere
+Deployment Options
+Overview
+SDK Compatibility
+Private Deployment
+Cloud AI Services
+Tutorials
+Cookbooks
+LLM University
+Build Things with Cohere!
+Agentic RAG
+Cohere on Azure
+Responsible Use
+Cohere Trust Center
+Security
+Usage Policy
+Command A Technical Report
+Command A Translate Technical Report
+North Small Translate Technical Report
+Command R and Command R+ Model Card
+Cohere Web Crawlers
+Cohere Labs
+Cohere Labs Acceptable Use Policy
+More Resources
+Cohere Toolkit
+Datasets
+Improve Cohere Docs
+Welcome to Cohere
+Overview
+Installation
+Creating a client
+RAG
+Reranking
+Semantic Search
+Text Generation
+Tool Use & Agents
+Transcribing Audio
+Document Parsing
+Best Practices
+Playground
+FAQs
+Overview
+Quickstart
+Home Page
+Creating a Vault
+Managing Vaults
+Monitoring
+Overview
+Supported Models
+Calling the API
+Pricing
+Overview
+Supported Models
+Calling the API
+Confidential Computing Primer
+Security Model
+Remote Attestation
+Verifying Your Deployment
+Encryption & Key Management
+Compliance
+Pricing
+FAQ
+Model Vault with North
+An Overview of Cohere's Models
+Cohere Transcribe
+Cohere Transcribe Arabic
+Aya
+Aya Vision
+Aya Expanse
+Tiny Aya
+Command A+
+Command A
+Command A Reasoning
+Command A Translate
+Command A Vision
+Command R7B
+Command R+
+Command R
+Embed
+North Small Translate
+North Mini Code
+Rerank
+Parse
+Introduction to Text Generation at Cohere
+Using the Chat API
+Reasoning
+Image Inputs
+Streaming Responses
+Structured Outputs
+Parameter Types in Structured Outputs (JSON)
+Predictable Outputs
+Advanced Generation Parameters
+Basic usage
+End-to-end example
+Streaming
+Citations
+Tool Use
+Basic usage
+Usage patterns
+Parameter types
+Streaming
+Citations
+Tokens and Tokenizers
+Summarizing Text
+Introduction to Embeddings at Cohere
+Semantic Search with Embeddings
+Multimodal Embeddings
+Batch Embedding Jobs
+Rerank Overview
+Rerank Best Practices
+API Keys and Rate Limits
+Going Live
+Deprecations
+How Does Cohere's Pricing Work?
+Integrating Embedding Models with Other Tools
+Elasticsearch and Cohere
+MongoDB and Cohere
+Redis and Cohere
+Haystack and Cohere
+Pinecone and Cohere
+Weaviate and Cohere
+Open Search and Cohere
+Vespa and Cohere
+Qdrant and Cohere
+Milvus and Cohere
+Zilliz and Cohere
+Chroma and Cohere
+Cohere and LangChain
+Chat on LangChain
+Embed on LangChain
+Rerank on LangChain
+Tools on LangChain
+LlamaIndex and Cohere
+Overview
+SDK Compatibility
+Overview
+Setting Up
+Model Deployment
+Model Deployment - AWS
+Usage
+Cohere on AWS
+Amazon Bedrock
+Amazon SageMaker
+Deploy Your Own Finetuned Command-R-0824 Model from AWS Marketplace
+Cohere on Azure
+Cohere on Oracle Cloud Infrastructure (OCI)
+Cookbooks
+LLM University
+Build Things with Cohere!
+Cohere Text Generation Tutorial
+Building a Chatbot with Cohere
+Semantic Search with Cohere
+Reranking with Cohere
+RAG with Cohere
+Building an Agent with Cohere
+Agentic RAG
+Routing Queries to Data Sources
+Generating Parallel Queries
+Performing Tasks Sequentially
+Generating Multi-Faceted Queries
+Querying Structured Data (Tables)
+Querying Structured Data (SQL)
+Cohere on Azure
+Text Generation
+Semantic Search
+Reranking
+Retrieval Augmented Generation (RAG)
+Tool Use & Agents
+Usage Policy
+Command R and Command R+ Model Card
+Cohere Web Crawlers
+Cohere Labs Acceptable Use Policy
+Cohere Toolkit
+Datasets
+Improve Cohere Docs
+v2 API
+v1 API

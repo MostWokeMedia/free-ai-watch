@@ -1,0 +1,230 @@
+Skip to main content
+Azure
+Explore
+Products
+Solutions
+More
+Learn
+Support
+Contact Sales
+Get started with Azure
+Sign in
+Build in the cloud with Azure for Students for free
+Use your school email to sign up and renew yearly while you’re a student.
+Start free
+Not a student? Get started with Azure
+Overview
+Compare accounts
+Free services
+AI products
+Resources
+FAQ
+Other account types
+OVERVIEW
+Discover what you can create with Azure
+Accelerate learning with Azure tools
+Gain access to industry-leading technology like Azure OpenAI along with extensive resources curated for student developers to accelerate your learning.
+Apply AI and cloud skills in real-world projects
+Engage in interactive exploration and immediate, real-world application development, data science, and cloud computing—at any level.
+No credit card required
+Renew your subscription annually and continue to get free access to Azure as long as you're a student.
+ACCOUNT TYPES
+Choose the Azure account that’s right for you
+Try Azure for Students or Azure for Students Starter—no credit card required.
+Azure for Students
+Available only to full-time university students*
+No credit card required
+Free monthly amounts of 20+ popular services for 12 months (new Azure customers only)
+Free monthly amounts of 65+ always-free services 
+Access to full catalog of services up to free amounts and $100 credit
+Gain access to industry-leading technology like Azure OpenAI along with extensive resources curated for student developers to accelerate your learning
+Engage in interactive exploration and immediate real-world application in development, data science, and cloud computing – at any level
+Renew your subscription annually and continue to get free access to Azure as long as you're a student
+$ 100 credit
+to use on Azure services within 12 months
+Sign up
+Azure for Startups
+Available only to new Azure customers
+$1,000 in Azure credits instantly—no application required
+Unlock up to $5,000 in total credits with business verification
+Credits valid for 90 days (initial) and 180 days (post-verification)
+Access to full Azure catalog up to credit limits
+Spending protection—credit card required only for identity verification and services beyond credit*
+No upfront commitment—cancel anytime. Move to pay-as-you-go pricing after credits expire or are fully used
+Up to $5,000 in Azure credits
+$1,000 available immediately, plus up to $4,000 more after verification
+Get started
+FREE SERVICES
+Create more with access to free products
+Build and create with a host of free products, up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only.
+Popular services
+AI and machine learning
+Hybrid and multicloud
+Compute
+Containers
+Databases
+IoT
+Management and governance
+Always 
+Azure DevOps
+5 users with unlimited private Git repos
+Learn more
+Always
+Azure Speech in Foundry Tools
+0.5 million neural characters per month
+Learn more
+12 months
+Azure Container Registry
+1 Standard tier registry with 100 GB storage and 10 webhooks
+Learn more
+12 months
+Azure Virtual Machines for Linux or Windows
+750 hours each of B1s, B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs
+Learn more
+Always
+Azure Data Catalog
+Unlimited users
+Learn more
+Always
+Azure Data Factory
+5 low-frequency activities
+Learn more
+Always
+Azure SQL Database
+100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage
+Learn more
+Always
+Azure Document Intelligence in Foundry Tools
+500 pages S0 tier
+Learn more
+Back to tabs
+See all free services
+AI PRODUCTS
+Everything you need to build high-quality generative AI at scale
+Use your Azure student account to access powerful AI tools for free and start building today.
+Showing 1-3 of 6 slides
+Previous Slide
+Next Slide
+Azure OpenAI
+Bring reasoning and multimodal versatility to your generative AI experiences with secure, scalable access to the latest OpenAI models, including the o1 and GPT-4 series.
+Learn more
+Microsoft Foundry
+Develop and deploy generative AI apps and APIs responsibly with a comprehensive platform.
+Learn more
+Azure AI Search
+Easily find the information you need when you need it with a state-of-the art retrieval system that uncovers hidden patterns with unparalleled precision.
+Learn more
+Content Safety in Foundry Control Plane
+Maintain a more secure digital presence with safeguards that automatically help mitigate harmful content, protect users, and enhance trust.
+Learn more
+Phi open models
+Get powerful small language models (SLMs) with groundbreaking performance at low cost and low latency.
+Learn more
+Foundry models 
+Experiment with and deploy more than 1,700 foundation models from creators such as Microsoft, OpenAI, Hugging Face, Meta, and Cohere.
+Learn more
+Back to carousel navigation controls
+RESOURCES
+Build your skills for free before you build in Azure
+Showing 1-2 of 6 slides
+Previous Slide
+Next Slide
+Fundamental AI Concepts
+Understand what all the artificial intelligence buzz is about with a module that introduces you to the world of AI.
+Start learning
+Get started with Foundry Tools
+Learn how to provision, secure, monitor, and deploy Foundry Tools resources and use them to build intelligent solutions.
+Start learning
+Develop generative AI apps in Microsoft Foundry
+Understand how to select, deploy, and test various language models, and to improve performance.
+Start learning
+Host a web app with Azure App Service
+Learn how to build and host a web app. Use the programming language of your choice with no need to manage infrastructure.
+Start learning
+Azure Data Fundamentals: Explore relational data
+Learn how to manage relational databases, enabling you to build new applications or migrate existing ones to the cloud.
+Start learning
+Deploy cloud-native apps using Azure Container Apps
+Develop the skills necessary to configure a secure deployment solution for cloud-native apps. Learn how to build, deploy, scale, and manage containerized cloud-native apps.
+See module
+Back to carousel navigation controls
+FAQ
+Frequently asked questions
+Expand all
+Collapse all
+01/
+What happens once I use my $100 free credit?
+02/
+Can I apply my $100 credit toward Azure Marketplace offers?
+03/
+How many Azure for Students accounts am I allowed to sign up for?
+04/
+How do I get my free developer tools?
+05/
+How do I activate and use my Azure student account?
+06/
+What does Azure for Students include?
+07/
+How much is Azure for Students?
+08/
+Can I learn Azure on my own?
+Other account options
+Not a student? Choose the Azure account that’s right for you
+Pay as you go or try Azure free for up to 30 days.
+Get started with Azure
+Explore Azure Portal
+   
+Explore Azure
+What is Azure?
+Get started with Azure
+Global infrastructure
+Datacenter regions
+Trust your cloud
+Azure Essentials
+Customer stories
+Products and pricing
+Products
+Azure pricing
+Free Azure services
+Flexible purchase options
+FinOps on Azure
+Maximize ROI from AI
+Solutions and support
+Solutions
+Resources for accelerating growth
+Solution architectures
+Support
+Azure demo and live Q&A
+Partners
+Software Development Companies
+Microsoft Marketplace
+Find a partner
+Resources
+Documentation
+Blog
+Developer resources
+Students
+Events and Webinars
+Analyst reports, white papers, and e-books
+Videos
+Cloud computing
+What is cloud computing?
+What is multicloud?
+What is machine learning?
+What is deep learning?
+What is AIaaS?
+What are LLMs?
+What is a container?
+What is RAG?
+English (United States)
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap
+Contact Microsoft
+Privacy
+Terms of use
+Trademarks
+Safety & eco
+Recycling
+About our ads
+© Microsoft 2026

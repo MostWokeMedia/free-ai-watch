@@ -1,0 +1,504 @@
+search
+Models
+API
+arrow_drop_down
+login
+Reader
+Convert a URL to LLM-friendly input by prepending r.jina.ai.
+code
+API
+play_arrow
+Demo
+arrow_drop_down
+attach_money
+Pricing
+Reader API
+Convert a URL to LLM-friendly input by prepending r.jina.ai.
+login
+key
+API KEY & BILLING
+code
+USAGE
+more_horiz
+MORE
+home
+speed
+Rate limit
+bug_report
+Raise issue
+help_outline
+FAQ
+menu_book
+Docs
+arrow_drop_down
+ Status
+globe_book
+Use r.jina.ai to read a URL and fetch its content
+travel_explore
+Use s.jina.ai to search the web and get SERP
+Add mcp.jina.ai as your MCP server to use our APIs in LLMs
+Parameters
+arrow_drop_down
+Add API Key for Higher Rate Limit
+Enter your Jina API key to access a higher rate limit. For latest rate limit information, please refer to the table below.
+open_in_new
+LEARN MORE
+Browser Engine (Quality/Speed)
+X-Engine
+Choose the browser engine for fetching the webpage content. This affects the quality, speed, completeness, accessibility of the content.
+open_in_new
+LEARN MORE
+Default
+arrow_drop_down
+Content Format
+Return-Format
+You can control the level of detail in the response to prevent over-filtering. The default pipeline is optimized for most websites and LLM input.
+Default
+arrow_drop_down
+JSON Response
+Accept
+The response will be in JSON format, containing the URL, title, content, and timestamp (if available). In Search mode, it returns a list of five entries, each following the described JSON structure.
+Timeout (seconds)
+X-Timeout
+Maximum time to wait for page load. Increase for slow pages, decrease for simple static pages.
+Token Budget
+X-Token-Budget
+Limits the maximum number of tokens used for this request. Exceeding this limit will cause the request to fail.
+Use jina-ocr-v1
+X-Respond-With
+Uses jina-ocr-v1 to convert images to Markdown, delivering high-quality results on pages and documents with complex structure and content. Costs 40× more tokens!
+open_in_new
+LEARN MORE
+Pagination
+X-Page
+The page to process. Focuses on the specified page of a multi-page document, and only applies when a document such as a PDF is being processed.
+Extract Only (CSS Selector)
+X-Target-Selector
+Only extract content matching these CSS selectors. Example: article, .main-content, #post-body
+Wait For (CSS Selector)
+X-Wait-For-Selector
+Wait until these elements appear before extracting content. Useful for dynamically loaded content.
+Exclude (CSS Selector)
+X-Remove-Selector
+Remove these elements before extraction. Example: nav, footer, .sidebar, #ads
+Remove All Images
+X-Retain-Images
+Strip all images from the output. Reduces token usage when images are not needed.
+OpenAI Citation Format
+X-Retain-Links
+Format links for OpenAI's web browsing tool. Uses special citation markers compatible with GPT models.
+open_in_new
+LEARN MORE
+Links Summary Section
+X-With-Links-Summary
+A "Buttons & Links" section is added at the end. This helps downstream LLMs and web agents navigate the page or take further actions.
+None
+arrow_drop_down
+Images Summary Section
+X-With-Images-Summary
+An "Images" section will be created at the end. This gives the downstream LLMs an overview of all visuals on the page, which may improve reasoning.
+None
+arrow_drop_down
+Browser Viewport Size 
+POST
+viewport
+Set browser window dimensions. Affects responsive layouts and content visibility.
+open_in_new
+LEARN MORE
+Forward Cookie
+X-Set-Cookie
+Our API server can forward your custom cookie settings when accessing the URL, which is useful for pages requiring extra authentication. Note that requests with cookies will not be cached.
+open_in_new
+LEARN MORE
+Image Caption
+X-With-Generated-Alt
+Captions all images at the specified URL, adding 'Image [idx]: [caption]' as an alt tag for those without one. This allows downstream LLMs to interact with the images in activities such as reasoning and summarizing.
+Use a Proxy Server
+X-Proxy-Url
+Our API server can utilize your proxy to access URLs, which is helpful for pages accessible only through specific proxies.
+open_in_new
+LEARN MORE
+Use a Country-Specific Proxy Server
+X-Proxy
+Set country code for location-based proxy server. Use 'auto' for optimal selection or 'none' to disable.
+Bypass Cached Content
+X-No-Cache
+Our API caches URL contents for a certain amount of time. Set it to true to ignore the cached result and fetch the content from the URL directly.
+Cache Tolerance (seconds)
+X-Cache-Tolerance
+Accept cached content if younger than N seconds. Set to 0 for fresh content (same as Bypass Cache), or higher values to allow faster responses from cache.
+Page Ready Timing
+X-Respond-Timing
+When to consider a page fully loaded. Later timings wait longer but capture more dynamic content.
+Default
+arrow_drop_down
+Custom User-Agent
+X-User-Agent
+Override the browser User-Agent string. Useful for accessing sites that require specific browsers or block crawlers.
+Custom Referer
+X-Referer
+Set the HTTP Referer header. Some sites check this to verify traffic comes from expected sources.
+Preserve Base64 Images
+X-Keep-Img-Data-Url
+Keep inline base64-encoded images in markdown output instead of converting them to external URLs.
+Do Not Cache or Track
+DNT
+Prevent this request from being cached or logged on our servers. Use for sensitive URLs.
+GitHub Flavored Markdown
+X-No-Gfm
+Opt in/out features from GFM (GitHub Flavored Markdown).
+Enabled
+arrow_drop_down
+Stream Mode
+Accept
+Stream mode is beneficial for large target pages, allowing more time for the page to fully render. If standard mode results in incomplete content, consider using Stream mode.
+open_in_new
+LEARN MORE
+Customize Browser Locale
+X-Locale
+Control the browser locale to render the page. Lots of websites serve different content based on the locale.
+open_in_new
+LEARN MORE
+Respect robots.txt
+X-Robots-Txt
+Check robots.txt rules before fetching. Specify which bot name to use for the check.
+Include iframe Content
+X-With-Iframe
+Extract content from embedded iframes. Enable for pages with content loaded in iframes.
+Include Shadow DOM
+X-With-Shadow-Dom
+Extract content from Shadow DOM components. Enable for pages using web components.
+Use Final URL as Base
+X-Base
+Resolve relative URLs using the final destination URL after redirects, instead of the original URL.
+Local PDF/HTML file 
+POST
+Use Reader on local PDF and HTML files by uploading them. Only PDF and HTML files are supported. For HTML, also specify a reference URL so related CSS/JS scripts can be parsed correctly.
+upload
+Run JavaScript Before Extraction 
+POST
+Execute custom JS to modify the page before content extraction. Can be inline code or a URL to a script file.
+open_in_new
+LEARN MORE
+Heading Style
+X-Md-Heading-Style
+Sets markdown heading format (passed to Turndown).
+Hash Style
+arrow_drop_down
+Horizontal Rule Style
+X-Md-Hr
+Defines markdown horizontal rule format (passed to Turndown).
+Bullet Point Style
+X-Md-Bullet-List-Marker
+Sets bullet list marker character (passed to Turndown).
+*
+arrow_drop_down
+Emphasis Style
+X-Md-Em-Delimiter
+Defines markdown emphasis delimiter (passed to Turndown).
+_
+arrow_drop_down
+Strong Emphasis Style
+X-Md-Strong-Delimiter
+Sets markdown strong emphasis delimiter (passed to Turndown).
+**
+arrow_drop_down
+Link Style
+X-Md-Link-Style
+Determines markdown link format (passed to Turndown).
+Inline
+arrow_drop_down
+EU Residency 
+Experimental
+When enabled, infrastructure and data processing for this request are located within the EU.
+upload
+Request
+GET
+wrap_text
+content_copy
+Copy
+Bash
+arrow_drop_down
+curl "https://r.jina.ai/https://www.example.com"
+send
+GET RESPONSE
+key
+API key
+visibility_off
+content_copy
+Available tokens
+0 
+sync
+This is your unique key. Store it securely!
+jina-ocr-v1: Faster Document Parsing on Low-Budget GPUs
+A 3.4B mixture-of-experts document parser that activates only 570M parameters per token. It reads a page image and returns Markdown with text, formulas, tables and reading order in a single pass.
+What is Reader?
+Feeding web information into LLMs is an important step of grounding, yet it can be challenging. The simplest method is to scrape the webpage and feed the raw HTML. However, scraping can be complex and often blocked, and raw HTML is cluttered with extraneous elements like markups and scripts. The Reader API addresses these issues by extracting the core content from a URL and converting it into clean, LLM-friendly text, ensuring high-quality input for your agent and RAG systems. The Reader API is developer infrastructure: it converts a URL you supply into LLM-friendly text so you can build your own search, RAG, and agent systems. It is not a consumer search engine and does not index or rank the web on your behalf; you control which URLs are processed and are responsible for how the output is used.
+casino
+Enter your URL
+open_in_new
+Click below to fetch the source code of the page directly
+Reader URL
+content_copy
+open_in_new
+Click below to obtain the content through our Reader API
+download
+FETCH CONTENT
+Raw HTML
+content_copy
+Reader Output
+content_copy
+Pose a Question
+send
+Input a question and combine it with the fetched content for LLM to generate an answer
+Reader for web search and SERP
+Reader can be used as SERP API. It allows you to feed your LLM with the content behind the search results engine page. Simply prepend https://s.jina.ai/?q= to your query, and Reader will search the web and return the top five results with their URLs and contents, each in clean, LLM-friendly text. This way, you can always keep your LLM up-to-date, improve its factuality, and reduce hallucinations.
+casino
+Enter your query
+Type a question that requires latest information or world knowledge.
+Reader URL
+content_copy
+open_in_new
+If you use this URL in code, don't forget to encode the URL.
+contact_support
+ASK LLM W/O & W/ SEARCH GROUNDING
+info Please note that unlike the demo shown above, in practice you do not search the original question on the web for grounding. What people often do is rewrite the original question or use multi-hop questions. They read the retrieved results and then generate additional queries to gather more information as needed before arriving at a final answer.
+Reader also reads images!
+Images on the webpage are automatically captioned using a vision language model in the reader and formatted as image alt tags in the output. This gives your downstream LLM just enough hints to incorporate those images into its reasoning and summarizing processes. This means you can ask questions about the images, select specific ones, or even forward their URLs to a more powerful VLM for deeper analysis!
+Reader also reads PDFs!
+Yes, Reader natively supports PDF reading. It's compatible with most PDFs, including those with many images, and it's lightning fast! Combined with an LLM, you can easily build a ChatPDF or document analysis AI in no time.
+open_in_new
+ORIGINAL PDF
+open_in_new
+READER RESULT
+The best part? It's free!
+Reader API is available for free and offers flexible rate limit and pricing. Built on a scalable infrastructure, it offers high accessibility, concurrency, and reliability. We strive to be your preferred grounding solution for your LLMs.
+Rate limit
+Rate limits are tracked in two ways: RPM (requests per minute) and TPM (tokens per minute). Limits are enforced per IP/API key and will be triggered when either the RPM or TPM threshold is reached first. When you provide an API key in the request header, we track rate limits by key rather than IP address.
+Columns
+arrow_drop_down
+fullscreen
+	Product	API Endpoint	Descriptionarrow_upward	w/o API Keykey_off	w/ Free API Keykey	w/ Paid API Keykey	w/ Premium API Keykey	Average latency	Token Usage Counting	Allowed Request
+
+	Reader API	https://r.jina.ai	Converts a URL to LLM-friendly text	20 RPM	500 RPM	500 RPM	trending_up5000 RPM	7.9s	Count the number of tokens in the output response.	GET/POST
+
+	Reader API	https://s.jina.ai	Search the web and convert results to LLM-friendly text	block	100 RPM	100 RPM	trending_up1000 RPM	2.5s	Every request costs a fixed number of tokens, starting from 10,000 tokens	GET/POST
+
+	Embedding API	https://api.jina.ai/v1/embeddings	Convert text/images to fixed-length vectors	block	100 RPM & 100,000 TPM	500 RPM & 2,000,000 TPM	trending_up5,000 RPM & 50,000,000 TPM	
+ssid_chart
+depends on the input size
+help
+	Count the number of tokens in the input request.	POST
+
+	Reranker API	https://api.jina.ai/v1/rerank	Rank documents by query	block	100 RPM & 100,000 TPM	500 RPM & 2,000,000 TPM	trending_up5,000 RPM & 50,000,000 TPM	
+ssid_chart
+depends on the input size
+help
+	Count the number of tokens in the input request.	POST
+Don't panic! Every new API key comes with 10M free tokens!
+key
+GET YOUR API KEY
+attach_money
+CHECK THE PRICE TABLE
+API Pricing
+API pricing is based on the token usage. One API key gives you access to all search foundation products.
+With Jina Search Foundation API
+The easiest way to access all of our products. Top-up tokens as you go.
+key
+content_copy
+Enter the API key you wish to recharge
+error
+visibility_off
+verified_user
+Top up this API key with more tokens
+Depending on your location, you may be charged in USD, EUR, or other currencies. Taxes may apply.
+Toy Experiment
+10 Million
+Tokens valid for:
+Non-commercial use only (CC-BY-NC).
+Free
+Enjoy your new API key with free tokens.
+Prototype Development
+1 Billion
+Tokens valid for:
+key Standard key
+task_alt Basic key management
+task_alt Technical support
+$50
+0.050 / 1M tokens
+add_shopping_cart
+Production Deployment
+11 Billion
+Tokens valid for:
+key Premium key with much higher rate limits
+task_alt Advanced key management
+task_alt Premium customer support in 24 hours
+task_alt One-hour integration consultation
+$500
+0.045 / 1M tokens
+add_shopping_cart
+Please enter the correct API key to top up.
+speed
+Understand the rate limit
+Rate limits are the maximum number of requests that can be made to an API within a minute per IP address/API key (RPM). Find out more about the rate limits for each product and tier below.
+keyboard_arrow_down
+currency_exchange
+Auto top-up on low token balance
+Recommended for uninterrupted service in production. When your token balance drops below the set threshold, we will automatically recharge your saved payment method for the last purchased package, until the threshold is met.
+info We introduced a new pricing model on May 6th, 2025. If you enabled auto-recharge before this date, you'll continue to pay the old price (the one when you purchased). The new pricing only applies if you modify your auto-recharge settings or purchase a new API key.
+check
+< 1M Tokens
+Top up when
+arrow_drop_down
+FAQ
+What are the costs associated with using the Reader API?
+keyboard_arrow_down
+How does the Reader API function?
+keyboard_arrow_down
+Is the Reader API open source?
+keyboard_arrow_down
+What is the typical latency for the Reader API?
+keyboard_arrow_down
+Why should I use the Reader API instead of scraping the page myself?
+keyboard_arrow_down
+Does the Reader API support multiple languages?
+keyboard_arrow_down
+Does the Reader API respect website access controls?
+keyboard_arrow_down
+Can the Reader API extract content from PDF files?
+keyboard_arrow_down
+Can the Reader API process media content from web pages?
+keyboard_arrow_down
+Is it possible to use the Reader API on local HTML files?
+keyboard_arrow_down
+Does Reader API cache the content?
+keyboard_arrow_down
+Can I use the Reader API to access content behind a login?
+keyboard_arrow_down
+Can I use the Reader API to access PDF on arXiv?
+keyboard_arrow_down
+How does image caption work in Reader?
+keyboard_arrow_down
+What is the scalability of the Reader? Can I use it in production?
+keyboard_arrow_down
+What is the rate limit of the Reader API?
+keyboard_arrow_down
+What is ReaderLM? How can I use it?
+keyboard_arrow_down
+How do I extract structured data from webpages?
+keyboard_arrow_down
+Does Reader actively bypass website anti-bot protection?
+keyboard_arrow_down
+Will upgrading from a free to a paid API key give me access to more websites?
+keyboard_arrow_down
+Can I run Reader inside my own infrastructure?
+keyboard_arrow_down
+How to get my API key?
+What's the rate limit?
+Rate limit
+Rate limits are tracked in two ways: RPM (requests per minute) and TPM (tokens per minute). Limits are enforced per IP/API key and will be triggered when either the RPM or TPM threshold is reached first. When you provide an API key in the request header, we track rate limits by key rather than IP address.
+Columns
+arrow_drop_down
+fullscreen
+	Product	API Endpoint	Descriptionarrow_upward	w/o API Keykey_off	w/ Free API Keykey	w/ Paid API Keykey	w/ Premium API Keykey	Average latency	Token Usage Counting	Allowed Request
+
+	Reader API	https://r.jina.ai	Converts a URL to LLM-friendly text	20 RPM	500 RPM	500 RPM	trending_up5000 RPM	7.9s	Count the number of tokens in the output response.	GET/POST
+
+	Reader API	https://s.jina.ai	Search the web and convert results to LLM-friendly text	block	100 RPM	100 RPM	trending_up1000 RPM	2.5s	Every request costs a fixed number of tokens, starting from 10,000 tokens	GET/POST
+
+	Embedding API	https://api.jina.ai/v1/embeddings	Convert text/images to fixed-length vectors	block	100 RPM & 100,000 TPM	500 RPM & 2,000,000 TPM	trending_up5,000 RPM & 50,000,000 TPM	
+ssid_chart
+depends on the input size
+help
+	Count the number of tokens in the input request.	POST
+
+	Reranker API	https://api.jina.ai/v1/rerank	Rank documents by query	block	100 RPM & 100,000 TPM	500 RPM & 2,000,000 TPM	trending_up5,000 RPM & 50,000,000 TPM	
+ssid_chart
+depends on the input size
+help
+	Count the number of tokens in the input request.	POST
+API-related common questions
+code
+Can I use the same API key across all Jina APIs?
+keyboard_arrow_down
+code
+Can I monitor the token usage of my API key?
+keyboard_arrow_down
+code
+What should I do if I forget my API key?
+keyboard_arrow_down
+code
+Do API keys expire?
+keyboard_arrow_down
+code
+Can I transfer tokens between API keys?
+keyboard_arrow_down
+code
+Can I revoke my API key?
+keyboard_arrow_down
+code
+Why is the first request for some models slow?
+keyboard_arrow_down
+code
+Is my API data used to train your models?
+keyboard_arrow_down
+code
+What are the rate limits for Jina APIs?
+keyboard_arrow_down
+code
+Are there batch size limits for the APIs?
+keyboard_arrow_down
+code
+Are the Jina APIs the same thing as Jina models inside Elastic?
+keyboard_arrow_down
+Billing-related common questions
+attach_money
+Is billing based on the number of sentences or requests?
+keyboard_arrow_down
+attach_money
+Is there a free trial available for new users?
+keyboard_arrow_down
+attach_money
+Are tokens charged for failed requests?
+keyboard_arrow_down
+attach_money
+What payment methods are accepted?
+keyboard_arrow_down
+attach_money
+Is invoicing available for token purchases?
+keyboard_arrow_down
+attach_money
+How do I buy a commercial license rather than API tokens?
+keyboard_arrow_down
+attach_money
+Can I pay by invoice or purchase order instead of card?
+keyboard_arrow_down
+attach_money
+I paid, but my balance or rate limit has not changed. What should I check?
+keyboard_arrow_down
+attach_money
+How do I cancel, stop auto top-up, or remove a saved payment method?
+keyboard_arrow_down
+CURRENT LANGUAGE / THEME
+language
+English / Auto
+SEARCH FOUNDATION
+Reader
+Embeddings
+Reranker
+Get Jina API key
+Rate limit
+ABOUT US
+News
+Download Jina logo
+open_in_new
+Download Elastic logo
+open_in_new
+API Status
+Elastic © 2026.
+Security
+Terms & Conditions
+Privacy
+Manage Cookies
+Do Not Sell or Share My Personal Information
+This website and all associated content, software, products, and services are intended for professional use only. No consumer use is intended or directed.

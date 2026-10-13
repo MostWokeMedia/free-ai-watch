@@ -1,0 +1,302 @@
+We use cookies to improve your experience. You can manage your preferences at any time.
+
+Reject all
+Accept all
+Customize
+Sign in
+Sign up
+The World's Fastest & Cheapest
+Google Search API
+
+Experience unparalleled speed with our industry-leading SERP API, delivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price.
+
+Get 2,500 free queries
+
+No credit card required
+
+🔎
+Search
+📷
+Images
+🗞
+News
+🗺
+Maps
+📍
+Places
+🎥
+Videos
+🛍
+Shopping
+📚
+Scholar
+🔬
+Patents
+🤔
+Autocomplete
+🇺🇸
+en
+Search
+{
+  "knowledgeGraph": {
+    "title": "Google Search",
+    "type": "Website",
+    "website": "https://google.com/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIN-ig-CYut49zgv_OgPnqThWsg2BCotm216cyQrdDuNvi0zzbyEWBA&s=0",
+    "description": "Google Search is a search engine provided and operated by Google. Handling more than 3.5 billion searches per day, it has a 92% share of the global search engine market. It is the most-visited website in the world. Additionally, it is the most...",
+    "descriptionSource": "Wikipedia",
+    "descriptionLink": "https://en.wikipedia.org/wiki/Google_Search",
+    "attributes": {
+      "Written in": "Python, C, and C++",
+      "Category": "Search engine",
+      "Date launched": "1998"
+    }
+  },
+  "organic": [
+    {
+      "title": "Google",
+      "link": "https://www.google.com/?gws_rd=ssl",
+      "snippet": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking ...",
+      "sitelinks": [
+        {
+          "title": "My Activity",
+          "link": "https://myactivity.google.com/"
+        },
+        {
+          "title": "Images",
+          "link": "https://images.google.com/"
+        },
+        {
+          "title": "Photos",
+          "link": "https://www.google.com/photos/about/"
+        },
+        {
+          "title": "Search",
+          "link": "https://www.google.com/search/howsearchworks/"
+        }
+      ],
+      "position": 1
+    },
+    {
+      "title": "Google Search - Stay in the Know with Your Google App",
+      "link": "https://www.google.com/search/about/",
+      "snippet": "Discover keeps you up to date on all your favorite topics. Follow everything from sports teams and movies to celebrities, hobbies, and more. Plus, you can dive ...",
+      "position": 2
+    },
+    {
+      "title": "Google Search Console Tools",
+      "link": "https://search.google.com/search-console/about",
+      "snippet": "Search Console tools and reports help you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results.",
+      "position": 3
+    },
+    {
+      "title": "Google Search Help",
+      "link": "https://support.google.com/websearch/?hl=en",
+      "snippet": "Official Google Search Help Center where you can find tips and tutorials on using Google Search and other answers to frequently asked questions.",
+      "position": 4
+    },
+    {
+      "title": "Google Search - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Google_Search",
+      "snippet": "Google Search is a search engine provided and operated by Google. Handling more than 3.5 billion searches per day, it has a 92% share of the global search ...",
+      "attributes": {
+        "Available in": "149 languages",
+        "URL": "www.google.com"
+      },
+      "position": 5
+    },
+    {
+      "title": "Welcome to My Activity - Google",
+      "link": "https://myactivity.google.com/",
+      "snippet": "Welcome to My Activity. Data helps make Google services more useful for you. Sign in to review and manage your activity, including things you've searched ...",
+      "position": 6
+    },
+    {
+      "title": "Your data in Search - Google Account",
+      "link": "https://myaccount.google.com/intro/yourdata/search?hl=en-US",
+      "snippet": "Your Search history is saved to your Google Account as part of your Web & App Activity, along with activity from other Google services. Signed-out Search ...",
+      "position": 7
+    },
+    {
+      "title": "Google Trends",
+      "link": "https://trends.google.com/trends/",
+      "snippet": "See how Google Trends is being used across the world, by newsrooms, charities, and more. Local Year in Search. Explore searches in your zipcode.",
+      "position": 8
+    },
+    {
+      "title": "What Google Search Isn't Showing You | The New Yorker",
+      "link": "https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you",
+      "snippet": "The search engine has made up so much of our online experience for so long that it can be hard to imagine something better.",
+      "date": "Mar 10, 2022",
+      "position": 9
+    },
+    {
+      "title": "Google",
+      "link": "https://images.google.com/",
+      "snippet": "Google Images. The most comprehensive image search on the web.",
+      "position": 10
+    }
+  ],
+  "peopleAlsoAsk": [
+    {
+      "question": "How do I get Google to search?",
+      "snippet": "Navigate to google.com and type your query into the search box. Then, hit\nsearch. You can filter your results by web page, image, shopping, videos, etc.",
+      "title": "3 Ways to Search Google - wikiHow",
+      "link": "https://www.wikihow.com/Search-Google"
+    },
+    {
+      "question": "Can you find out if you have been Googled?",
+      "snippet": "The most popular site is Google Alerts, but there are others like Mention.com\nthat you can use if you prefer. Google Alerts will prompt you to enter your name\nand any other words relevant to your reputation. You can also enter your name\nand keywords into our free privacy scan on our website.",
+      "title": "How can I know if someone searched my name on Google? - Reputation.ca",
+      "link": "https://www.reputation.ca/how-can-i-know-if-someone-searched-my-name-on-google/"
+    }
+  ],
+  "relatedSearches": [
+    {
+      "query": "Google Search Console login"
+    },
+    {
+      "query": "www.google.com in"
+    },
+    {
+      "query": "Google sign in"
+    },
+    {
+      "query": "Google Search Console"
+    },
+    {
+      "query": "Google Lens"
+    },
+    {
+      "query": "Google Mail"
+    },
+    {
+      "query": "Google Chrome"
+    },
+    {
+      "query": "Google map"
+    }
+  ]
+}
+
+Join the 1,000,000+ companies and developers using Serper API
+
+Simple, Affordable Pricing
+
+Experience the industry's lowest prices with our Google SERP API's top-up model. No monthly subscriptions; simply pay for the credits you need. The more you order, the lower the cost per query. Enjoy prices up to 10 times cheaper than competitors such as SerpAPI and Bright Data.
+
+Starter
+$50*
+
+50k credits ($1.00/1k)
+
+Submit 50,000 queries
+
+50 queries per second
+
+Real-time results
+
+Customize query location
+
+Credits valid for 6 months
+
+Get Started
+Standard
+$375*
+
+500k credits ($0.75/1k)
+
+Submit 500,000 queries
+
+100 queries per second
+
+Real-time results
+
+Customize query location
+
+Credits valid for 6 months
+
+Get Started
+Scale
+$1250*
+
+2.5M credits ($0.50/1k)
+
+Submit 2,500,000 queries
+
+200 queries per second
+
+Real-time results
+
+Customize query location
+
+Credits valid for 6 months
+
+Get Started
+Ultimate
+$3750*
+
+12.5M credits ($0.30/1k)
+
+Submit 12,500,000 queries
+
+300 queries per second
+
+Real-time results
+
+Customize query location
+
+Credits valid for 6 months
+
+Get Started
+
+* Excluding sales tax/VAT/GST
+
+FAQ
+
+How quickly will I receive a result?
+
+How many queries can I submit per second?
+
+Are the queries made in real-time?
+
+Can I customize the search query location?
+
+When are credits deducted?
+
+What payment methods do you accept?
+
+What is your refund policy?
+
+Ready to build?
+
+Unleash the potential of Google Search with our high-performance SERP API. Empower your next AI chatbot, SEO analytics, and fintech projects with lightning-fast access to real-time search results.
+
+Contact us
+Try 2,500 queries for free
+
+The world's fastest and cheapest Google Search API.
+
+Product
+
+Playground
+Dashboard
+Haystack Integration
+Jan AI Integration
+CrewAI Integration
+LangChain Integration
+
+Legal
+
+Terms
+Privacy
+Cookies
+Cookie Settings
+
+Resources
+
+Status page
+Medium
+Twitter
+
+© 2026 Serper.dev. All rights reserved.

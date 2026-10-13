@@ -1,0 +1,390 @@
+Skip to main content
+Azure
+Explore
+Products
+Solutions
+Pricing
+Partners
+More
+Learn
+Contact Sales
+Support
+Sign in
+Build in the cloud with an Azure account
+
+Get started creating, deploying, and managing applications—across multiple clouds, on-premises, and at the edge—with scalable and cost-efficient Azure services.
+Pay as you go
+Try Azure for free
+Compare account types
+Free services
+Resources
+Next steps
+FAQ
+Locations
+Choose the Azure account that’s right for you
+Pay as you go or try Azure free for up to 30 days. There’s no upfront commitment—cancel anytime.
+Pay as you go
+Best for customers ready to start building workloads.
+Free monthly amounts of 20+ popular services for 12 months (new Azure customers only)
+Free monthly amounts of 65+ always-free services
+Access to full catalog of services with no cap on service usage
+Technical support options available
+No upfront commitment—cancel anytime
+No action required to continue beyond 30 days
+Pay only for what you use
+beyond free monthly amounts
+Sign up
+Azure free account
+Best for proof of concept and exploring capabilities.
+Available only to new Azure customers
+Free monthly amounts of 20+ popular services for 12 months (new Azure customers only)
+Free monthly amounts of 65+ always-free services
+Access to full catalog of services up to free amounts and $200 credit
+Spending protection—credit card won’t be charged*
+No upfront commitment—cancel anytime
+Move to pay-as-you-go pricing to continue beyond 30 days or after credit is used up
+$200 credit
+to use on Azure services within 30 days
+Try Azure for free
+[*]
+During the signup verification process, there may be a temporary $1 authorization placed on your card, which will be reversed upon verification.
+FREE SERVICES
+Take advantage of free products
+These products are free up to the specified monthly amounts. Some are always free to all Azure customers, and some are free for 12 months to new customers only.
+Popular
+AI + machine learning
+Hybrid + multicloud
+Compute
+Containers
+Databases
+IoT
+Management and governance
+Always
+Azure DevOps
+5 users with unlimited private Git repos
+Explore the product
+Always
+Azure Speech in Foundry Tools
+0.5 million neural characters per month
+Explore the product
+12 months
+Azure Container Registry
+1 Standard tier registry with 100 GB storage and 10 webhooks
+Explore the product
+12 months
+Azure Virtual Machines for Linux or Windows
+750 hours each of B1s, B2pts v2 (Arm-based), and B2ats v2 (AMD-based) burstable VMs
+Explore the product
+Always
+Azure Data Catalog
+Unlimited users
+Explore the product
+Always
+Azure Data Factory
+5 low-frequency activities
+Explore the product
+Always
+Azure SQL Database
+100,000 vCore seconds of SQL database serverless usage per month with 32 GB of storage
+Explore the product
+Always
+Azure Document Intelligence in Foundry Tools
+500 pages S0 tier
+Explore the product
+Back to tabs
+See all free services
+RESOURCES
+Learn more about Azure
+All
+Videos
+Documentation
+Tools
+Expert help
+next slide
+Previous Slide
+Next Slide
+Documentation
+Learn how to get started
+Follow this developer guide to learn how to start building or migrating applications in Azure.
+Read more
+Tool
+Calculate your costs
+Use the pricing calculator to estimate your monthly costs for using any combination of Azure products.
+Get an estimate
+ Video
+Get more from your Azure free account
+Understand how the Azure free account works and how to get the most benefit from your free account.
+Watch now
+Video
+Manage costs and avoid overspending
+Avoid unexpected charges by learning how to visualize and report on your spending.
+Watch now
+Tool
+Compare support plans
+Explore the available support options and find the plan that best meets your business and budget needs.
+Compare plans
+Tools
+Estimate Microsoft commercial marketplace sales
+Find out how selling your Azure app through the Microsoft commercial marketplace can grow your business.
+Use our calculator
+Expert help
+Connect with a sales specialist
+Chat with or call a sales specialist to get personalized guidance.
+Get in touch
+Expert Help
+Microsoft commercial marketplace support for software development companies
+Join ISV Success for free resources for building and selling your apps through the commercial marketplace, including Azure credits and 1:1 technical consultations.
+Explore ISV Success
+Back to carousel navigation controls
+Back to tabs
+Take the next step
+Get started with pay as you go
+Pay only for what you use beyond free amounts of services.
+Sign up
+Start building on Azure free
+Get free services and a $200 credit to explore Azure for up to 30 days.
+Try Azure for free
+Frequently asked questions
+Expand all
+Collapse all
+01/
+Where can I read the details of the Azure free account and pay-as-you-go pricing?
+02/
+What does it cost to start?
+03/
+How do I get free services?
+04/
+How do free services work with pay-as-you-go pricing?
+05/
+Can the Azure free account be used for production or only for development?
+06/
+If services are free with my Azure free account, what can I do with my $200 credit?
+07/
+How do I know how much of the $200 credit I have left?
+08/
+How do I ensure that I won’t be charged with the Azure free account?
+09/
+What happens after I use my Azure free account $200 credit or I’m at the end of 30 days?
+10/
+What happens to my unused credit if I move to pay as you go before the end of 30 days?
+11/
+What do I need to sign up for an Azure account?
+12/
+Why do I need to provide a credit card or debit card and phone number?
+13/
+Do I need a Microsoft account to sign up for Azure?
+14/
+How does the signup process work using GitHub?
+15/
+What GitHub information will be shared with Microsoft?
+16/
+Can I purchase products or apply any of the $200 credit toward Azure Marketplace offers with an Azure free account?
+17/
+How many Azure free account offers am I allowed to sign up for?
+18/
+Can I use Azure Hybrid Benefit within the Azure free account?
+19/
+Can I spend my Azure free account credit on Azure Spot Virtual Machines?
+20/
+What if I still have questions?
+Is Azure available in my location?
+Azure is commercially available in 140 countries and regions, including those listed below. Azure free account, free services, and $200 credit don’t include sovereign cloud products in US Government, Azure China, and Azure Germany regions.
+Afghanistan
+Albania
+Algeria
+Angola
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belgium
+Belize
+Bermuda
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei Darussalam
+Bulgaria
+Cameroon
+Canada
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Côte d'Ivoire
+Croatia
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Dominican Republic
+
+Ecuador
+Egypt
+El Salvador
+Estonia
+Ethiopia
+Faroe Islands
+Fiji
+Finland
+France
+Georgia
+Germany
+Ghana
+Greece
+Guatemala
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Korea
+Kuwait
+Latvia
+Lebanon
+Libya
+
+ 
+
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia (FYRO)
+Malaysia
+Malta
+Mauritius
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Nigeria
+Norway
+Oman
+Pakistan
+Palestinian Authority
+Panama
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of Cabo Verde
+Republic of the Congo
+Romania
+Rwanda
+Saint Kitts and Nevis
+Saudi Arabia
+Senegal
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Virgin Islands of the United States
+Yemen
+Zambia
+Zimbabwe
+Explore Azure
+What is Azure?
+Get started with Azure
+Global infrastructure
+Datacenter regions
+Trust your cloud
+Azure Essentials
+Customer stories
+Products and pricing
+Products
+Azure pricing
+Free Azure services
+Flexible purchase options
+FinOps on Azure
+Maximize ROI from AI
+Solutions and support
+Solutions
+Resources for accelerating growth
+Solution architectures
+Support
+Azure demo and live Q&A
+Partners
+Software Development Companies
+Microsoft Marketplace
+Find a partner
+Resources
+Documentation
+Blog
+Developer resources
+Students
+Events and Webinars
+Analyst reports, white papers, and e-books
+Videos
+Cloud computing
+What is cloud computing?
+What is multicloud?
+What is machine learning?
+What is deep learning?
+What is AIaaS?
+What are LLMs?
+What is a container?
+What is RAG?
+English (United States)
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap
+Contact Microsoft
+Privacy
+Terms of use
+Trademarks
+Safety & eco
+Recycling
+About our ads
+© Microsoft 2026
+Ask Microsoft​
+Ask questions or make requests to the web AI assistant. Use the text input at the bottom to send messages.
