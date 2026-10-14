@@ -33,9 +33,9 @@ Get started with:
 
 Unlimited API requests
 50,000 monthly active users
-500 MB database size
+500 MB database size
 
-Shared CPU • 500 MB RAM
+Shared CPU • 500 MB RAM
 
 5 GB egress
 
@@ -68,19 +68,19 @@ Everything in the Free Plan, plus:
 
 then $0.00325 per MAU
 
-8 GB disk size per project
+8 GB disk size per project
 
 then $0.125 per GB
 
-250 GB egress
+250 GB egress
 
 then $0.09 per GB
 
-250 GB cached egress
+250 GB cached egress
 
 then $0.03 per GB
 
-100 GB file storage
+100 GB file storage
 
 then $0.0213 per GB
 
@@ -123,7 +123,7 @@ Contact Us
 
 Custom
 
-Designated Support manager
+Technical Account Management
 Uptime SLAs
 Supports AWS PrivateLink
 24×7×365 premium enterprise support

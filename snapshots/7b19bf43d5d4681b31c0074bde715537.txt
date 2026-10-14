@@ -32,7 +32,7 @@ Team & Enterprise
 API
 Monthly
 Yearly
--20% off
+2 months free
 Free
 Free forever.
 For people looking to explore Runway's AI Tools
@@ -128,7 +128,7 @@ and more
 Compare models across plans
 Monthly
 Yearly
--20% off
+2 months free
 Generations per year
 	
 Standard

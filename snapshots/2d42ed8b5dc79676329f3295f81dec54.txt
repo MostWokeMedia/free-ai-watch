@@ -705,21 +705,6 @@ Developer tools
 
 Get help at Appwrite support
 
-Zyte
-About Zyte
-
-Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
-
-Offers
-Offer
-
-1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-
-Tags
-Developer tools
-
-Get help at Zyte support
-
 Sentry
 About Sentry
 
@@ -750,6 +735,21 @@ Tags
 Design
 
 Get help at Icons8 support
+
+Zyte
+About Zyte
+
+Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
+
+Offers
+Offer
+
+1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+
+Tags
+Developer tools
+
+Get help at Zyte support
 
 New Relic
 About New Relic
@@ -816,22 +816,6 @@ Developer tools
 
 Get help at BrowserStack support
 
-Scrimba
-About Scrimba
-
-Scrimba is an interactive learning platform for frontend developers.
-
-Offers
-Offer
-
-Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses.
-
-Tags
-Learn
-Developer tools
-
-Get help at Scrimba support
-
 Polypane
 About Polypane
 
@@ -848,6 +832,21 @@ Developer tools
 
 Get help at Polypane support
 
+IconScout
+About IconScout
+
+IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
+
+Offers
+Offer
+
+Free access to 60 premium icons from selected contributors every month for 1 year.
+
+Tags
+Design
+
+Get help at IconScout support
+
 GitLens
 About GitLens
 
@@ -863,20 +862,36 @@ Developer tools
 
 Get help at GitLens support
 
-IconScout
-About IconScout
+Scrimba
+About Scrimba
 
-IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
+Scrimba is an interactive learning platform for frontend developers.
 
 Offers
 Offer
 
-Free access to 60 premium icons from selected contributors every month for 1 year.
+Level up your coding skills with interactive courses, projects, and challenges. Learn JavaScript, CSS, React, Python, and more. Enjoy 1 month of free access to Full access to Scrimba’s Pro courses, projects, and coding challenges, which includes 40+ courses.
 
 Tags
-Design
+Learn
+Developer tools
 
-Get help at IconScout support
+Get help at Scrimba support
+
+LambdaTest
+About LambdaTest
+
+Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.
+
+Offers
+Offer
+
+Free LambdaTest Live Plan for one year.
+
+Tags
+Developer tools
+
+Get help at LambdaTest support
 
 Visme
 About Visme
@@ -894,36 +909,6 @@ Design
 
 Get help at Visme support
 
-LambdaTest
-About LambdaTest
-
-Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.
-
-Offers
-Offer
-
-Free LambdaTest Live Plan for one year.
-
-Tags
-Developer tools
-
-Get help at LambdaTest support
-
-HazeOver
-About HazeOver
-
-Get focused while working on your projects or studying with HazeOver for Mac.
-
-Offers
-Offer
-
-Free app license, including minor updates.
-
-Tags
-Productivity
-
-Get help at HazeOver support
-
 CodeScene
 About CodeScene
 
@@ -940,6 +925,21 @@ Developer tools
 
 Get help at CodeScene support
 
+HazeOver
+About HazeOver
+
+Get focused while working on your projects or studying with HazeOver for Mac.
+
+Offers
+Offer
+
+Free app license, including minor updates.
+
+Tags
+Productivity
+
+Get help at HazeOver support
+
 Adafruit
 About Adafruit
 
@@ -955,6 +955,21 @@ Internet of Things
 Infrastructure & APIs
 
 Get help at Adafruit support
+
+InterviewCake
+About InterviewCake
+
+Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
+
+Offers
+Offer
+
+Access to the full coding interview prep course for 1 week.
+
+Tags
+Learn
+
+Get help at InterviewCake support
 
 Doppler
 About Doppler
@@ -973,20 +988,19 @@ Developer tools
 
 Get help at Doppler support
 
-InterviewCake
-About InterviewCake
+Octicons
+About Octicons
 
-Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
+Octicons is an open source library created specifically for GitHub's UI.
 
 Offers
 Offer
 
-Access to the full coding interview prep course for 1 week.
+Using Figma designs to build the Octicons icon library
 
 Tags
-Learn
 
-Get help at InterviewCake support
+Get help at Octicons support
 
 AlgoExpert
 About AlgoExpert
@@ -1021,19 +1035,20 @@ Infrastructure & APIs
 
 Get help at ToDiagram support
 
-Octicons
-About Octicons
+GitKraken
+About GitKraken
 
-Octicons is an open source library created specifically for GitHub's UI.
+GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
 
 Offers
 Offer
 
-Using Figma designs to build the Octicons icon library
+The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
 
 Tags
+Developer tools
 
-Get help at Octicons support
+Get help at GitKraken support
 
 Pageclip
 About Pageclip
@@ -1049,6 +1064,21 @@ Tags
 Infrastructure & APIs
 
 Get help at Pageclip support
+
+Blackfire
+About Blackfire
+
+Code performance measurement tool. Find & fix bottlenecks.
+
+Offers
+Offer
+
+Free Developer subscription for students.
+
+Tags
+Security & analytics
+
+Get help at Blackfire support
 
 Travis CI
 About Travis CI
@@ -1066,52 +1096,20 @@ Infrastructure & APIs
 
 Get help at Travis CI support
 
-GitKraken
-About GitKraken
+Tower
+About Tower
 
-GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
+The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
 
 Offers
 Offer
 
-The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+Free license for Tower Pro while you are a student.
 
 Tags
 Developer tools
 
-Get help at GitKraken support
-
-Blackfire
-About Blackfire
-
-Code performance measurement tool. Find & fix bottlenecks.
-
-Offers
-Offer
-
-Free Developer subscription for students.
-
-Tags
-Security & analytics
-
-Get help at Blackfire support
-
-Requestly
-About Requestly
-
-Requestly is an open-source tool for developers to intercept, modify, and mock HTTP requests and responses to build, test, and manage APIs
-
-Offers
-Offer
-
-Requestly Professional plan (worth $270) free for one year.
-
-Tags
-Infrastructure & APIs
-Developer tools
-Cloud
-
-Get help at Requestly support
+Get help at Tower support
 
 Xojo
 About Xojo
@@ -1128,36 +1126,6 @@ Design
 Developer tools
 
 Get help at Xojo support
-
-Imgbot
-About Imgbot
-
-Imgbot is a GitHub App that automatically optimizes your images.
-
-Offers
-Offer
-
-Free image optimization for all your public and private projects while you are a student.
-
-Tags
-Infrastructure & APIs
-
-Get help at Imgbot support
-
-Tower
-About Tower
-
-The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
-
-Offers
-Offer
-
-Free license for Tower Pro while you are a student.
-
-Tags
-Developer tools
-
-Get help at Tower support
 
 AstraSecurity
 About AstraSecurity
@@ -1190,6 +1158,38 @@ Mobile
 
 Get help at WorkingCopy support
 
+Requestly
+About Requestly
+
+Requestly is an open-source tool for developers to intercept, modify, and mock HTTP requests and responses to build, test, and manage APIs
+
+Offers
+Offer
+
+Requestly Professional plan (worth $270) free for one year.
+
+Tags
+Infrastructure & APIs
+Developer tools
+Cloud
+
+Get help at Requestly support
+
+Imgbot
+About Imgbot
+
+Imgbot is a GitHub App that automatically optimizes your images.
+
+Offers
+Offer
+
+Free image optimization for all your public and private projects while you are a student.
+
+Tags
+Infrastructure & APIs
+
+Get help at Imgbot support
+
 GitHub Desktop
 About GitHub Desktop
 
@@ -1204,6 +1204,21 @@ Tags
 Developer tools
 
 Get help at GitHub Desktop support
+
+GoRails
+About GoRails
+
+Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more.
+
+Offers
+Offer
+
+Free access to all videos and lessons for 12 months.
+
+Tags
+Learn
+
+Get help at GoRails support
 
 CARTO
 About CARTO
@@ -1236,21 +1251,6 @@ Marketing
 
 Get help at SimpleAnalytics support
 
-GoRails
-About GoRails
-
-Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more.
-
-Offers
-Offer
-
-Free access to all videos and lessons for 12 months.
-
-Tags
-Learn
-
-Get help at GoRails support
-
 Honeybadger
 About Honeybadger
 
@@ -1281,21 +1281,6 @@ Infrastructure & APIs
 
 Get help at Blockchair support
 
-SQLGate
-About SQLGate
-
-Simple but powerful IDE for multiple SQL databases.
-
-Offers
-Offer
-
-Access to most Standard Subscription features for 1 year.
-
-Tags
-Developer tools
-
-Get help at SQLGate support
-
 PopSQL
 About PopSQL
 
@@ -1325,6 +1310,21 @@ Tags
 Developer tools
 
 Get help at DeepScan support
+
+SQLGate
+About SQLGate
+
+Simple but powerful IDE for multiple SQL databases.
+
+Offers
+Offer
+
+Access to most Standard Subscription features for 1 year.
+
+Tags
+Developer tools
+
+Get help at SQLGate support
 
 POEditor
 About POEditor
@@ -1389,21 +1389,6 @@ Infrastructure & APIs
 
 Get help at Themeisle support
 
-Appfigures
-About Appfigures
-
-App Store analytics, optimization, and intelligence.
-
-Offers
-Offer
-
-"Free access to universal analytics and performance reports for one year.
-
-Tags
-Marketing
-
-Get help at Appfigures support
-
 ConfigCat
 About ConfigCat
 
@@ -1419,6 +1404,21 @@ Developer tools
 Infrastructure & APIs
 
 Get help at ConfigCat support
+
+Appfigures
+About Appfigures
+
+App Store analytics, optimization, and intelligence.
+
+Offers
+Offer
+
+"Free access to universal analytics and performance reports for one year.
+
+Tags
+Marketing
+
+Get help at Appfigures support
 
 Dashlane
 About Dashlane

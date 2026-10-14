@@ -10,6 +10,118 @@
   "date": "2026-10-14",
   "name": "Perplexity Free",
   "type": "page_changed",
+  "detail": "-Ray ID: a4a45b775951917b | +Ray ID: a4a6277cfaa802fe",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a45b2d5d8af2b9 | +Ray ID: a4a62732e8184b39",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Runway Free",
+  "type": "page_changed",
+  "detail": "--20% off | +2 months free | --20% off | +2 months free",
+  "source_url": "https://runwayml.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Claude Free",
+  "type": "page_changed",
+  "detail": "-Developer",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "-Best for trying out ChatGPT | +Intelligence for everyday tasks | -Best for longer conversations | +Expanded access | -Best for advanced work and productivity | +Do more with advanced intelligence",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Lovable Free",
+  "type": "page_changed",
+  "detail": "-We use cookies to enhance your development experience and keep your data secure. Privacy Policy \u00b7 Cookie Policy | +We use cookies to enhance your development experience and keep your data secure. Privacy Policy | +OK | -OK | +Do not sell my data",
+  "source_url": "https://lovable.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Supabase Free",
+  "type": "page_changed",
+  "detail": "-500\u2009MB database size | - | -Shared CPU \u2022 500\u2009MB RAM | +500 MB database size | + | +Shared CPU \u2022 500 MB RAM",
+  "source_url": "https://supabase.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "page_changed",
+  "detail": "-191.3K | +191.4K",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Tavily free plan",
+  "type": "page_changed",
+  "detail": "-Opt out of sale of personal data and Targeted Advertising | +Do Not Sell or Share My Personal Information | -This website uses tracking technologies to enable our website functionalities, to enhance user experience or to analyze performance and traffic. We may also share or sell information about your use of our site with our social media, advertising, and analytics partners. This allows us to pe",
+  "source_url": "https://docs.tavily.com/documentation/api-credits"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+Sentry | +About Sentry | + | +Track errors in every language, framework, and library. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Copilot Free",
+  "type": "page_changed",
+  "detail": "-For getting started with GitHub Copilot. | +For lightweight chats | -Get started | +Start for free | +Access to entry level models | -Access to Haiku 4.5, GPT-5 mini, and more",
+  "source_url": "https://github.com/features/copilot/plans"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Cohere trial key",
+  "type": "page_changed",
+  "detail": "-We and our partners use cookies, scripts and certain similar technologies (\u201cCookies\u201d) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on",
+  "source_url": "https://docs.cohere.com/docs/rate-limits"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Gemini API free tier",
+  "type": "page_changed",
+  "detail": "-Start building free of charge with generous limits, then scale up with prepaid then pay-as-you-go pricing for your production ready applications. | +Start building free of charge with generous limits, then scale up with prepaid and pay-as-you-go pricing for your production-ready applications. | -Last updated 2026-10-13 UTC. | +Last updated 2026-10-14 UTC.",
+  "source_url": "https://ai.google.dev/gemini-api/docs/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
   "detail": "-Ray ID: a4a446ce4aaea21f | +Ray ID: a4a45b775951917b",
   "source_url": "https://www.perplexity.ai/pro"
  },
