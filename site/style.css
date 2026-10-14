@@ -7,3 +7,7 @@ a{color:#a99bff}.filters{display:flex;gap:10px;margin:14px 0;align-items:center;
 .tag{font-size:11px;background:#232a37;padding:2px 6px;border-radius:5px;color:#9aa3b2;margin-left:6px}.no{color:#4ade80}li{margin:8px 0}
 .signup{margin:30px 0;padding:16px;background:#161a22;border-radius:10px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}button{background:#7c5cff;border:0;cursor:pointer}
 footer{max-width:1100px;margin:30px auto;padding:0 24px 30px;color:#6b7383;font-size:13px}
+.signup .hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}.signup .msg{color:#9aa3b2;font-size:13px;width:100%}
+.signup small{color:#9aa3b2;width:100%}th.sort{cursor:pointer;user-select:none}th.sort:hover{color:#fff}
+.badge{font-size:12px;background:#3b2f12;color:#facc15;padding:2px 8px;border-radius:6px;margin-left:8px}
+article{max-width:760px}article h1{font-size:30px}article h2{margin-top:28px}.post-list li{margin:14px 0}.muted{color:#9aa3b2}

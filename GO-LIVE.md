@@ -12,3 +12,12 @@
 11. [ ] Fill sponsor page (pricing + contact email).
 12. [ ] Add analytics (e.g. Cloudflare Web Analytics) for sponsor traffic numbers.
 13. [ ] Launch: Spencer posts drafts/<date>.txt from @freeaiwatch (bot never posts).
+
+## Email digest (added 2026-10-14)
+- Signup form → `functions/api/subscribe.js` (Cloudflare Pages Function). Stores to KV binding **SUBSCRIBERS**; without it, returns 503 "Signups open soon".
+- [ ] Cloudflare dashboard → Storage & Databases → KV → Create namespace `freeaiwatch-subscribers`.
+- [ ] Workers & Pages → freeaiwatch → Settings → Bindings → Add → KV namespace → Variable name `SUBSCRIBERS` → that namespace (Production). Redeploy (push or re-run workflow).
+- [ ] Optional: Settings → Variables and Secrets → add secret `ADMIN_TOKEN` (enables DELETE /api/subscribe?email=… for removals).
+- [ ] To actually send: pick a sender (e.g. Buttondown or Resend), verify freeaiwatch.com sending domain (SPF/DKIM), add a real unsubscribe link, export/sync emails from KV. Weekly draft: `drafts/weekly-YYYY-MM-DD.md` (auto on Mondays).
+## Blog
+- New post: copy `posts/TEMPLATE.md` → `posts/YYYY-MM-DD-slug.md`, write real content, set `status: published`, push.

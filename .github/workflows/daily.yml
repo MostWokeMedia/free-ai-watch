@@ -16,6 +16,8 @@ jobs:
       - run: pip install playwright && python -m playwright install --with-deps chromium
       - run: python scripts/check_sources.py
       - run: python scripts/draft_posts.py
+      - name: Weekly roundup draft (Mondays)
+        run: if [ "$(date -u +%u)" = "1" ]; then python scripts/draft_weekly.py; fi
       - name: Commit updated data, snapshots, drafts
         run: |
           git config user.name "freeaiwatch-bot"; git config user.email "bot@users.noreply.github.com"
