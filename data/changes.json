@@ -10,6 +10,62 @@
   "date": "2026-10-14",
   "name": "Perplexity Free",
   "type": "page_changed",
+  "detail": "-Ray ID: a4a42b16dd1e17c1 | +Ray ID: a4a43395de43c9c1",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Jina Reader",
+  "type": "page_changed",
+  "detail": "+report_problemWe cannot generate an API key because we couldn't verify if you are human. Refreshing the page multiple times may help. If you believe this is a mistake, please contact us with the debug info. | +refresh | +REFRESH | +bug_report | +DEBUG INFO | +CONTACT",
+  "source_url": "https://jina.ai/reader/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a42ac8e9a6a63a | +Ray ID: a4a4334beae16209",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "+$0 | +$8 | +$20 | +$100",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+Appfigures | +About Appfigures | + | +App Store analytics, optimization, and intelligence. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
   "detail": "-Ray ID: a4a4226fab798c45 | +Ray ID: a4a42b16dd1e17c1",
   "source_url": "https://www.perplexity.ai/pro"
  },

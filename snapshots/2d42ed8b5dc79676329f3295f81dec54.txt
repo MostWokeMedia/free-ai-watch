@@ -1373,6 +1373,21 @@ Security & analytics
 
 Get help at DevCycle support
 
+Appfigures
+About Appfigures
+
+App Store analytics, optimization, and intelligence.
+
+Offers
+Offer
+
+"Free access to universal analytics and performance reports for one year.
+
+Tags
+Marketing
+
+Get help at Appfigures support
+
 Themeisle
 About Themeisle
 
@@ -1389,20 +1404,20 @@ Infrastructure & APIs
 
 Get help at Themeisle support
 
-Appfigures
-About Appfigures
+Dashlane
+About Dashlane
 
-App Store analytics, optimization, and intelligence.
+Cloud-based password manager.
 
 Offers
 Offer
 
-"Free access to universal analytics and performance reports for one year.
+Dashlane Premium free for 6 months.
 
 Tags
-Marketing
+Productivity
 
-Get help at Appfigures support
+Get help at Dashlane support
 
 Vaadin
 About Vaadin
@@ -1434,21 +1449,6 @@ Developer tools
 Infrastructure & APIs
 
 Get help at ConfigCat support
-
-Dashlane
-About Dashlane
-
-Cloud-based password manager.
-
-Offers
-Offer
-
-Dashlane Premium free for 6 months.
-
-Tags
-Productivity
-
-Get help at Dashlane support
 
 SymfonyCasts
 About SymfonyCasts
