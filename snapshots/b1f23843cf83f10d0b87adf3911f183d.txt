@@ -207,6 +207,7 @@ Standard
 Batch
 Flex
 Priority
+Contributor
 	Free Tier	Paid Tier, per 1M tokens in USD
 Input price	Not available	$2.00 through November 30, 2026.
 $4.00 starting December 1, 2026.
@@ -232,6 +233,7 @@ Standard
 Batch
 Flex
 Priority
+Contributor
 	Free Tier	Paid Tier, per 1M tokens in USD
 Input price	Free of charge	$0.75 through December 31, 2026.
 $1.50 starting January 1, 2027.
@@ -349,6 +351,7 @@ Standard
 Batch
 Flex
 Priority
+Contributor
 	Free Tier	Paid Tier, per 1M tokens in USD
 Input price	Free of charge	$0.30 (text / image / video / audio)
 Output price (including thinking tokens)	Free of charge	$2.50
@@ -433,6 +436,7 @@ Standard
 Batch
 Flex
 Priority
+Contributor
 	Free Tier	Paid Tier, per 1M tokens in USD
 Input price	Not available	$2.00, prompts <= 200k tokens
 $4.00, prompts > 200k tokens

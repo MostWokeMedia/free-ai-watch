@@ -424,6 +424,21 @@ Infrastructure & APIs
 
 Get help at MongoDB support
 
+Educative
+About Educative
+
+Discover the best learning environment to learn and retain concepts effortlessly. Experience instant coding with browser-based Playgrounds, engage with interactive hands-on labs, and follow guided tutorials for seamless mastery.
+
+Offers
+Offer
+
+Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any subscription they pick!
+
+Tags
+Learn
+
+Get help at Educative support
+
 Camber
 About Camber
 
@@ -440,21 +455,6 @@ Machine Learning & AI
 Cloud
 
 Get help at Camber support
-
-Educative
-About Educative
-
-Discover the best learning environment to learn and retain concepts effortlessly. Experience instant coding with browser-based Playgrounds, engage with interactive hands-on labs, and follow guided tutorials for seamless mastery.
-
-Offers
-Offer
-
-Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any subscription they pick!
-
-Tags
-Learn
-
-Get help at Educative support
 
 Microsoft Azure (for ages 13-17)
 About Microsoft Azure (for ages 13-17)
@@ -534,21 +534,6 @@ Learn
 
 Get help at Microsoft Visual Studio Dev Essentials support
 
-Stripe
-About Stripe
-
-Build web and mobile applications to accept payments, send payouts, and manage your business online with Stripe.
-
-Offers
-Offer
-
-Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.
-
-Tags
-Infrastructure & APIs
-
-Get help at Stripe support
-
 GitHub Pages
 About GitHub Pages
 
@@ -563,6 +548,21 @@ Tags
 Developer tools
 
 Get help at GitHub Pages support
+
+Stripe
+About Stripe
+
+Build web and mobile applications to accept payments, send payouts, and manage your business online with Stripe.
+
+Offers
+Offer
+
+Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.
+
+Tags
+Infrastructure & APIs
+
+Get help at Stripe support
 
 Visual Studio Code
 About Visual Studio Code
@@ -736,6 +736,21 @@ Design
 
 Get help at Icons8 support
 
+Zyte
+About Zyte
+
+Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
+
+Offers
+Offer
+
+1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+
+Tags
+Developer tools
+
+Get help at Zyte support
+
 Deepnote
 About Deepnote
 
@@ -751,21 +766,6 @@ Developer tools
 Machine Learning & AI
 
 Get help at Deepnote support
-
-Zyte
-About Zyte
-
-Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
-
-Offers
-Offer
-
-1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-
-Tags
-Developer tools
-
-Get help at Zyte support
 
 New Relic
 About New Relic
@@ -893,22 +893,6 @@ Developer tools
 
 Get help at LambdaTest support
 
-Visme
-About Visme
-
-The all-in-one platform for creating engaging and interactive presentations, visual documents, data visualizations, short videos and other branded content you can be proud of.
-
-Offers
-Offer
-
-Get 3 free months free access to Visme's Starter plan.
-
-Tags
-Productivity
-Design
-
-Get help at Visme support
-
 CodeScene
 About CodeScene
 
@@ -925,6 +909,22 @@ Developer tools
 
 Get help at CodeScene support
 
+Visme
+About Visme
+
+The all-in-one platform for creating engaging and interactive presentations, visual documents, data visualizations, short videos and other branded content you can be proud of.
+
+Offers
+Offer
+
+Get 3 free months free access to Visme's Starter plan.
+
+Tags
+Productivity
+Design
+
+Get help at Visme support
+
 HazeOver
 About HazeOver
 
@@ -939,6 +939,22 @@ Tags
 Productivity
 
 Get help at HazeOver support
+
+Adafruit
+About Adafruit
+
+Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.
+
+Offers
+Offer
+
+One year of Adafruit IO+ and discounts on selected hardware.
+
+Tags
+Internet of Things
+Infrastructure & APIs
+
+Get help at Adafruit support
 
 Doppler
 About Doppler
@@ -957,22 +973,6 @@ Developer tools
 
 Get help at Doppler support
 
-Adafruit
-About Adafruit
-
-Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.
-
-Offers
-Offer
-
-One year of Adafruit IO+ and discounts on selected hardware.
-
-Tags
-Internet of Things
-Infrastructure & APIs
-
-Get help at Adafruit support
-
 InterviewCake
 About InterviewCake
 
@@ -987,6 +987,21 @@ Tags
 Learn
 
 Get help at InterviewCake support
+
+GitKraken
+About GitKraken
+
+GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
+
+Offers
+Offer
+
+The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+
+Tags
+Developer tools
+
+Get help at GitKraken support
 
 AlgoExpert
 About AlgoExpert
@@ -1017,21 +1032,6 @@ Using Figma designs to build the Octicons icon library
 Tags
 
 Get help at Octicons support
-
-GitKraken
-About GitKraken
-
-GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
-
-Offers
-Offer
-
-The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
-
-Tags
-Developer tools
-
-Get help at GitKraken support
 
 ToDiagram
 About ToDiagram
@@ -1096,21 +1096,6 @@ Infrastructure & APIs
 
 Get help at Pageclip support
 
-Tower
-About Tower
-
-The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
-
-Offers
-Offer
-
-Free license for Tower Pro while you are a student.
-
-Tags
-Developer tools
-
-Get help at Tower support
-
 Xojo
 About Xojo
 
@@ -1142,22 +1127,20 @@ Security & analytics
 
 Get help at AstraSecurity support
 
-Requestly
-About Requestly
+Tower
+About Tower
 
-Requestly is an open-source tool for developers to intercept, modify, and mock HTTP requests and responses to build, test, and manage APIs
+The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
 
 Offers
 Offer
 
-Requestly Professional plan (worth $270) free for one year.
+Free license for Tower Pro while you are a student.
 
 Tags
-Infrastructure & APIs
 Developer tools
-Cloud
 
-Get help at Requestly support
+Get help at Tower support
 
 WorkingCopy
 About WorkingCopy
@@ -1174,6 +1157,23 @@ Developer tools
 Mobile
 
 Get help at WorkingCopy support
+
+Requestly
+About Requestly
+
+Requestly is an open-source tool for developers to intercept, modify, and mock HTTP requests and responses to build, test, and manage APIs
+
+Offers
+Offer
+
+Requestly Professional plan (worth $270) free for one year.
+
+Tags
+Infrastructure & APIs
+Developer tools
+Cloud
+
+Get help at Requestly support
 
 Imgbot
 About Imgbot
@@ -1281,6 +1281,21 @@ Infrastructure & APIs
 
 Get help at Blockchair support
 
+SQLGate
+About SQLGate
+
+Simple but powerful IDE for multiple SQL databases.
+
+Offers
+Offer
+
+Access to most Standard Subscription features for 1 year.
+
+Tags
+Developer tools
+
+Get help at SQLGate support
+
 POEditor
 About POEditor
 
@@ -1297,21 +1312,6 @@ Infrastructure & APIs
 
 Get help at POEditor support
 
-SQLGate
-About SQLGate
-
-Simple but powerful IDE for multiple SQL databases.
-
-Offers
-Offer
-
-Access to most Standard Subscription features for 1 year.
-
-Tags
-Developer tools
-
-Get help at SQLGate support
-
 Codecov
 About Codecov
 
@@ -1327,21 +1327,6 @@ Developer tools
 
 Get help at Codecov support
 
-DeepScan
-About DeepScan
-
-DeepScan is a platform for building better and more reliable JavaScript apps.
-
-Offers
-Offer
-
-Free 6-month trial while you are a student.
-
-Tags
-Developer tools
-
-Get help at DeepScan support
-
 PopSQL
 About PopSQL
 
@@ -1356,6 +1341,21 @@ Tags
 Developer tools
 
 Get help at PopSQL support
+
+DeepScan
+About DeepScan
+
+DeepScan is a platform for building better and more reliable JavaScript apps.
+
+Offers
+Offer
+
+Free 6-month trial while you are a student.
+
+Tags
+Developer tools
+
+Get help at DeepScan support
 
 DevCycle
 About DevCycle
@@ -1373,22 +1373,6 @@ Security & analytics
 
 Get help at DevCycle support
 
-ConfigCat
-About ConfigCat
-
-Learn feature flags with the industry leading feature flag service.
-
-Offers
-Offer
-
-1000 feature flags, ∞ users for free.
-
-Tags
-Developer tools
-Infrastructure & APIs
-
-Get help at ConfigCat support
-
 Themeisle
 About Themeisle
 
@@ -1405,20 +1389,36 @@ Infrastructure & APIs
 
 Get help at Themeisle support
 
-Dashlane
-About Dashlane
+Appfigures
+About Appfigures
 
-Cloud-based password manager.
+App Store analytics, optimization, and intelligence.
 
 Offers
 Offer
 
-Dashlane Premium free for 6 months.
+"Free access to universal analytics and performance reports for one year.
 
 Tags
-Productivity
+Marketing
 
-Get help at Dashlane support
+Get help at Appfigures support
+
+ConfigCat
+About ConfigCat
+
+Learn feature flags with the industry leading feature flag service.
+
+Offers
+Offer
+
+1000 feature flags, ∞ users for free.
+
+Tags
+Developer tools
+Infrastructure & APIs
+
+Get help at ConfigCat support
 
 Vaadin
 About Vaadin
@@ -1435,20 +1435,20 @@ Infrastructure & APIs
 
 Get help at Vaadin support
 
-Appfigures
-About Appfigures
+Dashlane
+About Dashlane
 
-App Store analytics, optimization, and intelligence.
+Cloud-based password manager.
 
 Offers
 Offer
 
-"Free access to universal analytics and performance reports for one year.
+Dashlane Premium free for 6 months.
 
 Tags
-Marketing
+Productivity
 
-Get help at Appfigures support
+Get help at Dashlane support
 
 SymfonyCasts
 About SymfonyCasts

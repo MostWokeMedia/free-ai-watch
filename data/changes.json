@@ -10,6 +10,111 @@
   "date": "2026-10-14",
   "name": "Perplexity Free",
   "type": "page_changed",
+  "detail": "-Ray ID: a4a81c6bde8a4241 | +Ray ID: a4a9d9242d84f09c",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Jina Reader",
+  "type": "page_changed",
+  "detail": "-reorder | +Models | +API | +arrow_drop_down | +login | +key",
+  "source_url": "https://jina.ai/reader/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a81c21d8861697 | +Ray ID: a4a9d8d6ebecf0be",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Runway Free",
+  "type": "page_changed",
+  "detail": "-This website uses cookies | - | -We and our third-party partners use cookies, pixels, and other technologies to collect, record, and share information you provide as well as information about your interactions with our site for ad targeting, analytics, personalization, and site functionality purposes.\u00a0 | - | -By continuing to use the site or by clicking one of the buttons below, you agree to the ",
+  "source_url": "https://runwayml.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Claude Free",
+  "type": "page_changed",
+  "detail": "-Developer",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Modal Starter credits",
+  "type": "page_changed",
+  "detail": "-Series D: $1B in annualized run-rate, new funding, and where Modal goes next. | +Series D: $1B in annualized run rate, new funding, and where Modal goes next.",
+  "source_url": "https://modal.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Pinecone Starter",
+  "type": "page_changed",
+  "detail": "-This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. | +This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: | -Accept | -Deny Non-Essential",
+  "source_url": "https://www.pinecone.io/pricing/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "page_changed",
+  "detail": "-191.5K | +191.6K | +Funding data",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Tavily free plan",
+  "type": "page_changed",
+  "detail": "-Opt out of sale of personal data and Targeted Advertising | +Your Privacy Rights | -This website uses tracking technologies to enable our website functionalities, to enhance user experience or to analyze performance and traffic. We may also share or sell information about your use of our site with our social media, advertising, and analytics partners. This allows us to perform targeted advertisin",
+  "source_url": "https://docs.tavily.com/documentation/api-credits"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+Educative | +About Educative | + | +Discover the best learning environment to learn and retain concepts effortlessly. Experience instant coding with browser-based Playgrounds, engage with interactive hands-on labs, and follow guided tutorials for seamless mastery. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ElevenLabs Free",
+  "type": "page_changed",
+  "detail": "-Your Privacy Choices",
+  "source_url": "https://elevenlabs.io/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Gemini API free tier",
+  "type": "page_changed",
+  "detail": "+Contributor | +Contributor | +Contributor | +Contributor",
+  "source_url": "https://ai.google.dev/gemini-api/docs/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
   "detail": "-Ray ID: a4a6c09d4905d498 | +Ray ID: a4a81c6bde8a4241",
   "source_url": "https://www.perplexity.ai/pro"
  },

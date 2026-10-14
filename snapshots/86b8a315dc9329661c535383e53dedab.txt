@@ -5,7 +5,7 @@ Pricing
 Docs
 Blog
 Playground
-191.5K
+191.6K
 Sign up
 Flexible pricing
 Start for free, then scale as you grow.
@@ -583,6 +583,7 @@ Onboarding
 Lead enrichment
 Fantasy football
 Marketing research
+Funding data
 Resources
 Pricing
 Getting started
