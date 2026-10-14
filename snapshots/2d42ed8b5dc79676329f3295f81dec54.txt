@@ -240,6 +240,21 @@ Domains
 
 Get help at .TECH support
 
+GitHub
+About GitHub
+
+Powerful collaboration, code review, and code management
+
+Offers
+Offer
+
+Free GitHub Pro while you are a student.
+
+Tags
+Developer tools
+
+Get help at GitHub support
+
 Microsoft 365
 About Microsoft 365
 
@@ -256,21 +271,6 @@ Productivity
 
 Get help at Microsoft 365 support
 
-GitHub
-About GitHub
-
-Powerful collaboration, code review, and code management
-
-Offers
-Offer
-
-Free GitHub Pro while you are a student.
-
-Tags
-Developer tools
-
-Get help at GitHub support
-
 Notion
 About Notion
 
@@ -286,21 +286,6 @@ Productivity
 
 Get help at Notion support
 
-DataCamp
-About DataCamp
-
-DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists.
-
-Offers
-Offer
-
-DataCamp has partnered with GitHub Education to offer three months of free access when you sign up for a DataCamp subscription with your GitHub student account.
-
-Tags
-Learn
-
-Get help at DataCamp support
-
 GitHub Copilot
 About GitHub Copilot
 
@@ -315,6 +300,21 @@ Tags
 Machine Learning & AI
 
 Get help at GitHub Copilot support
+
+DataCamp
+About DataCamp
+
+DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists.
+
+Offers
+Offer
+
+DataCamp has partnered with GitHub Education to offer three months of free access when you sign up for a DataCamp subscription with your GitHub student account.
+
+Tags
+Learn
+
+Get help at DataCamp support
 
 Heroku
 About Heroku
@@ -409,21 +409,6 @@ Mobile
 
 Get help at Termius support
 
-Educative
-About Educative
-
-Discover the best learning environment to learn and retain concepts effortlessly. Experience instant coding with browser-based Playgrounds, engage with interactive hands-on labs, and follow guided tutorials for seamless mastery.
-
-Offers
-Offer
-
-Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any subscription they pick!
-
-Tags
-Learn
-
-Get help at Educative support
-
 MongoDB
 About MongoDB
 
@@ -455,6 +440,21 @@ Machine Learning & AI
 Cloud
 
 Get help at Camber support
+
+Educative
+About Educative
+
+Discover the best learning environment to learn and retain concepts effortlessly. Experience instant coding with browser-based Playgrounds, engage with interactive hands-on labs, and follow guided tutorials for seamless mastery.
+
+Offers
+Offer
+
+Dive into 6 months of free access to over 70 practical courses, covering hot topics like Web Development, Python, Java, and Machine Learning. Plus, students enjoy an awesome 30% discount on any subscription they pick!
+
+Tags
+Learn
+
+Get help at Educative support
 
 Microsoft Azure (for ages 13-17)
 About Microsoft Azure (for ages 13-17)
@@ -534,36 +534,6 @@ Learn
 
 Get help at Microsoft Visual Studio Dev Essentials support
 
-Visual Studio Code
-About Visual Studio Code
-
-Microsoft's goal is to empower all students with the best resources and tools as they learn to code.
-
-Offers
-Offer
-
-These coding packs help you download everything you need to start coding in Java, Python, or .NET.
-
-Tags
-Developer tools
-
-Get help at Visual Studio Code support
-
-FrontendMasters
-About FrontendMasters
-
-Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.
-
-Offers
-Offer
-
-Free 6-months access to all courses and workshops.
-
-Tags
-Learn
-
-Get help at FrontendMasters support
-
 Stripe
 About Stripe
 
@@ -579,6 +549,21 @@ Infrastructure & APIs
 
 Get help at Stripe support
 
+Visual Studio Code
+About Visual Studio Code
+
+Microsoft's goal is to empower all students with the best resources and tools as they learn to code.
+
+Offers
+Offer
+
+These coding packs help you download everything you need to start coding in Java, Python, or .NET.
+
+Tags
+Developer tools
+
+Get help at Visual Studio Code support
+
 GitHub Pages
 About GitHub Pages
 
@@ -593,6 +578,21 @@ Tags
 Developer tools
 
 Get help at GitHub Pages support
+
+FrontendMasters
+About FrontendMasters
+
+Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.
+
+Offers
+Offer
+
+Free 6-months access to all courses and workshops.
+
+Tags
+Learn
+
+Get help at FrontendMasters support
 
 Clerk
 About Clerk
@@ -657,22 +657,6 @@ Productivity
 
 Get help at PomoDone support
 
-Bootstrap Studio
-About Bootstrap Studio
-
-Bootstrap Studio is a powerful desktop app for creating responsive websites using the Bootstrap framework.
-
-Offers
-Offer
-
-A free license for Bootstrap Studio while you are a student.
-
-Tags
-Design
-Developer tools
-
-Get help at Bootstrap Studio support
-
 Arduino
 About Arduino
 
@@ -689,20 +673,21 @@ Infrastructure & APIs
 
 Get help at Arduino support
 
-Zyte
-About Zyte
+Bootstrap Studio
+About Bootstrap Studio
 
-Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
+Bootstrap Studio is a powerful desktop app for creating responsive websites using the Bootstrap framework.
 
 Offers
 Offer
 
-1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+A free license for Bootstrap Studio while you are a student.
 
 Tags
+Design
 Developer tools
 
-Get help at Zyte support
+Get help at Bootstrap Studio support
 
 Appwrite
 About Appwrite
@@ -736,6 +721,36 @@ Developer tools
 
 Get help at Sentry support
 
+Zyte
+About Zyte
+
+Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
+
+Offers
+Offer
+
+1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+
+Tags
+Developer tools
+
+Get help at Zyte support
+
+Icons8
+About Icons8
+
+Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.
+
+Offers
+Offer
+
+Free 3-month subscription that includes: icons, photos, illustrations, and music.
+
+Tags
+Design
+
+Get help at Icons8 support
+
 New Relic
 About New Relic
 
@@ -752,21 +767,6 @@ Cloud
 Security & analytics
 
 Get help at New Relic support
-
-Icons8
-About Icons8
-
-Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.
-
-Offers
-Offer
-
-Free 3-month subscription that includes: icons, photos, illustrations, and music.
-
-Tags
-Design
-
-Get help at Icons8 support
 
 Deepnote
 About Deepnote
@@ -801,20 +801,20 @@ Infrastructure & APIs
 
 Get help at LocalStack support
 
-GitLens
-About GitLens
+BrowserStack
+About BrowserStack
 
-GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues.
+Test your web apps with BrowserStack's Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.
 
 Offers
 Offer
 
-The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.
 
 Tags
 Developer tools
 
-Get help at GitLens support
+Get help at BrowserStack support
 
 Scrimba
 About Scrimba
@@ -832,35 +832,20 @@ Developer tools
 
 Get help at Scrimba support
 
-IconScout
-About IconScout
+GitLens
+About GitLens
 
-IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
-
-Offers
-Offer
-
-Free access to 60 premium icons from selected contributors every month for 1 year.
-
-Tags
-Design
-
-Get help at IconScout support
-
-BrowserStack
-About BrowserStack
-
-Test your web apps with BrowserStack's Real Device Cloud, which gives you instant access to 2000+ browsers and real iOS and Android devices.
+GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues.
 
 Offers
 Offer
 
-Free Automate Mobile Plan for 1 parallel and 1 user for 1 year.
+The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student.
 
 Tags
 Developer tools
 
-Get help at BrowserStack support
+Get help at GitLens support
 
 Polypane
 About Polypane
@@ -878,36 +863,20 @@ Developer tools
 
 Get help at Polypane support
 
-LambdaTest
-About LambdaTest
+IconScout
+About IconScout
 
-Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.
-
-Offers
-Offer
-
-Free LambdaTest Live Plan for one year.
-
-Tags
-Developer tools
-
-Get help at LambdaTest support
-
-CodeScene
-About CodeScene
-
-Learn how to write healthier code, pinpoint and manage tech debt and other code quality issues. CodeScene gives you instant feedback on your code and recommendations based on the best coding practices and latest standards. Integrate CodeScene into your pull requests to get automated code reviews, set quality gates and only merge quality code. 25+ programming languages are supported.
+IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
 
 Offers
 Offer
 
-A free Student account to analyze private GitHub repositories.
+Free access to 60 premium icons from selected contributors every month for 1 year.
 
 Tags
-Security & analytics
-Developer tools
+Design
 
-Get help at CodeScene support
+Get help at IconScout support
 
 Visme
 About Visme
@@ -925,21 +894,20 @@ Design
 
 Get help at Visme support
 
-Adafruit
-About Adafruit
+LambdaTest
+About LambdaTest
 
-Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.
+Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.
 
 Offers
 Offer
 
-One year of Adafruit IO+ and discounts on selected hardware.
+Free LambdaTest Live Plan for one year.
 
 Tags
-Internet of Things
-Infrastructure & APIs
+Developer tools
 
-Get help at Adafruit support
+Get help at LambdaTest support
 
 HazeOver
 About HazeOver
@@ -955,6 +923,38 @@ Tags
 Productivity
 
 Get help at HazeOver support
+
+CodeScene
+About CodeScene
+
+Learn how to write healthier code, pinpoint and manage tech debt and other code quality issues. CodeScene gives you instant feedback on your code and recommendations based on the best coding practices and latest standards. Integrate CodeScene into your pull requests to get automated code reviews, set quality gates and only merge quality code. 25+ programming languages are supported.
+
+Offers
+Offer
+
+A free Student account to analyze private GitHub repositories.
+
+Tags
+Security & analytics
+Developer tools
+
+Get help at CodeScene support
+
+Adafruit
+About Adafruit
+
+Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.
+
+Offers
+Offer
+
+One year of Adafruit IO+ and discounts on selected hardware.
+
+Tags
+Internet of Things
+Infrastructure & APIs
+
+Get help at Adafruit support
 
 Doppler
 About Doppler
@@ -973,20 +973,6 @@ Developer tools
 
 Get help at Doppler support
 
-Octicons
-About Octicons
-
-Octicons is an open source library created specifically for GitHub's UI.
-
-Offers
-Offer
-
-Using Figma designs to build the Octicons icon library
-
-Tags
-
-Get help at Octicons support
-
 InterviewCake
 About InterviewCake
 
@@ -1001,22 +987,6 @@ Tags
 Learn
 
 Get help at InterviewCake support
-
-Travis CI
-About Travis CI
-
-Continuous integration platform for open source and private projects
-
-Offers
-Offer
-
-Private builds for free while you're a student.
-
-Tags
-Developer tools
-Infrastructure & APIs
-
-Get help at Travis CI support
 
 AlgoExpert
 About AlgoExpert
@@ -1034,35 +1004,19 @@ Personal Portfolio
 
 Get help at AlgoExpert support
 
-GitKraken
-About GitKraken
+Octicons
+About Octicons
 
-GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
-
-Offers
-Offer
-
-The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
-
-Tags
-Developer tools
-
-Get help at GitKraken support
-
-Pageclip
-About Pageclip
-
-A server for your static websites and HTML forms.
+Octicons is an open source library created specifically for GitHub's UI.
 
 Offers
 Offer
 
-Free basic plan while you are a student.
+Using Figma designs to build the Octicons icon library
 
 Tags
-Infrastructure & APIs
 
-Get help at Pageclip support
+Get help at Octicons support
 
 ToDiagram
 About ToDiagram
@@ -1080,6 +1034,52 @@ Developer tools
 Infrastructure & APIs
 
 Get help at ToDiagram support
+
+Pageclip
+About Pageclip
+
+A server for your static websites and HTML forms.
+
+Offers
+Offer
+
+Free basic plan while you are a student.
+
+Tags
+Infrastructure & APIs
+
+Get help at Pageclip support
+
+Travis CI
+About Travis CI
+
+Continuous integration platform for open source and private projects
+
+Offers
+Offer
+
+Private builds for free while you're a student.
+
+Tags
+Developer tools
+Infrastructure & APIs
+
+Get help at Travis CI support
+
+GitKraken
+About GitKraken
+
+GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
+
+Offers
+Offer
+
+The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+
+Tags
+Developer tools
+
+Get help at GitKraken support
 
 Blackfire
 About Blackfire
@@ -1111,52 +1111,6 @@ Design
 Developer tools
 
 Get help at Xojo support
-
-WorkingCopy
-About WorkingCopy
-
-Powerful Git client for iPhone & iPad.
-
-Offers
-Offer
-
-All Pro features for free while you are a student.
-
-Tags
-Developer tools
-Mobile
-
-Get help at WorkingCopy support
-
-Tower
-About Tower
-
-The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
-
-Offers
-Offer
-
-Free license for Tower Pro while you are a student.
-
-Tags
-Developer tools
-
-Get help at Tower support
-
-GitHub Desktop
-About GitHub Desktop
-
-Reduces frustration and makes Git and GitHub workflows more approachable.
-
-Offers
-Offer
-
-Open Source by GitHub, free for everyone.
-
-Tags
-Developer tools
-
-Get help at GitHub Desktop support
 
 Requestly
 About Requestly
@@ -1190,6 +1144,22 @@ Infrastructure & APIs
 
 Get help at Imgbot support
 
+WorkingCopy
+About WorkingCopy
+
+Powerful Git client for iPhone & iPad.
+
+Offers
+Offer
+
+All Pro features for free while you are a student.
+
+Tags
+Developer tools
+Mobile
+
+Get help at WorkingCopy support
+
 AstraSecurity
 About AstraSecurity
 
@@ -1204,6 +1174,36 @@ Tags
 Security & analytics
 
 Get help at AstraSecurity support
+
+GitHub Desktop
+About GitHub Desktop
+
+Reduces frustration and makes Git and GitHub workflows more approachable.
+
+Offers
+Offer
+
+Open Source by GitHub, free for everyone.
+
+Tags
+Developer tools
+
+Get help at GitHub Desktop support
+
+Tower
+About Tower
+
+The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
+
+Offers
+Offer
+
+Free license for Tower Pro while you are a student.
+
+Tags
+Developer tools
+
+Get help at Tower support
 
 CARTO
 About CARTO
@@ -1251,21 +1251,6 @@ Learn
 
 Get help at GoRails support
 
-DeepScan
-About DeepScan
-
-DeepScan is a platform for building better and more reliable JavaScript apps.
-
-Offers
-Offer
-
-Free 6-month trial while you are a student.
-
-Tags
-Developer tools
-
-Get help at DeepScan support
-
 Honeybadger
 About Honeybadger
 
@@ -1281,20 +1266,20 @@ Security & analytics
 
 Get help at Honeybadger support
 
-PopSQL
-About PopSQL
+Blockchair
+About Blockchair
 
-Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.
+Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.
 
 Offers
 Offer
 
-Free Premium subscription for PopSQL while you're a student.
+100,000 free requests.
 
 Tags
-Developer tools
+Infrastructure & APIs
 
-Get help at PopSQL support
+Get help at Blockchair support
 
 SQLGate
 About SQLGate
@@ -1310,6 +1295,21 @@ Tags
 Developer tools
 
 Get help at SQLGate support
+
+DeepScan
+About DeepScan
+
+DeepScan is a platform for building better and more reliable JavaScript apps.
+
+Offers
+Offer
+
+Free 6-month trial while you are a student.
+
+Tags
+Developer tools
+
+Get help at DeepScan support
 
 POEditor
 About POEditor
@@ -1327,6 +1327,21 @@ Infrastructure & APIs
 
 Get help at POEditor support
 
+PopSQL
+About PopSQL
+
+Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.
+
+Offers
+Offer
+
+Free Premium subscription for PopSQL while you're a student.
+
+Tags
+Developer tools
+
+Get help at PopSQL support
+
 Codecov
 About Codecov
 
@@ -1341,36 +1356,6 @@ Tags
 Developer tools
 
 Get help at Codecov support
-
-Vaadin
-About Vaadin
-
-Best open source Java framework for building Progressive Web Applications.
-
-Offers
-Offer
-
-Free Pro subscription license to access the commercial components and tools.
-
-Tags
-Infrastructure & APIs
-
-Get help at Vaadin support
-
-Blockchair
-About Blockchair
-
-Connect to the world of blockchains through Blockchair’s professional APIs — supports most major cryptocurrencies.
-
-Offers
-Offer
-
-100,000 free requests.
-
-Tags
-Infrastructure & APIs
-
-Get help at Blockchair support
 
 DevCycle
 About DevCycle
@@ -1403,22 +1388,6 @@ Marketing
 
 Get help at Appfigures support
 
-ConfigCat
-About ConfigCat
-
-Learn feature flags with the industry leading feature flag service.
-
-Offers
-Offer
-
-1000 feature flags, ∞ users for free.
-
-Tags
-Developer tools
-Infrastructure & APIs
-
-Get help at ConfigCat support
-
 Themeisle
 About Themeisle
 
@@ -1435,20 +1404,20 @@ Infrastructure & APIs
 
 Get help at Themeisle support
 
-SymfonyCasts
-About SymfonyCasts
+Vaadin
+About Vaadin
 
-Master Symfony and PHP with video tutorials and code challenges.
+Best open source Java framework for building Progressive Web Applications.
 
 Offers
 Offer
 
-Free 3-month subscription for students.
+Free Pro subscription license to access the commercial components and tools.
 
 Tags
-Learn
+Infrastructure & APIs
 
-Get help at SymfonyCasts support
+Get help at Vaadin support
 
 Dashlane
 About Dashlane
@@ -1464,6 +1433,37 @@ Tags
 Productivity
 
 Get help at Dashlane support
+
+ConfigCat
+About ConfigCat
+
+Learn feature flags with the industry leading feature flag service.
+
+Offers
+Offer
+
+1000 feature flags, ∞ users for free.
+
+Tags
+Developer tools
+Infrastructure & APIs
+
+Get help at ConfigCat support
+
+SymfonyCasts
+About SymfonyCasts
+
+Master Symfony and PHP with video tutorials and code challenges.
+
+Offers
+Offer
+
+Free 3-month subscription for students.
+
+Tags
+Learn
+
+Get help at SymfonyCasts support
 
 Footer
 Product

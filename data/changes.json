@@ -1,5 +1,131 @@
 [
  {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
+  "detail": "-Pricing | -Features | -Plans | -Pro | -Max | -Enterprise",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Apps & Models | -Use cases | -Developers | -Pricing | -Enterprise | -Sign in",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Claude Free",
+  "type": "page_changed",
+  "detail": "-Developer | -Claude Code included | +Claude Code | -Claude Code included | +Add to Preferred Sources",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "-$0 | -$8 | -$20 | -$100",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Lovable Free",
+  "type": "page_changed",
+  "detail": "-We use cookies to enhance your development experience and keep your data secure. Privacy Policy \u00b7 Cookie Policy | +We use cookies to enhance your development experience and keep your data secure. Privacy Policy | +OK | -OK | +Do not sell my data",
+  "source_url": "https://lovable.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Supabase Free",
+  "type": "page_changed",
+  "detail": "-111.4K | +111.5K",
+  "source_url": "https://supabase.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "page_changed",
+  "detail": "-191.1K | +191.3K",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Tavily free plan",
+  "type": "page_changed",
+  "detail": "-Opt out of sale of personal data and Targeted Advertising | +Do Not Sell or Share My Personal Information | -This website uses tracking technologies to enable our website functionalities, to enhance user experience or to analyze performance and traffic. We may also share or sell information about your use of our site with our social media, advertising, and analytics partners. This allows us to pe",
+  "source_url": "https://docs.tavily.com/documentation/api-credits"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "AWS Free Tier",
+  "type": "page_changed",
+  "detail": "-Building on AWS? Connect your agent first. | -Agent Toolkit for AWS: live docs, tested runbooks, and best practices so your agent gets AWS right. Free, one prompt. | -Get started free | -Building on AWS? Connect your agent first. | -Agent Toolkit for AWS: live docs, tested runbooks, and best practices so your agent gets AWS right. Free, one prompt. | -Get started free",
+  "source_url": "https://aws.amazon.com/free/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+GitHub | +About GitHub | + | +Powerful collaboration, code review, and code management | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Copilot Free",
+  "type": "page_changed",
+  "detail": "-For getting started with GitHub Copilot. | +For lightweight chats | -Get started | +Start for free | +Access to entry level models | -Access to Haiku 4.5, GPT-5 mini, and more",
+  "source_url": "https://github.com/features/copilot/plans"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ElevenLabs Free",
+  "type": "page_changed",
+  "detail": "+Your Privacy Choices",
+  "source_url": "https://elevenlabs.io/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Cohere trial key",
+  "type": "page_changed",
+  "detail": "-We and our partners use cookies, scripts and certain similar technologies (\u201cCookies\u201d) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on",
+  "source_url": "https://docs.cohere.com/docs/rate-limits"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "OpenRouter free models",
+  "type": "page_changed",
+  "detail": "+ | +Was this page helpful? | + | +Yes | +No",
+  "source_url": "https://openrouter.ai/docs/api-reference/limits"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Gemini API free tier",
+  "type": "page_changed",
+  "detail": "+Long decode | +Gemini 4 Argon | -Gemini 3.8 Flash is now available. Try it out. | +Gemini 4 Argon is now available. Try it out. | +Gemini 4 Argon | +gemini-4-argon",
+  "source_url": "https://ai.google.dev/gemini-api/docs/pricing"
+ },
+ {
   "date": "2026-10-13",
   "name": "Perplexity Free",
   "type": "added",
