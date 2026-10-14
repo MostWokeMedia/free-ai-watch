@@ -2,6 +2,8 @@ name: daily-check-and-deploy
 on:
   schedule: [{cron: "0 12 * * *"}]   # 12:00 UTC = 7:00 AM CT
   workflow_dispatch: {}
+  push:
+    branches: [main]
 permissions: {contents: write}
 jobs:
   run:
