@@ -534,21 +534,6 @@ Learn
 
 Get help at Microsoft Visual Studio Dev Essentials support
 
-Stripe
-About Stripe
-
-Build web and mobile applications to accept payments, send payouts, and manage your business online with Stripe.
-
-Offers
-Offer
-
-Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.
-
-Tags
-Infrastructure & APIs
-
-Get help at Stripe support
-
 GitHub Pages
 About GitHub Pages
 
@@ -563,6 +548,21 @@ Tags
 Developer tools
 
 Get help at GitHub Pages support
+
+Stripe
+About Stripe
+
+Build web and mobile applications to accept payments, send payouts, and manage your business online with Stripe.
+
+Offers
+Offer
+
+Get $25 in Stripe credits to offset fees on products including Stripe Payments, Billing, and more.
+
+Tags
+Infrastructure & APIs
+
+Get help at Stripe support
 
 Visual Studio Code
 About Visual Studio Code
@@ -751,6 +751,22 @@ Developer tools
 
 Get help at Zyte support
 
+Deepnote
+About Deepnote
+
+Deepnote is a new kind of data notebook built for collaboration - Jupyter compatible, works magically in the cloud, and sharing is as easy as sending a link.
+
+Offers
+Offer
+
+Our offer includes free use of the Deepnote Team plan while you are a student. The Deepnote Team Plan includes: Unlimited team members & projects, 30-day version history, unlimited basic machines with up to 5GB RAM and 2vCPU, premium integrations (Snowflake, SQL Server, BigQuery, Redshift, and more), and 30-day revision history.
+
+Tags
+Developer tools
+Machine Learning & AI
+
+Get help at Deepnote support
+
 New Relic
 About New Relic
 
@@ -767,22 +783,6 @@ Cloud
 Security & analytics
 
 Get help at New Relic support
-
-Deepnote
-About Deepnote
-
-Deepnote is a new kind of data notebook built for collaboration - Jupyter compatible, works magically in the cloud, and sharing is as easy as sending a link.
-
-Offers
-Offer
-
-Our offer includes free use of the Deepnote Team plan while you are a student. The Deepnote Team Plan includes: Unlimited team members & projects, 30-day version history, unlimited basic machines with up to 5GB RAM and 2vCPU, premium integrations (Snowflake, SQL Server, BigQuery, Redshift, and more), and 30-day revision history.
-
-Tags
-Developer tools
-Machine Learning & AI
-
-Get help at Deepnote support
 
 LocalStack
 About LocalStack
@@ -832,21 +832,6 @@ Developer tools
 
 Get help at Polypane support
 
-IconScout
-About IconScout
-
-IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
-
-Offers
-Offer
-
-Free access to 60 premium icons from selected contributors every month for 1 year.
-
-Tags
-Design
-
-Get help at IconScout support
-
 GitLens
 About GitLens
 
@@ -861,6 +846,21 @@ Tags
 Developer tools
 
 Get help at GitLens support
+
+IconScout
+About IconScout
+
+IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
+
+Offers
+Offer
+
+Free access to 60 premium icons from selected contributors every month for 1 year.
+
+Tags
+Design
+
+Get help at IconScout support
 
 Scrimba
 About Scrimba
@@ -940,6 +940,21 @@ Productivity
 
 Get help at HazeOver support
 
+InterviewCake
+About InterviewCake
+
+Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
+
+Offers
+Offer
+
+Access to the full coding interview prep course for 1 week.
+
+Tags
+Learn
+
+Get help at InterviewCake support
+
 Adafruit
 About Adafruit
 
@@ -955,21 +970,6 @@ Internet of Things
 Infrastructure & APIs
 
 Get help at Adafruit support
-
-InterviewCake
-About InterviewCake
-
-Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
-
-Offers
-Offer
-
-Access to the full coding interview prep course for 1 week.
-
-Tags
-Learn
-
-Get help at InterviewCake support
 
 Doppler
 About Doppler
@@ -1018,6 +1018,21 @@ Personal Portfolio
 
 Get help at AlgoExpert support
 
+GitKraken
+About GitKraken
+
+GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
+
+Offers
+Offer
+
+The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+
+Tags
+Developer tools
+
+Get help at GitKraken support
+
 ToDiagram
 About ToDiagram
 
@@ -1035,35 +1050,21 @@ Infrastructure & APIs
 
 Get help at ToDiagram support
 
-GitKraken
-About GitKraken
+Travis CI
+About Travis CI
 
-GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
+Continuous integration platform for open source and private projects
 
 Offers
 Offer
 
-The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+Private builds for free while you're a student.
 
 Tags
 Developer tools
-
-Get help at GitKraken support
-
-Pageclip
-About Pageclip
-
-A server for your static websites and HTML forms.
-
-Offers
-Offer
-
-Free basic plan while you are a student.
-
-Tags
 Infrastructure & APIs
 
-Get help at Pageclip support
+Get help at Travis CI support
 
 Blackfire
 About Blackfire
@@ -1080,21 +1081,35 @@ Security & analytics
 
 Get help at Blackfire support
 
-Travis CI
-About Travis CI
+Pageclip
+About Pageclip
 
-Continuous integration platform for open source and private projects
+A server for your static websites and HTML forms.
 
 Offers
 Offer
 
-Private builds for free while you're a student.
+Free basic plan while you are a student.
 
 Tags
-Developer tools
 Infrastructure & APIs
 
-Get help at Travis CI support
+Get help at Pageclip support
+
+AstraSecurity
+About AstraSecurity
+
+Security suite for your website - firewall, malware scanner & managed bug bounty platform.
+
+Offers
+Offer
+
+6 month access to website firewall & malware scanner
+
+Tags
+Security & analytics
+
+Get help at AstraSecurity support
 
 Tower
 About Tower
@@ -1127,37 +1142,6 @@ Developer tools
 
 Get help at Xojo support
 
-AstraSecurity
-About AstraSecurity
-
-Security suite for your website - firewall, malware scanner & managed bug bounty platform.
-
-Offers
-Offer
-
-6 month access to website firewall & malware scanner
-
-Tags
-Security & analytics
-
-Get help at AstraSecurity support
-
-WorkingCopy
-About WorkingCopy
-
-Powerful Git client for iPhone & iPad.
-
-Offers
-Offer
-
-All Pro features for free while you are a student.
-
-Tags
-Developer tools
-Mobile
-
-Get help at WorkingCopy support
-
 Requestly
 About Requestly
 
@@ -1175,20 +1159,21 @@ Cloud
 
 Get help at Requestly support
 
-Imgbot
-About Imgbot
+WorkingCopy
+About WorkingCopy
 
-Imgbot is a GitHub App that automatically optimizes your images.
+Powerful Git client for iPhone & iPad.
 
 Offers
 Offer
 
-Free image optimization for all your public and private projects while you are a student.
+All Pro features for free while you are a student.
 
 Tags
-Infrastructure & APIs
+Developer tools
+Mobile
 
-Get help at Imgbot support
+Get help at WorkingCopy support
 
 GitHub Desktop
 About GitHub Desktop
@@ -1204,6 +1189,21 @@ Tags
 Developer tools
 
 Get help at GitHub Desktop support
+
+Imgbot
+About Imgbot
+
+Imgbot is a GitHub App that automatically optimizes your images.
+
+Offers
+Offer
+
+Free image optimization for all your public and private projects while you are a student.
+
+Tags
+Infrastructure & APIs
+
+Get help at Imgbot support
 
 GoRails
 About GoRails
@@ -1296,6 +1296,21 @@ Developer tools
 
 Get help at PopSQL support
 
+SQLGate
+About SQLGate
+
+Simple but powerful IDE for multiple SQL databases.
+
+Offers
+Offer
+
+Access to most Standard Subscription features for 1 year.
+
+Tags
+Developer tools
+
+Get help at SQLGate support
+
 DeepScan
 About DeepScan
 
@@ -1311,20 +1326,20 @@ Developer tools
 
 Get help at DeepScan support
 
-SQLGate
-About SQLGate
+Codecov
+About Codecov
 
-Simple but powerful IDE for multiple SQL databases.
+Codecov makes it easy to implement code coverage to develop healthier code
 
 Offers
 Offer
 
-Access to most Standard Subscription features for 1 year.
+Free access to Codecov on public and private repositories.
 
 Tags
 Developer tools
 
-Get help at SQLGate support
+Get help at Codecov support
 
 POEditor
 About POEditor
@@ -1341,21 +1356,6 @@ Developer tools
 Infrastructure & APIs
 
 Get help at POEditor support
-
-Codecov
-About Codecov
-
-Codecov makes it easy to implement code coverage to develop healthier code
-
-Offers
-Offer
-
-Free access to Codecov on public and private repositories.
-
-Tags
-Developer tools
-
-Get help at Codecov support
 
 DevCycle
 About DevCycle
