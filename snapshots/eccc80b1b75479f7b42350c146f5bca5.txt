@@ -1,8 +1,5 @@
 search
-Models
-API
-arrow_drop_down
-login
+reorder
 Reader
 Convert a URL to LLM-friendly input by prepending r.jina.ai.
 code
@@ -304,45 +301,16 @@ API Pricing
 API pricing is based on the token usage. One API key gives you access to all search foundation products.
 With Jina Search Foundation API
 The easiest way to access all of our products. Top-up tokens as you go.
-key
 content_copy
 Enter the API key you wish to recharge
 error
 visibility_off
-verified_user
 Top up this API key with more tokens
 Depending on your location, you may be charged in USD, EUR, or other currencies. Taxes may apply.
-Toy Experiment
-10 Million
-Tokens valid for:
-Non-commercial use only (CC-BY-NC).
-Free
-Enjoy your new API key with free tokens.
-Prototype Development
-1 Billion
-Tokens valid for:
-key Standard key
-task_alt Basic key management
-task_alt Technical support
-$50
-0.050 / 1M tokens
-add_shopping_cart
-Production Deployment
-11 Billion
-Tokens valid for:
-key Premium key with much higher rate limits
-task_alt Advanced key management
-task_alt Premium customer support in 24 hours
-task_alt One-hour integration consultation
-$500
-0.045 / 1M tokens
-add_shopping_cart
 Please enter the correct API key to top up.
-speed
 Understand the rate limit
 Rate limits are the maximum number of requests that can be made to an API within a minute per IP address/API key (RPM). Find out more about the rate limits for each product and tier below.
 keyboard_arrow_down
-currency_exchange
 Auto top-up on low token balance
 Recommended for uninterrupted service in production. When your token balance drops below the set threshold, we will automatically recharge your saved payment method for the last purchased package, until the threshold is met.
 info We introduced a new pricing model on May 6th, 2025. If you enabled auto-recharge before this date, you'll continue to pay the old price (the one when you purchased). The new pricing only applies if you modify your auto-recharge settings or purchase a new API key.

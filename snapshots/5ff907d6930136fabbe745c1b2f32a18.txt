@@ -1,8 +1,7 @@
 Skip to main content
-We use cookies to enhance your development experience and keep your data secure. Privacy Policy
-OK
+We use cookies to enhance your development experience and keep your data secure. Privacy Policy · Cookie Policy
 Manage preferences
-Do not sell my data
+OK
 Solutions
 Resources
 Community
@@ -92,6 +91,7 @@ Scheduled deep security scans
 Sensitive data detection and control
 Advanced design systems support
 Git sync data residency
+EU inference
 GitHub Enterprise, cloud or self-hosted
 Private npm registry
 Named CSM, onboarding and deployment

@@ -509,7 +509,7 @@ Whether you’re coding, cramming for an exam, or collaborating with classmates,
 Offers
 Offer
 
-Get 1Password free for a year including 1Password Developer Tools
+Get 1Password free for 2 years, including 1Password Developer Tools
 
 Tags
 Developer tools
@@ -534,21 +534,6 @@ Learn
 
 Get help at Microsoft Visual Studio Dev Essentials support
 
-GitHub Pages
-About GitHub Pages
-
-Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
-
-Offers
-Offer
-
-Get one site per GitHub account and organization, and unlimited project sites.
-
-Tags
-Developer tools
-
-Get help at GitHub Pages support
-
 Stripe
 About Stripe
 
@@ -563,6 +548,21 @@ Tags
 Infrastructure & APIs
 
 Get help at Stripe support
+
+GitHub Pages
+About GitHub Pages
+
+Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+Offers
+Offer
+
+Get one site per GitHub account and organization, and unlimited project sites.
+
+Tags
+Developer tools
+
+Get help at GitHub Pages support
 
 Visual Studio Code
 About Visual Studio Code
@@ -657,22 +657,6 @@ Productivity
 
 Get help at PomoDone support
 
-Arduino
-About Arduino
-
-Empower scientists and artists of the future with creative STEM programs.
-
-Offers
-Offer
-
-Free Arduino Cloud for 6 months and discounts on selected hardware.
-
-Tags
-Internet of Things
-Infrastructure & APIs
-
-Get help at Arduino support
-
 Bootstrap Studio
 About Bootstrap Studio
 
@@ -688,6 +672,22 @@ Design
 Developer tools
 
 Get help at Bootstrap Studio support
+
+Arduino
+About Arduino
+
+Empower scientists and artists of the future with creative STEM programs.
+
+Offers
+Offer
+
+Free Arduino Cloud for 6 months and discounts on selected hardware.
+
+Tags
+Internet of Things
+Infrastructure & APIs
+
+Get help at Arduino support
 
 Appwrite
 About Appwrite
@@ -736,21 +736,6 @@ Design
 
 Get help at Icons8 support
 
-Zyte
-About Zyte
-
-Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
-
-Offers
-Offer
-
-1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-
-Tags
-Developer tools
-
-Get help at Zyte support
-
 Deepnote
 About Deepnote
 
@@ -766,6 +751,21 @@ Developer tools
 Machine Learning & AI
 
 Get help at Deepnote support
+
+Zyte
+About Zyte
+
+Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
+
+Offers
+Offer
+
+1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+
+Tags
+Developer tools
+
+Get help at Zyte support
 
 New Relic
 About New Relic
@@ -940,37 +940,6 @@ Productivity
 
 Get help at HazeOver support
 
-InterviewCake
-About InterviewCake
-
-Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
-
-Offers
-Offer
-
-Access to the full coding interview prep course for 1 week.
-
-Tags
-Learn
-
-Get help at InterviewCake support
-
-Adafruit
-About Adafruit
-
-Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.
-
-Offers
-Offer
-
-One year of Adafruit IO+ and discounts on selected hardware.
-
-Tags
-Internet of Things
-Infrastructure & APIs
-
-Get help at Adafruit support
-
 Doppler
 About Doppler
 
@@ -988,19 +957,36 @@ Developer tools
 
 Get help at Doppler support
 
-Octicons
-About Octicons
+Adafruit
+About Adafruit
 
-Octicons is an open source library created specifically for GitHub's UI.
+Adafruit is an open-source hardware and open-source educational electronics company based in NYC, USA.
 
 Offers
 Offer
 
-Using Figma designs to build the Octicons icon library
+One year of Adafruit IO+ and discounts on selected hardware.
 
 Tags
+Internet of Things
+Infrastructure & APIs
 
-Get help at Octicons support
+Get help at Adafruit support
+
+InterviewCake
+About InterviewCake
+
+Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
+
+Offers
+Offer
+
+Access to the full coding interview prep course for 1 week.
+
+Tags
+Learn
+
+Get help at InterviewCake support
 
 AlgoExpert
 About AlgoExpert
@@ -1017,6 +1003,20 @@ Learn
 Personal Portfolio
 
 Get help at AlgoExpert support
+
+Octicons
+About Octicons
+
+Octicons is an open source library created specifically for GitHub's UI.
+
+Offers
+Offer
+
+Using Figma designs to build the Octicons icon library
+
+Tags
+
+Get help at Octicons support
 
 GitKraken
 About GitKraken
@@ -1050,6 +1050,21 @@ Infrastructure & APIs
 
 Get help at ToDiagram support
 
+Blackfire
+About Blackfire
+
+Code performance measurement tool. Find & fix bottlenecks.
+
+Offers
+Offer
+
+Free Developer subscription for students.
+
+Tags
+Security & analytics
+
+Get help at Blackfire support
+
 Travis CI
 About Travis CI
 
@@ -1066,21 +1081,6 @@ Infrastructure & APIs
 
 Get help at Travis CI support
 
-Blackfire
-About Blackfire
-
-Code performance measurement tool. Find & fix bottlenecks.
-
-Offers
-Offer
-
-Free Developer subscription for students.
-
-Tags
-Security & analytics
-
-Get help at Blackfire support
-
 Pageclip
 About Pageclip
 
@@ -1095,21 +1095,6 @@ Tags
 Infrastructure & APIs
 
 Get help at Pageclip support
-
-AstraSecurity
-About AstraSecurity
-
-Security suite for your website - firewall, malware scanner & managed bug bounty platform.
-
-Offers
-Offer
-
-6 month access to website firewall & malware scanner
-
-Tags
-Security & analytics
-
-Get help at AstraSecurity support
 
 Tower
 About Tower
@@ -1141,6 +1126,21 @@ Design
 Developer tools
 
 Get help at Xojo support
+
+AstraSecurity
+About AstraSecurity
+
+Security suite for your website - firewall, malware scanner & managed bug bounty platform.
+
+Offers
+Offer
+
+6 month access to website firewall & malware scanner
+
+Tags
+Security & analytics
+
+Get help at AstraSecurity support
 
 Requestly
 About Requestly
@@ -1175,21 +1175,6 @@ Mobile
 
 Get help at WorkingCopy support
 
-GitHub Desktop
-About GitHub Desktop
-
-Reduces frustration and makes Git and GitHub workflows more approachable.
-
-Offers
-Offer
-
-Open Source by GitHub, free for everyone.
-
-Tags
-Developer tools
-
-Get help at GitHub Desktop support
-
 Imgbot
 About Imgbot
 
@@ -1220,20 +1205,20 @@ Learn
 
 Get help at GoRails support
 
-CARTO
-About CARTO
+GitHub Desktop
+About GitHub Desktop
 
-An open and powerful platform for spatial data analysis, visualization, and application creation.
+Reduces frustration and makes Git and GitHub workflows more approachable.
 
 Offers
 Offer
 
-Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
+Open Source by GitHub, free for everyone.
 
 Tags
-Infrastructure & APIs
+Developer tools
 
-Get help at CARTO support
+Get help at GitHub Desktop support
 
 SimpleAnalytics
 About SimpleAnalytics
@@ -1250,6 +1235,21 @@ Infrastructure & APIs
 Marketing
 
 Get help at SimpleAnalytics support
+
+CARTO
+About CARTO
+
+An open and powerful platform for spatial data analysis, visualization, and application creation.
+
+Offers
+Offer
+
+Free account upgrades with increased database storage, real time data, Location Data Services Credits, and premium features for 2 years.
+
+Tags
+Infrastructure & APIs
+
+Get help at CARTO support
 
 Honeybadger
 About Honeybadger
@@ -1281,20 +1281,21 @@ Infrastructure & APIs
 
 Get help at Blockchair support
 
-PopSQL
-About PopSQL
+POEditor
+About POEditor
 
-Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.
+POEditor is a highly scalable localization management platform for teams.
 
 Offers
 Offer
 
-Free Premium subscription for PopSQL while you're a student.
+Plus Plan for free for one year.
 
 Tags
 Developer tools
+Infrastructure & APIs
 
-Get help at PopSQL support
+Get help at POEditor support
 
 SQLGate
 About SQLGate
@@ -1311,21 +1312,6 @@ Developer tools
 
 Get help at SQLGate support
 
-DeepScan
-About DeepScan
-
-DeepScan is a platform for building better and more reliable JavaScript apps.
-
-Offers
-Offer
-
-Free 6-month trial while you are a student.
-
-Tags
-Developer tools
-
-Get help at DeepScan support
-
 Codecov
 About Codecov
 
@@ -1341,21 +1327,35 @@ Developer tools
 
 Get help at Codecov support
 
-POEditor
-About POEditor
+DeepScan
+About DeepScan
 
-POEditor is a highly scalable localization management platform for teams.
+DeepScan is a platform for building better and more reliable JavaScript apps.
 
 Offers
 Offer
 
-Plus Plan for free for one year.
+Free 6-month trial while you are a student.
 
 Tags
 Developer tools
-Infrastructure & APIs
 
-Get help at POEditor support
+Get help at DeepScan support
+
+PopSQL
+About PopSQL
+
+Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.
+
+Offers
+Offer
+
+Free Premium subscription for PopSQL while you're a student.
+
+Tags
+Developer tools
+
+Get help at PopSQL support
 
 DevCycle
 About DevCycle
@@ -1373,22 +1373,6 @@ Security & analytics
 
 Get help at DevCycle support
 
-Themeisle
-About Themeisle
-
-Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone.
-
-Offers
-Offer
-
-Free year of Neve Agency WordPress theme exclusively for students.
-
-Tags
-Design
-Infrastructure & APIs
-
-Get help at Themeisle support
-
 ConfigCat
 About ConfigCat
 
@@ -1405,20 +1389,21 @@ Infrastructure & APIs
 
 Get help at ConfigCat support
 
-Appfigures
-About Appfigures
+Themeisle
+About Themeisle
 
-App Store analytics, optimization, and intelligence.
+Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone.
 
 Offers
 Offer
 
-"Free access to universal analytics and performance reports for one year.
+Free year of Neve Agency WordPress theme exclusively for students.
 
 Tags
-Marketing
+Design
+Infrastructure & APIs
 
-Get help at Appfigures support
+Get help at Themeisle support
 
 Dashlane
 About Dashlane
@@ -1449,6 +1434,21 @@ Tags
 Infrastructure & APIs
 
 Get help at Vaadin support
+
+Appfigures
+About Appfigures
+
+App Store analytics, optimization, and intelligence.
+
+Offers
+Offer
+
+"Free access to universal analytics and performance reports for one year.
+
+Tags
+Marketing
+
+Get help at Appfigures support
 
 SymfonyCasts
 About SymfonyCasts
