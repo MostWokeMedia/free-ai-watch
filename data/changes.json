@@ -10,6 +10,76 @@
   "date": "2026-10-14",
   "name": "Perplexity Free",
   "type": "page_changed",
+  "detail": "-Ray ID: a4a4420e1f0f1354 | +Ray ID: a4a446ce4aaea21f",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Jina Reader",
+  "type": "page_changed",
+  "detail": "+report_problemWe cannot generate an API key because we couldn't verify if you are human. Refreshing the page multiple times may help. If you believe this is a mistake, please contact us with the debug info. | +refresh | +REFRESH | +bug_report | +DEBUG INFO | +CONTACT",
+  "source_url": "https://jina.ai/reader/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a441c2180f2f17 | +Ray ID: a4a44682cd7b7816",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "-Intelligence for everyday tasks | - | +Best for trying out ChatGPT | + | +$0 | -Expanded access",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Pinecone Starter",
+  "type": "page_changed",
+  "detail": "-This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: | +This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. | +Accept | +Deny Non-Essential",
+  "source_url": "https://www.pinecone.io/pricing/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "AWS Free Tier",
+  "type": "page_changed",
+  "detail": "-Displaying 1-8 (9) | +Displaying 1-8 (185)",
+  "source_url": "https://aws.amazon.com/free/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+Polypane | +About Polypane | + | +A powerful browser and developer tool that lets developers and designers make better websites and web apps in less time. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
   "detail": "-Ray ID: a4a43a980ad685bc | +Ray ID: a4a4420e1f0f1354",
   "source_url": "https://www.perplexity.ai/pro"
  },

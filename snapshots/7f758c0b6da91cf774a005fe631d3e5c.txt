@@ -1,5 +1,7 @@
-This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link:
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising.
 Cookie Policy
+Accept
+Deny Non-Essential
 Manage Preferences
 Pinecone Bring Your Own Cloud is Now Generally Available - Read the announcement
 Dismiss

@@ -832,21 +832,6 @@ Developer tools
 
 Get help at Scrimba support
 
-GitLens
-About GitLens
-
-GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues.
-
-Offers
-Offer
-
-The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student.
-
-Tags
-Developer tools
-
-Get help at GitLens support
-
 Polypane
 About Polypane
 
@@ -862,6 +847,21 @@ Design
 Developer tools
 
 Get help at Polypane support
+
+GitLens
+About GitLens
+
+GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues.
+
+Offers
+Offer
+
+The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+
+Tags
+Developer tools
+
+Get help at GitLens support
 
 IconScout
 About IconScout
