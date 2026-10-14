@@ -10,6 +10,76 @@
   "date": "2026-10-14",
   "name": "Perplexity Free",
   "type": "page_changed",
+  "detail": "-Ray ID: a4a43395de43c9c1 | +Ray ID: a4a43a980ad685bc",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Jina Reader",
+  "type": "page_changed",
+  "detail": "-report_problemWe cannot generate an API key because we couldn't verify if you are human. Refreshing the page multiple times may help. If you believe this is a mistake, please contact us with the debug info. | -refresh | -REFRESH | -bug_report | -DEBUG INFO | -CONTACT",
+  "source_url": "https://jina.ai/reader/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a4334beae16209 | +Ray ID: a4a43a4d0c838389",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Runway Free",
+  "type": "page_changed",
+  "detail": "-2 months free | +-20% off | -2 months free | +-20% off",
+  "source_url": "https://runwayml.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "-Best for trying out ChatGPT | - | -$0 | +Intelligence for everyday tasks | + | -Best for longer conversations",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "AWS Free Tier",
+  "type": "page_changed",
+  "detail": "-Hi, I can connect you with an AWS representative or answer questions you have on AWS. | -1",
+  "source_url": "https://aws.amazon.com/free/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Copilot Free",
+  "type": "page_changed",
+  "detail": "-For getting started with GitHub Copilot. | +For lightweight chats | -Get started | +Start for free | +Access to entry level models | -Access to Haiku 4.5, GPT-5 mini, and more",
+  "source_url": "https://github.com/features/copilot/plans"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
   "detail": "-Ray ID: a4a42b16dd1e17c1 | +Ray ID: a4a43395de43c9c1",
   "source_url": "https://www.perplexity.ai/pro"
  },
