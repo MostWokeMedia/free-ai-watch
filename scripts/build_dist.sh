@@ -8,4 +8,8 @@ cp _headers dist/
 cp site/style.css site/app.js site/compare.js site/signup.js site/theme.js site/logo.svg site/favicon.svg site/og.png dist/site/
 cp data/offers.json data/changes.json dist/data/
 python3 scripts/build_site.py
+# Cache-bust /site assets (they are cached 1 day): append ?v=<content hash> in every HTML file
+for f in site/style.css site/app.js site/compare.js site/signup.js site/theme.js; do
+  h=$(sha256sum "$f" | cut -c1-10); find dist -name '*.html' -exec sed -i "s#/$f\"#/$f?v=$h\"#g" {} +
+done
 echo "dist/ built: $(find dist -type f | wc -l) files"
