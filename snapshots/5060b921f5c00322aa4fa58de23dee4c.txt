@@ -19,6 +19,7 @@ Read what changed
 (opens in new tab)
 Pricing
 Individual
+Developer
 Team & Enterprise
 API
 Free

@@ -1,0 +1,290 @@
+Cookie Settings
+
+Our website uses some cookies and records your IP address for the purposes of accessibility, security, and managing your access to the telecommunication network. You can disable data collection and cookies by changing your browser settings, but it may affect how this website functions. Learn more
+
+With your consent, JetBrains may also use cookies and your IP address to collect individual statistics and provide you with personalized offers and ads subject to the Privacy Notice and the Terms of Use. JetBrains may use third-party services for this purpose. You can adjust or withdraw your consent at any time by visiting the Opt-Out.
+
+Accept All
+Manage Settings
+Products
+For Business
+Education
+Solutions
+Support
+Pricing
+Academy
+Scholars
+Teams
+Classrooms
+Educators
+Students
+Courses
+JetBrains Student Pack
+Professional developer tools for study and job prep
+
+Whether you need one IDE or the full pack, JetBrains provides flexible ways to learn, build, and grow – free for students.
+
+Apply for a Student Pack
+Explore options
+Choose the approach that’s right for you
+Start with one tool
+
+For students who only need one IDE for a class, a personal project, or the language they’re learning – no student verification required.
+
+Free options for students
+
+IntelliJ IDEA
+
+Java
+
+PyCharm
+
+Python
+
+CLion
+
+C/C++
+
+WebStorm
+
+JavaScript
+
+RustRover
+
+Rust
+
+Rider
+
+C# / .NET
+
+RubyMine
+
+Ruby
+
+DataGrip
+
+SQL
+
+Recommended for students
+Unlock the full Student Pack
+
+For broader access to all JetBrains IDEs, free coding courses, and a JetBrains AI Pro trial – student verification required.
+
+10 JetBrains IDEs – the full versions of IntelliJ IDEA and PyCharm, plus GoLand, PhpStorm, and others.
+
+IntelliJ IDEA
+
+Java
+
+PyCharm
+
+Python
+
+GoLand
+
+Go
+
+PhpStorm
+
+PHP
+
+AI subscription – unlimited code completion, as well as access to AI chat and agents like Codex, Claude Agent, and Junie.
+
+JetBrains AI Pro trial
+
+JetBrains Academy – hands-on coding courses inside your IDE.
+
+Apply for Student Pack
+
+Verify your student status with your university email address, ISIC/ITIC card, or GitHub Student Developer Pack.
+
+Get a head start with professional tools
+
+JetBrains products are trusted by over 300,000 companies – including 88 of the Fortune Global Top 100. Start working with the same tools you'll use in your career.
+
+What students built with JetBrains
+Carlos Orozco
+
+PhD, Software architect
+
+I used IntelliJ IDEA throughout my studies for backend systems and software design projects. The refactoring tools and debugger helped me focus on designing solutions, not fighting the tooling. Those habits carried directly into my work at EPAM and the NASA Space Apps Challenge.
+
+Clinton Omondi
+
+Geospatial engineer
+
+As a geospatial engineering student, I built HealthMapper – a platform to transform healthcare access for Kisumu County. PyCharm's preconfigured Django setup and DataGrip's PostGIS tools turned geospatial challenges into opportunities. Grateful for free pro tools via the Student Pack.
+
+Cynthia Akinyi
+
+Student developer
+
+PyCharm has been more than just an IDE — it has been my companion, my coach, and my stage. Code completion that reads my mind, debugging tools that turn mistakes into lessons, and one-click GitHub pushes that made my projects feel alive. The Student Pack let me explore it all without limits.
+
+Andrés Cabrera
+
+Python student
+
+I've come to realize that the recipe for attracting the attention of potential employers requires two key ingredients: completing code challenges and building up a project portfolio. What's great is that JetBrains Academy caters to both these needs.
+
+Trisha Gupta
+
+DePaul University
+
+I'm not sure I could have written my Master's thesis without JetBrains — PyCharm carried my Python and data work, IntelliJ handled every Java assignment. Every project, every deadline, every 2am debugging session — lived in a JetBrains IDE. The code completion, inspections, and refactoring tools made me feel like a better developer than I probably am. At this point, JetBrains isn't a tool — it's the environment I think in.
+
+1 / 2
+Who can benefit?
+
+No card required
+
+Fast verification with your university email address
+
+Students
+
+Access tools at no cost for the duration of your studies
+
+Requirements:
+
+University email address, ISIC/ITIC card, or GitHub Student Developer Pack.
+Full-time student in a program lasting one year or more.
+Apply
+Renew
+
+Renewed annually in your
+JetBrains Account
+
+Graduates
+
+40% off for two years after graduation
+
+Product
+
+ 
+All Products Pack + AI Pro
+CLion
+DataGrip
+GoLand
+IntelliJ IDEA
+PhpStorm
+PyCharm
+ReSharper
+ReSharper C++
+Rider
+RubyMine
+WebStorm
+dotUltimate
+All Products Pack + AI Pro
+
+$179.40
+
+$299.00
+
+Buy now
+
+Taxes may still be added. The tax rate depends on your country tax rules, entered tax identification number (e.g. VAT ID), and selected purchase method. Prices shown are approximate. Your final price is displayed at checkout.
+
+Teaching a class?
+
+Get access to tools at no cost for you and your students, plus course creation support and LMS integration – all designed to protect student data privacy.
+
+Learn more
+FAQ
+How do I get the free JetBrains Student Pack?
+How do I renew my JetBrains Student Pack for another year?
+I'm a student and work part-time. Can I use my free JetBrains IDE license for my job, apprenticeship, or internship?
+Can I use my JetBrains IDE license for students on multiple computers?
+My institutional email address is not accepted. Can I still apply?
+I am enrolled in an online course, boot camp, or training program. Do I qualify?
+Are there discounts after graduation?
+What AI features are included in the Student Pack?
+I didn’t find the answer to my question. What should I do?
+
+Get the most out of your Student Pack
+
+Subscribe to JetBrains Academy news and tips.
+
+I agree that my personal data will be processed for this purpose.
+Submit
+Follow us
+X
+LinkedIn
+YouTube
+Facebook
+Instagram
+Discord
+Blog
+AI
+JetBrains Air
+Junie
+Air in IDEs
+Air Governance
+Air Teams
+AI News
+Developer Tools
+All Products
+IDEs
+.NET and Visual Studio
+Team Tools
+Plugin Marketplace
+Toolbox App
+Solutions
+Business
+Remote Development
+Game Development
+DevOps
+Initiatives
+Kotlin
+Open Source
+JetBrains Research
+JetBrains Mono
+MPS
+Education
+Students
+Teachers
+Teams
+Course Catalog
+University Programs
+Store
+Plans and Pricing
+All Products Pack
+dotUltimate
+Partners and Resellers
+Customers and Awards
+Support
+Technical Support
+Contact Sales
+Documentation
+JetBrains Account
+Resources
+Blog
+Early Access
+Events and Livestreams
+Newsletters
+Industry Reports
+Inspectopedia
+AI Agents Hub
+Community
+Developer Communities
+Open-Source Partnerships
+Developer Recognition
+Content Creators
+Course Creators
+Company
+About
+Contacts
+Careers
+Brand Assets
+Merchandise
+Trust Center
+United States
+English
+Privacy and Security
+Privacy Notice
+Terms of Use
+Attributions
+Legal
+Genuine Tools
+Opt-Out
+Copyright © 2000-2026 JetBrains s.r.o.
+Developed with drive and IntelliJ IDEA
