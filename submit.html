@@ -1,0 +1,20 @@
+<!--HEAD:Submit a deal — FreeAIWatch|Tell us about a free AI tier, credit or promo. Every submission is reviewed and verified on the official page before it is listed.|/submit-->
+<!--HEADER:submit-->
+<main class="narrow">
+<p class="eyebrow">Community</p>
+<h2 class="page-title">Submit a deal</h2>
+<p class="muted lead">Found a free tier, credit grant or time-limited promo we're missing? Send it in. A person reviews every submission and checks it against the provider's official page. Nothing is published automatically.</p>
+<form class="card form" data-endpoint="/api/submit" novalidate>
+  <label>Tool name <span class="req">*</span><input name="tool" required maxlength="100" placeholder="e.g. Example AI"></label>
+  <label>Offer <span class="req">*</span><textarea name="offer" required maxlength="1000" rows="4" placeholder="What's free or discounted, how much, and any conditions"></textarea></label>
+  <label>Link to the official source <span class="req">*</span><input name="source_url" type="url" required maxlength="500" placeholder="https://example.com/pricing"><small class="muted">The provider's own pricing, docs or announcement page. No affiliate or shortened links.</small></label>
+  <label>Deadline <small class="muted">(if the offer ends)</small><input name="deadline" type="date"></label>
+  <label>Your email <small class="muted">(optional, only used to tell you if it's listed)</small><input name="email" type="email" maxlength="254" placeholder="you@example.com"></label>
+  <label class="hp" aria-hidden="true">Leave blank<input name="website" tabindex="-1" autocomplete="off"></label>
+  <button type="submit">Submit for review</button>
+  <p class="msg" role="status" aria-live="polite"></p>
+</form>
+<p class="muted small">Submissions are stored privately for review, rate-limited, and never shown on the site as submitted. Listed offers always link to the official source.</p>
+</main>
+<!--FOOTER-->
+<script src="/site/forms.js"></script>
