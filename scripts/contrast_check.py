@@ -7,7 +7,7 @@ def lum(h):
     return .2126 * c[0] + .7152 * c[1] + .0722 * c[2]
 def ratio(a, b): A, B = sorted([lum(a), lum(b)], reverse=True); return (A + .05) / (B + .05)
 pairs = [("text","bg",4.5),("text","surface",4.5),("text","surface-2",4.5),("muted","bg",4.5),("muted","surface",4.5),("muted","surface-2",4.5),
-         ("link","bg",4.5),("link","surface",4.5),("link","sponsor-bg",4.5),("text","sponsor-bg",4.5),("success","surface",4.5),("success","surface-2",4.5),
+         ("link","bg",4.5),("link","surface",4.5),("link","sponsor-bg",4.5),("link","accent-bg",4.5),("text","accent-bg",4.5),("muted","accent-bg",4.5),("success","accent-bg",4.5),("text","sponsor-bg",4.5),("success","surface",4.5),("success","surface-2",4.5),
          ("on-primary","primary",4.5),("badge-text","badge-bg",4.5),("primary","surface",3.0),("logo-ring","bg",3.0),("logo-dot","bg",3.0)]
 bad = 0
 for name, sel in [("light", r":root,\[data-theme=light\]"), ("dark", r"\[data-theme=dark\]")]:

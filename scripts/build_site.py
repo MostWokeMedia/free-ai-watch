@@ -16,7 +16,7 @@ def head(title, desc, path):
             f'<meta name="description" content="{d}"><link rel="icon" href="/site/favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://freeaiwatch.com{path}">'
             f'<meta property="og:type" content="website"><meta property="og:url" content="https://freeaiwatch.com{path}"><meta property="og:title" content="{t}"><meta property="og:description" content="{d}">'
             f'<meta property="og:image" content="https://freeaiwatch.com/site/og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@freeaiwatch">'
-            f'<link rel="stylesheet" href="/site/style.css"></head><body>')
+            f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Funnel+Sans:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap"><link rel="stylesheet" href="/site/style.css"></head><body>')
 def header(active):
     links = [("/#all", "All offers", "all"), ("/#today", "Today", "today"), ("/#ending", "Ending soon", "ending"), ("/compare", "Compare", "compare"), ("/blog", "Blog", "blog"), ("/#sponsor", "Sponsor", "sponsor")]
     nav = "".join(f'<a href="{h}"{" class=on" if k == active else ""}>{n}</a>' for h, n, k in links)
