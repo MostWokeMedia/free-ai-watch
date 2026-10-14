@@ -549,21 +549,6 @@ Infrastructure & APIs
 
 Get help at Stripe support
 
-Visual Studio Code
-About Visual Studio Code
-
-Microsoft's goal is to empower all students with the best resources and tools as they learn to code.
-
-Offers
-Offer
-
-These coding packs help you download everything you need to start coding in Java, Python, or .NET.
-
-Tags
-Developer tools
-
-Get help at Visual Studio Code support
-
 GitHub Pages
 About GitHub Pages
 
@@ -578,6 +563,21 @@ Tags
 Developer tools
 
 Get help at GitHub Pages support
+
+Visual Studio Code
+About Visual Studio Code
+
+Microsoft's goal is to empower all students with the best resources and tools as they learn to code.
+
+Offers
+Offer
+
+These coding packs help you download everything you need to start coding in Java, Python, or .NET.
+
+Tags
+Developer tools
+
+Get help at Visual Studio Code support
 
 Clerk
 About Clerk
@@ -705,6 +705,21 @@ Developer tools
 
 Get help at Appwrite support
 
+Zyte
+About Zyte
+
+Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
+
+Offers
+Offer
+
+1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
+
+Tags
+Developer tools
+
+Get help at Zyte support
+
 Sentry
 About Sentry
 
@@ -720,21 +735,6 @@ Infrastructure & APIs
 Developer tools
 
 Get help at Sentry support
-
-Zyte
-About Zyte
-
-Zyte's Scrapy Cloud is a battle-tested cloud platform for running web crawlers. Manage and automate your web spiders at scale.
-
-Offers
-Offer
-
-1 Free Forever Scrapy Cloud Unit - unlimited team members, projects or requests. Unlimited crawl time and 120 day data retention.
-
-Tags
-Developer tools
-
-Get help at Zyte support
 
 Icons8
 About Icons8

@@ -1,6 +1,90 @@
 [
  {
   "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a446ce4aaea21f | +Ray ID: a4a45b775951917b",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Jina Reader",
+  "type": "page_changed",
+  "detail": "-report_problemWe cannot generate an API key because we couldn't verify if you are human. Refreshing the page multiple times may help. If you believe this is a mistake, please contact us with the debug info. | -refresh | -REFRESH | -bug_report | -DEBUG INFO | -CONTACT",
+  "source_url": "https://jina.ai/reader/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a44682cd7b7816 | +Ray ID: a4a45b2d5d8af2b9",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Runway Free",
+  "type": "page_changed",
+  "detail": "+This website uses cookies | + | +We and our third-party partners use cookies, pixels, and other technologies to collect, record, and share information you provide as well as information about your interactions with our site for ad targeting, analytics, personalization, and site functionality purposes.\u00a0 | + | +By continuing to use the site or by clicking one of the buttons below, you agree to the ",
+  "source_url": "https://runwayml.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Claude Free",
+  "type": "page_changed",
+  "detail": "-Claude Code included | +Claude Code | -Claude Code included",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Tavily free plan",
+  "type": "page_changed",
+  "detail": "-Your Privacy Rights | +Opt out of sale of personal data and Targeted Advertising | -We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalised content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy noticeCookie Notice | -Your Priva",
+  "source_url": "https://docs.tavily.com/documentation/api-credits"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "AWS Free Tier",
+  "type": "page_changed",
+  "detail": "-Displaying 1-8 (185) | +Displaying 1-8 (9)",
+  "source_url": "https://aws.amazon.com/free/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+GitHub Pages | +About GitHub Pages | + | +Websites for you and your projects. Hosted directly from your GitHub repository. Just edit, push, and your changes are live. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ElevenLabs Free",
+  "type": "page_changed",
+  "detail": "+Your Privacy Choices",
+  "source_url": "https://elevenlabs.io/pricing"
+ },
+ {
+  "date": "2026-10-14",
   "name": "OpenRouter",
   "type": "spotted_on_x",
   "post_id": "2107477859317297600",
@@ -36,7 +120,7 @@
   "name": "Fish Audio",
   "type": "spotted_on_x",
   "post_id": "2110038429199450126",
-  "detail": "Spotted on X, unverified: Comment “DRAMA” within the next 48 hours for 1 month free. (ends ~2026-10-15)",
+  "detail": "Spotted on X, unverified: Comment \u201cDRAMA\u201d within the next 48 hours for 1 month free. (ends ~2026-10-15)",
   "source_url": "https://x.com/FishAudio/status/2110038429199450126"
  },
  {
@@ -338,7 +422,7 @@
   "date": "2026-10-14",
   "name": "Runway Free",
   "type": "page_changed",
-  "detail": "-This website uses cookies | - | -We and our third-party partners use cookies, pixels, and other technologies to collect, record, and share information you provide as well as information about your interactions with our site for ad targeting, analytics, personalization, and site functionality purposes.  | - | -By continuing to use the site or by clicking one of the buttons below, you agree to the ",
+  "detail": "-This website uses cookies | - | -We and our third-party partners use cookies, pixels, and other technologies to collect, record, and share information you provide as well as information about your interactions with our site for ad targeting, analytics, personalization, and site functionality purposes.\u00a0 | - | -By continuing to use the site or by clicking one of the buttons below, you agree to the ",
   "source_url": "https://runwayml.com/pricing"
  },
  {
@@ -436,7 +520,7 @@
   "date": "2026-10-14",
   "name": "Lovable Free",
   "type": "page_changed",
-  "detail": "-We use cookies to enhance your development experience and keep your data secure. Privacy Policy | +We use cookies to enhance your development experience and keep your data secure. Privacy Policy · Cookie Policy | +Manage preferences | -Manage preferences | -Do not sell my data",
+  "detail": "-We use cookies to enhance your development experience and keep your data secure. Privacy Policy | +We use cookies to enhance your development experience and keep your data secure. Privacy Policy \u00b7 Cookie Policy | +Manage preferences | -Manage preferences | -Do not sell my data",
   "source_url": "https://lovable.dev/pricing"
  },
  {
@@ -464,7 +548,7 @@
   "date": "2026-10-14",
   "name": "Cohere trial key",
   "type": "page_changed",
-  "detail": "-We and our partners use cookies, scripts and certain similar technologies (“Cookies”) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on",
+  "detail": "-We and our partners use cookies, scripts and certain similar technologies (\u201cCookies\u201d) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on",
   "source_url": "https://docs.cohere.com/docs/rate-limits"
  },
  {
@@ -513,7 +597,7 @@
   "date": "2026-10-14",
   "name": "Lovable Free",
   "type": "page_changed",
-  "detail": "-We use cookies to enhance your development experience and keep your data secure. Privacy Policy · Cookie Policy | +We use cookies to enhance your development experience and keep your data secure. Privacy Policy | +OK | -OK | +Do not sell my data",
+  "detail": "-We use cookies to enhance your development experience and keep your data secure. Privacy Policy \u00b7 Cookie Policy | +We use cookies to enhance your development experience and keep your data secure. Privacy Policy | +OK | -OK | +Do not sell my data",
   "source_url": "https://lovable.dev/pricing"
  },
  {
@@ -576,7 +660,7 @@
   "date": "2026-10-14",
   "name": "Cohere trial key",
   "type": "page_changed",
-  "detail": "-We and our partners use cookies, scripts and certain similar technologies (“Cookies”) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on",
+  "detail": "-We and our partners use cookies, scripts and certain similar technologies (\u201cCookies\u201d) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on",
   "source_url": "https://docs.cohere.com/docs/rate-limits"
  },
  {
@@ -618,7 +702,7 @@
   "date": "2026-10-13",
   "name": "Serper free queries",
   "type": "added",
-  "detail": "Verified on official page: ivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price. Get 2,500 free queries No credit card required 🔎 Search 📷 Images 🗞 News 🗺 Maps 📍 Places 🎥 Videos ",
+  "detail": "Verified on official page: ivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price. Get 2,500 free queries No credit card required \ud83d\udd0e Search \ud83d\udcf7 Images \ud83d\uddde News \ud83d\uddfa Maps \ud83d\udccd Places \ud83c\udfa5 Videos ",
   "source_url": "https://serper.dev/"
  },
  {
@@ -646,7 +730,7 @@
   "date": "2026-10-13",
   "name": "Le Chat Free",
   "type": "added",
-  "detail": "Verified on official page:  Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe’s capabilities. Access on web",
+  "detail": "Verified on official page:  Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe\u2019s capabilities. Access on web",
   "source_url": "https://mistral.ai/pricing"
  },
  {
@@ -702,7 +786,7 @@
   "date": "2026-10-13",
   "name": "Windsurf Free",
   "type": "added",
-  "detail": "Verified on official page: rfect plan for your journey SWE-2, OUR LATEST MODEL, IS NOW AVAILABLE → INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e",
+  "detail": "Verified on official page: rfect plan for your journey SWE-2, OUR LATEST MODEL, IS NOW AVAILABLE \u2192 INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e",
   "source_url": "https://windsurf.com/pricing"
  },
  {
@@ -765,7 +849,7 @@
   "date": "2026-10-13",
   "name": "Tavily free plan",
   "type": "added",
-  "detail": "Verified on official page: nage your Tavily API Credits. Copy page ​ Free API Credits Get your free API key You get 1,000 free API Credits every month. No credit card required. ​ Pricing Overview Tavily operates",
+  "detail": "Verified on official page: nage your Tavily API Credits. Copy page \u200b Free API Credits Get your free API key You get 1,000 free API Credits every month. No credit card required. \u200b Pricing Overview Tavily operates",
   "source_url": "https://docs.tavily.com/documentation/api-credits"
  },
  {
@@ -786,7 +870,7 @@
   "date": "2026-10-13",
   "name": "Azure free account",
   "type": "added",
-  "detail": "Verified on official page: nts of 65+ always-free services Access to full catalog of services up to free amounts and $200 credit Spending protection—credit card won’t be charged* No upfront commitment—cancel any",
+  "detail": "Verified on official page: nts of 65+ always-free services Access to full catalog of services up to free amounts and $200 credit Spending protection\u2014credit card won\u2019t be charged* No upfront commitment\u2014cancel any",
   "source_url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account"
  },
  {
@@ -835,7 +919,7 @@
   "date": "2026-10-13",
   "name": "OpenRouter free models",
   "type": "added",
-  "detail": "Verified on official page: _budget; error.metadata on the error response Rate limits How many requests you can make (free-model request caps and DDoS protection) 429 X-RateLimit-* headers on the error response ​",
+  "detail": "Verified on official page: _budget; error.metadata on the error response Rate limits How many requests you can make (free-model request caps and DDoS protection) 429 X-RateLimit-* headers on the error response \u200b",
   "source_url": "https://openrouter.ai/docs/api-reference/limits"
  },
  {

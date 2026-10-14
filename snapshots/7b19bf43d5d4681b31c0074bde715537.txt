@@ -1,3 +1,18 @@
+This website uses cookies
+
+We and our third-party partners use cookies, pixels, and other technologies to collect, record, and share information you provide as well as information about your interactions with our site for ad targeting, analytics, personalization, and site functionality purposes. 
+
+By continuing to use the site or by clicking one of the buttons below, you agree to the use of these technologies (as described in our Privacy Policy and subject to your settings) and our Terms of Use (which contains important waivers). 
+
+Consent Selection
+Necessary
+Functional
+Analytics
+Advertising
+Show details
+Allow all
+Allow selection
+Deny
 Creative
 Dev
 Robotics
