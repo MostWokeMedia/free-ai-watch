@@ -1,13 +1,18 @@
 """Builds public HTML into dist/: injects shared header/footer/signup, renders /compare and /blog from posts/*.md (build-time)."""
 import re, html, pathlib, json
+THEME_HEAD = '<script>(function(){try{var t=localStorage.getItem("theme")}catch(e){}document.documentElement.dataset.theme=(t==="dark"||t==="light")?t:"light"})()</script>'
+LOGO = ('<a class="logo" href="/" aria-label="FreeAIWatch home"><svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="17" fill="none" stroke="var(--logo-ring)" stroke-width="5"/>'
+        '<circle cx="24" cy="24" r="6.5" fill="var(--logo-dot)"/></svg><span>Free<em>AI</em>Watch</span></a>')
+TOGGLE = '<button type="button" class="theme-toggle" aria-label="Switch to dark theme" aria-pressed="false"><span class="moon" aria-hidden="true">🌙</span><span class="sun" aria-hidden="true">☀️</span></button>'
+
 R = pathlib.Path(__file__).resolve().parent.parent; D = R / "dist"
 SIGNUP = (R / "partials.html").read_text().split("<!--SIGNUP-->", 1)[1].strip()
 FOOT = ('<footer>Not affiliated with, endorsed by, or sponsored by any provider listed. Offers change without notice — always confirm on the official source page. '
         '“Not stated” means the page we checked didn’t say.<br>Follow <a href="https://x.com/freeaiwatch">@freeaiwatch</a> for daily drops · '
-        '<a href="https://freeaiwatch.com">freeaiwatch.com</a></footer><script src="/site/signup.js"></script></body></html>')
+        '<a href="https://freeaiwatch.com">freeaiwatch.com</a></footer><script src="/site/signup.js"></script><script src="/site/theme.js"></script></body></html>')
 def head(title, desc, path):
     t, d = html.escape(title), html.escape(desc)
-    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{t}</title>'
+    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'+THEME_HEAD+'<meta name="viewport" content="width=device-width,initial-scale=1"><title>{t}</title>'
             f'<meta name="description" content="{d}"><link rel="icon" href="/site/favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://freeaiwatch.com{path}">'
             f'<meta property="og:type" content="website"><meta property="og:url" content="https://freeaiwatch.com{path}"><meta property="og:title" content="{t}"><meta property="og:description" content="{d}">'
             f'<meta property="og:image" content="https://freeaiwatch.com/site/og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@freeaiwatch">'
@@ -15,8 +20,8 @@ def head(title, desc, path):
 def header(active):
     links = [("/#all", "All offers", "all"), ("/#today", "Today", "today"), ("/#ending", "Ending soon", "ending"), ("/compare", "Compare", "compare"), ("/blog", "Blog", "blog"), ("/#sponsor", "Sponsor", "sponsor")]
     nav = "".join(f'<a href="{h}"{" class=on" if k == active else ""}>{n}</a>' for h, n, k in links)
-    return ('<header><h1><a href="/"><img src="/site/logo.svg" alt="FreeAIWatch" height="48"></a></h1><p>Every free AI tier, credit and student deal — verified against official pages, re-checked daily.</p>'
-            f'<nav>{nav}</nav></header>')
+    return ('<header><h1>'+LOGO+'</h1><p>Every free AI tier, credit and student deal — verified against official pages, re-checked daily.</p>'
+            f'<nav>{nav}{TOGGLE}</nav></header>')
 def md(t):  # minimal markdown: headings, lists, bold/italic, links, paragraphs; HTML comments stripped
     t = re.sub(r"<!--.*?-->", "", t, flags=re.S); out, ul = [], False
     def inl(s):
@@ -44,7 +49,9 @@ def page(src_text, active):
     h = head(*m.groups()) if m else ""
     return h + body.replace(f"<!--HEADER:{active}-->", header(active)).replace("<!--SIGNUP-->", SIGNUP).replace("<!--FOOTER-->", FOOT)
 # homepage: inject signup + nav already in file; append signup.js
-idx = (R / "index.html").read_text().replace("<!--SIGNUP-->", SIGNUP).replace("<!--SIGNUP-FOOTER-->", "").replace("</body>", '<script src="/site/signup.js"></script></body>')
+idx = (R / "index.html").read_text().replace('<meta charset="utf-8">', '<meta charset="utf-8">' + THEME_HEAD, 1)
+idx = re.sub(r"<h1>.*?</h1>", lambda m: "<h1>" + LOGO + "</h1>", idx, count=1, flags=re.S).replace("</nav></header>", TOGGLE + "</nav></header>", 1)
+idx = idx.replace("<!--SIGNUP-->", SIGNUP).replace("<!--SIGNUP-FOOTER-->", "").replace("</body>", '<script src="/site/signup.js"></script><script src="/site/theme.js"></script></body>')
 (D / "index.html").write_text(idx)
 (D / "compare.html").write_text(page((R / "compare.html").read_text(), "compare"))
 posts = sorted([(parse(p), p) for p in (R / "posts").glob("*.md") if p.name != "TEMPLATE.md"], key=lambda x: x[0][0].get("date", ""), reverse=True)

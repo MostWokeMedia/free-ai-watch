@@ -1,0 +1,2 @@
+document.querySelectorAll('.theme-toggle').forEach(b=>{const sync=()=>{const d=document.documentElement.dataset.theme==='dark';b.setAttribute('aria-label',d?'Switch to light theme':'Switch to dark theme');b.setAttribute('aria-pressed',String(d));b.title=b.getAttribute('aria-label');};sync();
+b.addEventListener('click',()=>{const t=document.documentElement.dataset.theme==='dark'?'light':'dark';document.documentElement.dataset.theme=t;try{localStorage.setItem('theme',t)}catch(_){}sync();});});
