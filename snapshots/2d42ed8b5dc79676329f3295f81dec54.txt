@@ -1144,21 +1144,20 @@ Infrastructure & APIs
 
 Get help at Imgbot support
 
-WorkingCopy
-About WorkingCopy
+Tower
+About Tower
 
-Powerful Git client for iPhone & iPad.
+The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
 
 Offers
 Offer
 
-All Pro features for free while you are a student.
+Free license for Tower Pro while you are a student.
 
 Tags
 Developer tools
-Mobile
 
-Get help at WorkingCopy support
+Get help at Tower support
 
 AstraSecurity
 About AstraSecurity
@@ -1175,6 +1174,22 @@ Security & analytics
 
 Get help at AstraSecurity support
 
+WorkingCopy
+About WorkingCopy
+
+Powerful Git client for iPhone & iPad.
+
+Offers
+Offer
+
+All Pro features for free while you are a student.
+
+Tags
+Developer tools
+Mobile
+
+Get help at WorkingCopy support
+
 GitHub Desktop
 About GitHub Desktop
 
@@ -1189,21 +1204,6 @@ Tags
 Developer tools
 
 Get help at GitHub Desktop support
-
-Tower
-About Tower
-
-The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
-
-Offers
-Offer
-
-Free license for Tower Pro while you are a student.
-
-Tags
-Developer tools
-
-Get help at Tower support
 
 CARTO
 About CARTO
@@ -1373,21 +1373,6 @@ Security & analytics
 
 Get help at DevCycle support
 
-Appfigures
-About Appfigures
-
-App Store analytics, optimization, and intelligence.
-
-Offers
-Offer
-
-"Free access to universal analytics and performance reports for one year.
-
-Tags
-Marketing
-
-Get help at Appfigures support
-
 Themeisle
 About Themeisle
 
@@ -1403,6 +1388,37 @@ Design
 Infrastructure & APIs
 
 Get help at Themeisle support
+
+Appfigures
+About Appfigures
+
+App Store analytics, optimization, and intelligence.
+
+Offers
+Offer
+
+"Free access to universal analytics and performance reports for one year.
+
+Tags
+Marketing
+
+Get help at Appfigures support
+
+ConfigCat
+About ConfigCat
+
+Learn feature flags with the industry leading feature flag service.
+
+Offers
+Offer
+
+1000 feature flags, ∞ users for free.
+
+Tags
+Developer tools
+Infrastructure & APIs
+
+Get help at ConfigCat support
 
 Dashlane
 About Dashlane
@@ -1433,22 +1449,6 @@ Tags
 Infrastructure & APIs
 
 Get help at Vaadin support
-
-ConfigCat
-About ConfigCat
-
-Learn feature flags with the industry leading feature flag service.
-
-Offers
-Offer
-
-1000 feature flags, ∞ users for free.
-
-Tags
-Developer tools
-Infrastructure & APIs
-
-Get help at ConfigCat support
 
 SymfonyCasts
 About SymfonyCasts
