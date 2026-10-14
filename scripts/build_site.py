@@ -8,11 +8,11 @@ TOGGLE = '<button type="button" class="theme-toggle" aria-label="Switch to dark 
 R = pathlib.Path(__file__).resolve().parent.parent; D = R / "dist"
 SIGNUP = (R / "partials.html").read_text().split("<!--SIGNUP-->", 1)[1].strip()
 FOOT = ('<footer>Not affiliated with, endorsed by, or sponsored by any provider listed. Offers change without notice — always confirm on the official source page. '
-        '“Not stated” means the page we checked didn’t say.<br>Follow <a href="https://x.com/freeaiwatch">@freeaiwatch</a> for daily drops · '
+        '“Not stated” means the page we checked didn’t say.<br>'
         '<a href="https://freeaiwatch.com">freeaiwatch.com</a><br><span class="footer-links"><a href="/submit">Submit a deal</a><a href="/sponsor">Sponsor</a><a href="/compare">Compare</a><a href="/blog">Blog</a></span></footer><script src="/site/signup.js"></script><script src="/site/theme.js"></script></body></html>')
 def head(title, desc, path):
     t, d = html.escape(title), html.escape(desc)
-    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'+THEME_HEAD+'<meta name="viewport" content="width=device-width,initial-scale=1"><title>{t}</title>'
+    return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">'+THEME_HEAD+f'<meta name="viewport" content="width=device-width,initial-scale=1"><title>{t}</title>'
             f'<meta name="description" content="{d}"><link rel="icon" href="/site/favicon.svg" type="image/svg+xml"><link rel="canonical" href="https://freeaiwatch.com{path}">'
             f'<meta property="og:type" content="website"><meta property="og:url" content="https://freeaiwatch.com{path}"><meta property="og:title" content="{t}"><meta property="og:description" content="{d}">'
             f'<meta property="og:image" content="https://freeaiwatch.com/site/og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@freeaiwatch">'
