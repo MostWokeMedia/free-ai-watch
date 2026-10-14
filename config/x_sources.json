@@ -1,0 +1,86 @@
+{
+ "_doc": "X source config for FreeAIWatch. Searches run via the x MCP namespace (not in GitHub Actions). See docs/X-SOURCE.md.",
+ "rules": {
+  "original_posts_only": true,
+  "exclude": [
+   "reply",
+   "quote",
+   "retweet"
+  ],
+  "author_must_be_in": "config/x_official_accounts.json",
+  "max_age_days_without_deadline": 14,
+  "min_likes": 0,
+  "lang": "en"
+ },
+ "queries": [
+  {
+   "name": "official_time_limited",
+   "query": "(from:higgsfield_ai OR from:higgsfield OR from:FishAudio OR from:runwayml OR from:suno OR from:Kling_ai OR from:Replit OR from:cursor_ai OR from:perplexity_ai OR from:ideogram_ai OR from:pika_labs OR from:Hailuo_AI OR from:krea_ai OR from:boltdotnew OR from:v0 OR from:midjourney OR from:ElevenLabs OR from:Lovable OR from:LeonardoAi OR from:OpenRouter OR from:Kimi_Moonshot OR from:Alibaba_Wan OR from:hedra_labs) (unlimited OR \"% off\" OR \"limited time\" OR \"for 7 days\" OR \"for 48 hours\" OR \"this week\" OR \"free for\" OR \"free credits\") -is:reply -is:quote -is:retweet",
+   "start_days_ago": 10,
+   "max_results": 25,
+   "sort_order": "recency"
+  },
+  {
+   "name": "official_engagement_gated",
+   "query": "(from:higgsfield_ai OR from:higgsfield OR from:FishAudio OR from:runwayml OR from:suno OR from:Kling_ai OR from:Replit OR from:cursor_ai OR from:perplexity_ai OR from:ideogram_ai OR from:pika_labs OR from:Hailuo_AI OR from:krea_ai OR from:boltdotnew OR from:v0 OR from:midjourney OR from:ElevenLabs OR from:Lovable OR from:LeonardoAi OR from:OpenRouter OR from:Kimi_Moonshot OR from:Alibaba_Wan OR from:hedra_labs) (comment OR \"reply with\" OR \"drop a\" OR \"like and\" OR \"retweet and\" OR \"RT and\") (free OR credits OR \"month free\" OR access OR code) -is:reply -is:quote -is:retweet",
+   "start_days_ago": 30,
+   "max_results": 25,
+   "sort_order": "recency"
+  },
+  {
+   "name": "discovery_broad",
+   "query": "(AI OR model OR app) (\"now unlimited\" OR \"unlimited for\" OR \"free for 7 days\" OR \"free for 48 hours\" OR comment) (\"month free\" OR \"for 7 days\" OR \"48 hours\" OR \"24 hours\" OR \"% off\") -is:reply -is:quote -is:retweet lang:en -crypto -airdrop -giveaway -token",
+   "start_days_ago": 7,
+   "max_results": 25,
+   "sort_order": "relevancy",
+   "_note": "Discovery only: authors not on the allowlist are dropped; use hits to find new official accounts to verify."
+  }
+ ],
+ "post_fields": "created_at,public_metrics,author_id,referenced_tweets,in_reply_to_user_id,note_tweet,lang",
+ "expansions": "author_id",
+ "user_fields": "username,verified_type,url,description",
+ "reference_patterns": [
+  {
+   "label": "promo_time_limited",
+   "example_url": "https://x.com/higgsfield_ai/status/2110074247569924489",
+   "example_text": "Wan 3.0 is now UNLIMITED on Higgsfield for 7 days. 60% OFF on Higgsfield API.",
+   "tool": "Higgsfield (Wan 3.0)"
+  },
+  {
+   "label": "engagement_gated",
+   "example_url": "https://x.com/FishAudio/status/2110038429199450126",
+   "example_text": "Comment “DRAMA” within the next 48 hours for 1 month free.",
+   "tool": "Fish Audio (Drama 3)"
+  }
+ ],
+ "classify": {
+  "engagement_gated": [
+   "\\b(comment|reply(?: with)?|drop)\\s+[\\\"\\u201c\\u2018']?[A-Za-z0-9]{2,20}[\\\"\\u201d\\u2019']?\\b.*\\b(free|month|credits?|access|api key|code)\\b",
+   "\\b(like|rt|retweet|repost)\\s*(\\+|and|&)\\s*(comment|follow)\\b"
+  ],
+  "promo_time_limited": [
+   "\\bunlimited\\b",
+   "\\b\\d{1,2}\\s?%\\s?off\\b",
+   "\\bfree for (the next )?\\d+\\s?(hours?|days?|weeks?)\\b",
+   "\\blimited[- ]time\\b",
+   "\\b(offer )?valid (through|until)\\b",
+   "\\bthrough (january|february|march|april|may|june|july|august|september|october|november|december) \\d{1,2}\\b",
+   "\\bfree credits\\b"
+  ]
+ },
+ "extract": {
+  "duration": "\\b(?:for|within)\\s+(?:the\\s+)?(?:next\\s+|first\\s+)?(\\d+|one|two|three|seven)\\s+(hours?|days?|weeks?)\\b",
+  "until_date": "\\b(?:through|until|till|ends?)\\s+((?:january|february|march|april|may|june|july|august|september|october|november|december)\\s+\\d{1,2})\\b",
+  "discount": "\\b(\\d{1,2})\\s?%\\s?off\\b",
+  "keyword": "\\bcomment\\s+[\\\"\\u201c\\u2018']?([A-Za-z0-9]{2,20})[\\\"\\u201d\\u2019']?"
+ },
+ "spam_block": [
+  "\\$\\d+\\s*(a|per)\\s*day",
+  "\\bside hustle\\b",
+  "\\bfollow me\\b",
+  "\\bDM you\\b",
+  "\\bairdrop\\b",
+  "\\bgiveaway\\b",
+  "\\bguide\\b.*\\bfree\\b"
+ ]
+}

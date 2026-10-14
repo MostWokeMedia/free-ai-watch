@@ -17,5 +17,8 @@ for typ, title in [("added", "New this week"), ("page_changed", "Pages that chan
     L += ["", f"## {title} ({len(items)})"] + ([f"- {x['name']} — {x['source_url']}" for x in items[:10]] or ["- None"])
 L += ["", "## No credit card required"] + [f"- {x['name']}: {x['value']}" for x in nocard[:6]]
 L += ["", "## Deadlines"] + ([f"- {x['name']}: ends {x['deadline']}" for x in dl] or ["- No verified deadlines"])
+xp = R / "data/x_spotted.json"; xs = json.load(open(xp)) if xp.exists() else []
+L += ["", "## Spotted on X (unverified — from official accounts, not yet confirmed on official pages)"]
+L += [f"- **{x['tool']}** ({'time-limited promo' if x['type']=='promo_time_limited' else 'engagement-gated'}): {x['offer']}" + (f" — est. ends {x['deadline'][:10]}" if x.get('deadline') else "") + f" — {x['url']}" for x in xs[:8]] or ["- None this week"]
 L += ["", "## How I use this", "- Link this week's post: https://freeaiwatch.com/blog", "", "---", "Not affiliated with any provider listed. You're getting this because you subscribed at freeaiwatch.com. Unsubscribe: {{unsubscribe_link}}"]
 (R / "drafts").mkdir(exist_ok=True); f = R / "drafts" / f"weekly-{t}.md"; f.write_text("\n".join(L) + "\n"); print("wrote", f)

@@ -1,0 +1,134 @@
+[
+ {
+  "post_id": "2110074247569924489",
+  "url": "https://x.com/higgsfield_ai/status/2110074247569924489",
+  "author": "@higgsfield_ai",
+  "author_evidence": "https://higgsfield.ai",
+  "tool": "Higgsfield",
+  "type": "promo_time_limited",
+  "offer": "Wan 3.0 is now UNLIMITED on Higgsfield for 7 days.",
+  "discount_pct": 60,
+  "comment_keyword": null,
+  "posted_at": "2026-10-13T18:24:38.000Z",
+  "deadline": "2026-10-20T18:24:38Z",
+  "deadline_basis": "for 7 days",
+  "metrics": {
+   "like_count": 689,
+   "reply_count": 79,
+   "retweet_count": 222,
+   "impression_count": 212311
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "post_id": "2110038429199450126",
+  "url": "https://x.com/FishAudio/status/2110038429199450126",
+  "author": "@FishAudio",
+  "author_evidence": "https://fish.audio/claim/twitter",
+  "tool": "Fish Audio",
+  "type": "engagement_gated",
+  "offer": "Comment “DRAMA” within the next 48 hours for 1 month free.",
+  "discount_pct": null,
+  "comment_keyword": "DRAMA",
+  "posted_at": "2026-10-13T16:02:18.000Z",
+  "deadline": "2026-10-15T16:02:18Z",
+  "deadline_basis": "within the next 48 hours",
+  "metrics": {
+   "like_count": 11645,
+   "reply_count": 5126,
+   "retweet_count": null,
+   "impression_count": 8098799
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "post_id": "2109681164806177267",
+  "url": "https://x.com/higgsfield_ai/status/2109681164806177267",
+  "author": "@higgsfield_ai",
+  "author_evidence": "https://higgsfield.ai",
+  "tool": "Higgsfield",
+  "type": "promo_time_limited",
+  "offer": "Get 50% OFF the Genjutsu API.",
+  "discount_pct": 50,
+  "comment_keyword": null,
+  "posted_at": "2026-10-12T16:22:40.000Z",
+  "deadline": "2026-10-31T23:59:00Z",
+  "deadline_basis": "through October 31",
+  "metrics": {
+   "like_count": 803,
+   "reply_count": 85,
+   "retweet_count": 263,
+   "impression_count": 1098266
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "post_id": "2108291696572379521",
+  "url": "https://x.com/OpenRouter/status/2108291696572379521",
+  "author": "@OpenRouter",
+  "author_evidence": "https://openrouter.ai",
+  "tool": "OpenRouter",
+  "type": "promo_time_limited",
+  "offer": "$0.02/M input (50% off the $0.04 list price).",
+  "discount_pct": 50,
+  "comment_keyword": null,
+  "posted_at": "2026-10-08T20:21:25.000Z",
+  "deadline": null,
+  "deadline_basis": null,
+  "metrics": {
+   "like_count": 110,
+   "reply_count": 10,
+   "retweet_count": 15,
+   "impression_count": 10892
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "post_id": "2107851633191436685",
+  "url": "https://x.com/OpenRouter/status/2107851633191436685",
+  "author": "@OpenRouter",
+  "author_evidence": "https://openrouter.ai",
+  "tool": "OpenRouter",
+  "type": "promo_time_limited",
+  "offer": "All @ElevenLabs models are 50% off, only on OpenRouter, through October 19, 8am PT.",
+  "discount_pct": 50,
+  "comment_keyword": null,
+  "posted_at": "2026-10-07T15:12:45.000Z",
+  "deadline": "2026-10-19T23:59:00Z",
+  "deadline_basis": "through October 19",
+  "metrics": {
+   "like_count": 488,
+   "reply_count": 28,
+   "retweet_count": 34,
+   "impression_count": 42864
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-14"
+ },
+ {
+  "post_id": "2107477859317297600",
+  "url": "https://x.com/OpenRouter/status/2107477859317297600",
+  "author": "@OpenRouter",
+  "author_evidence": "https://openrouter.ai",
+  "tool": "OpenRouter",
+  "type": "promo_time_limited",
+  "offer": "50% off for the first two weeks: $0.68 in / $2.09 out per 1M tokens ($0.07 cached).",
+  "discount_pct": 50,
+  "comment_keyword": null,
+  "posted_at": "2026-10-06T14:27:31.000Z",
+  "deadline": "2026-10-20T14:27:31Z",
+  "deadline_basis": "for the first two weeks",
+  "metrics": {
+   "like_count": 1143,
+   "reply_count": 62,
+   "retweet_count": 43,
+   "impression_count": 52874
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-14"
+ }
+]

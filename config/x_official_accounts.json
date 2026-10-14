@@ -1,0 +1,239 @@
+{
+ "_doc": "Allowlist of official X accounts. A post is kept only if its author handle is listed here (case-insensitive). Add people (founders/leads) only with an evidence URL from the official site, the official account, or their X bio.",
+ "accounts": [
+  {
+   "handle": "higgsfield_ai",
+   "tool": "Higgsfield",
+   "role": "official_account",
+   "x_verified_type": "blue",
+   "evidence": "X profile https://x.com/higgsfield_ai website field links to https://higgsfield.ai (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://higgsfield.ai",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "higgsfield",
+   "tool": "Higgsfield",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/higgsfield website field links to https://higgsfield.ai/s/general-higgsfield-IdlJnW (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://higgsfield.ai/s/general-higgsfield-IdlJnW",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "FishAudio",
+   "tool": "Fish Audio",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/FishAudio website field links to https://fish.audio/claim/twitter (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://fish.audio/claim/twitter",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "runwayml",
+   "tool": "Runway",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/runwayml website field links to https://runway.com (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://runway.com",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "suno",
+   "tool": "Suno",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/suno website field links to https://suno.com (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://suno.com",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "Kling_ai",
+   "tool": "Kling AI",
+   "role": "official_account",
+   "x_verified_type": "blue",
+   "evidence": "X profile https://x.com/Kling_ai website field links to https://kling.ai (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://kling.ai",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "Replit",
+   "tool": "Replit",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/Replit website field links to http://replit.com (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "http://replit.com",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "cursor_ai",
+   "tool": "Cursor",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/cursor_ai website field links to http://cursor.com (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "http://cursor.com",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "perplexity_ai",
+   "tool": "Perplexity",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/perplexity_ai website field links to http://perplexity.ai/personal-computer (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "http://perplexity.ai/personal-computer",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "ideogram_ai",
+   "tool": "Ideogram",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/ideogram_ai website field links to https://ideogram.ai (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://ideogram.ai",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "pika_labs",
+   "tool": "Pika",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/pika_labs website field links to https://pika.art (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://pika.art",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "Hailuo_AI",
+   "tool": "Hailuo (MiniMax)",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/Hailuo_AI website field links to https://design.minimax.io/ (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://design.minimax.io/",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "krea_ai",
+   "tool": "Krea",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/krea_ai website field links to http://krea.ai (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "http://krea.ai",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "boltdotnew",
+   "tool": "Bolt",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/boltdotnew website field links to http://bolt.new/ (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "http://bolt.new/",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "v0",
+   "tool": "v0",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/v0 website field links to http://v0.app (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "http://v0.app",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "midjourney",
+   "tool": "Midjourney",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/midjourney website field links to https://www.midjourney.com (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://www.midjourney.com",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "ElevenLabs",
+   "tool": "ElevenLabs",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/ElevenLabs website field links to https://elevenlabs.io/ (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://elevenlabs.io/",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "Lovable",
+   "tool": "Lovable",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/Lovable website field links to http://lovable.com (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "http://lovable.com",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "LeonardoAi",
+   "tool": "Leonardo.Ai",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/LeonardoAi website field links to https://Leonardo.Ai (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://Leonardo.Ai",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "OpenRouter",
+   "tool": "OpenRouter",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/OpenRouter website field links to https://openrouter.ai (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://openrouter.ai",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "Kimi_Moonshot",
+   "tool": "Kimi (Moonshot AI)",
+   "role": "official_account",
+   "x_verified_type": "none",
+   "evidence": "X profile https://x.com/Kimi_Moonshot website field links to https://www.kimi.ai/ (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://www.kimi.ai/",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "Alibaba_Wan",
+   "tool": "Wan (Alibaba Tongyi)",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/Alibaba_Wan website field links to https://wan.video (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://wan.video",
+   "checked": "2026-10-14"
+  },
+  {
+   "handle": "hedra_labs",
+   "tool": "Hedra",
+   "role": "official_account",
+   "x_verified_type": "business",
+   "evidence": "X profile https://x.com/hedra_labs website field links to https://www.hedra.com/ (checked 2026-10-14 via x get_users_by_usernames)",
+   "evidence_url": "https://www.hedra.com/",
+   "checked": "2026-10-14"
+  }
+ ],
+ "people": [],
+ "rejected": [
+  {
+   "handle": "windsurf",
+   "reason": "bio says product renamed; no website link (2026-10-14)"
+  },
+  {
+   "handle": "GroqInc",
+   "reason": "148 followers, no bio/link \u2014 not clearly official"
+  },
+  {
+   "handle": "groqcloud",
+   "reason": "3 followers, no link"
+  },
+  {
+   "handle": "CaptionsApp",
+   "reason": "unrelated iOS app"
+  }
+ ],
+ "not_found": [
+  "elevenlabsio",
+  "lovable_dev",
+  "LeonardoAi_",
+  "OpenRouterAI",
+  "heygen_official",
+  "SeedanceAI"
+ ]
+}
