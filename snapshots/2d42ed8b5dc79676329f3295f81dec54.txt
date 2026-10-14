@@ -579,21 +579,6 @@ Developer tools
 
 Get help at GitHub Pages support
 
-FrontendMasters
-About FrontendMasters
-
-Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.
-
-Offers
-Offer
-
-Free 6-months access to all courses and workshops.
-
-Tags
-Learn
-
-Get help at FrontendMasters support
-
 Clerk
 About Clerk
 
@@ -609,6 +594,21 @@ Infrastructure & APIs
 Developer tools
 
 Get help at Clerk support
+
+FrontendMasters
+About FrontendMasters
+
+Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.
+
+Offers
+Offer
+
+Free 6-months access to all courses and workshops.
+
+Tags
+Learn
+
+Get help at FrontendMasters support
 
 Notion Template Collection
 About Notion Template Collection
@@ -1004,20 +1004,6 @@ Personal Portfolio
 
 Get help at AlgoExpert support
 
-Octicons
-About Octicons
-
-Octicons is an open source library created specifically for GitHub's UI.
-
-Offers
-Offer
-
-Using Figma designs to build the Octicons icon library
-
-Tags
-
-Get help at Octicons support
-
 ToDiagram
 About ToDiagram
 
@@ -1034,6 +1020,20 @@ Developer tools
 Infrastructure & APIs
 
 Get help at ToDiagram support
+
+Octicons
+About Octicons
+
+Octicons is an open source library created specifically for GitHub's UI.
+
+Offers
+Offer
+
+Using Figma designs to build the Octicons icon library
+
+Tags
+
+Get help at Octicons support
 
 Pageclip
 About Pageclip
@@ -1096,22 +1096,6 @@ Security & analytics
 
 Get help at Blackfire support
 
-Xojo
-About Xojo
-
-A cross-platform development tool for making native apps for Desktop, Mobile, Web and Raspberry Pi.
-
-Offers
-Offer
-
-Xojo Pro license free while you are a student.
-
-Tags
-Design
-Developer tools
-
-Get help at Xojo support
-
 Requestly
 About Requestly
 
@@ -1128,6 +1112,22 @@ Developer tools
 Cloud
 
 Get help at Requestly support
+
+Xojo
+About Xojo
+
+A cross-platform development tool for making native apps for Desktop, Mobile, Web and Raspberry Pi.
+
+Offers
+Offer
+
+Xojo Pro license free while you are a student.
+
+Tags
+Design
+Developer tools
+
+Get help at Xojo support
 
 Imgbot
 About Imgbot
@@ -1296,6 +1296,21 @@ Developer tools
 
 Get help at SQLGate support
 
+PopSQL
+About PopSQL
+
+Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.
+
+Offers
+Offer
+
+Free Premium subscription for PopSQL while you're a student.
+
+Tags
+Developer tools
+
+Get help at PopSQL support
+
 DeepScan
 About DeepScan
 
@@ -1326,21 +1341,6 @@ Developer tools
 Infrastructure & APIs
 
 Get help at POEditor support
-
-PopSQL
-About PopSQL
-
-Modern, collaborative SQL editor for your team — write queries, visualize data, and share your results.
-
-Offers
-Offer
-
-Free Premium subscription for PopSQL while you're a student.
-
-Tags
-Developer tools
-
-Get help at PopSQL support
 
 Codecov
 About Codecov
@@ -1373,21 +1373,6 @@ Security & analytics
 
 Get help at DevCycle support
 
-Appfigures
-About Appfigures
-
-App Store analytics, optimization, and intelligence.
-
-Offers
-Offer
-
-"Free access to universal analytics and performance reports for one year.
-
-Tags
-Marketing
-
-Get help at Appfigures support
-
 Themeisle
 About Themeisle
 
@@ -1404,6 +1389,21 @@ Infrastructure & APIs
 
 Get help at Themeisle support
 
+Appfigures
+About Appfigures
+
+App Store analytics, optimization, and intelligence.
+
+Offers
+Offer
+
+"Free access to universal analytics and performance reports for one year.
+
+Tags
+Marketing
+
+Get help at Appfigures support
+
 Vaadin
 About Vaadin
 
@@ -1418,21 +1418,6 @@ Tags
 Infrastructure & APIs
 
 Get help at Vaadin support
-
-Dashlane
-About Dashlane
-
-Cloud-based password manager.
-
-Offers
-Offer
-
-Dashlane Premium free for 6 months.
-
-Tags
-Productivity
-
-Get help at Dashlane support
 
 ConfigCat
 About ConfigCat
@@ -1449,6 +1434,21 @@ Developer tools
 Infrastructure & APIs
 
 Get help at ConfigCat support
+
+Dashlane
+About Dashlane
+
+Cloud-based password manager.
+
+Offers
+Offer
+
+Dashlane Premium free for 6 months.
+
+Tags
+Productivity
+
+Get help at Dashlane support
 
 SymfonyCasts
 About SymfonyCasts

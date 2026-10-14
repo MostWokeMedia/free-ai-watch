@@ -16,7 +16,6 @@ Free
 
 Best for trying out ChatGPT
 
-$0
 / month
 Get Free
 
@@ -43,7 +42,6 @@ Go
 
 Best for longer conversations
 
-$8
 / month
 Get Go
 Everything in Free and:
@@ -65,7 +63,6 @@ Plus
 
 Best for advanced work and productivity
 
-$20
 / month
 Get Plus
 Everything in Go and:
@@ -95,7 +92,6 @@ Pro
 Best for research and coding
 
 From
-$100
 / month
 Get Pro
 Everything in Plus and:
