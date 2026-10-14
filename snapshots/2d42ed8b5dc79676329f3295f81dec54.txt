@@ -751,22 +751,6 @@ Developer tools
 
 Get help at Zyte support
 
-Deepnote
-About Deepnote
-
-Deepnote is a new kind of data notebook built for collaboration - Jupyter compatible, works magically in the cloud, and sharing is as easy as sending a link.
-
-Offers
-Offer
-
-Our offer includes free use of the Deepnote Team plan while you are a student. The Deepnote Team Plan includes: Unlimited team members & projects, 30-day version history, unlimited basic machines with up to 5GB RAM and 2vCPU, premium integrations (Snowflake, SQL Server, BigQuery, Redshift, and more), and 30-day revision history.
-
-Tags
-Developer tools
-Machine Learning & AI
-
-Get help at Deepnote support
-
 New Relic
 About New Relic
 
@@ -783,6 +767,22 @@ Cloud
 Security & analytics
 
 Get help at New Relic support
+
+Deepnote
+About Deepnote
+
+Deepnote is a new kind of data notebook built for collaboration - Jupyter compatible, works magically in the cloud, and sharing is as easy as sending a link.
+
+Offers
+Offer
+
+Our offer includes free use of the Deepnote Team plan while you are a student. The Deepnote Team Plan includes: Unlimited team members & projects, 30-day version history, unlimited basic machines with up to 5GB RAM and 2vCPU, premium integrations (Snowflake, SQL Server, BigQuery, Redshift, and more), and 30-day revision history.
+
+Tags
+Developer tools
+Machine Learning & AI
+
+Get help at Deepnote support
 
 LocalStack
 About LocalStack
@@ -878,21 +878,6 @@ Developer tools
 
 Get help at Scrimba support
 
-LambdaTest
-About LambdaTest
-
-Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.
-
-Offers
-Offer
-
-Free LambdaTest Live Plan for one year.
-
-Tags
-Developer tools
-
-Get help at LambdaTest support
-
 CodeScene
 About CodeScene
 
@@ -908,6 +893,21 @@ Security & analytics
 Developer tools
 
 Get help at CodeScene support
+
+LambdaTest
+About LambdaTest
+
+Perform automated and live interactive cross browser testing on 2000+ real browsers and operating systems online.
+
+Offers
+Offer
+
+Free LambdaTest Live Plan for one year.
+
+Tags
+Developer tools
+
+Get help at LambdaTest support
 
 Visme
 About Visme
@@ -1003,6 +1003,20 @@ Developer tools
 
 Get help at GitKraken support
 
+Octicons
+About Octicons
+
+Octicons is an open source library created specifically for GitHub's UI.
+
+Offers
+Offer
+
+Using Figma designs to build the Octicons icon library
+
+Tags
+
+Get help at Octicons support
+
 AlgoExpert
 About AlgoExpert
 
@@ -1018,20 +1032,6 @@ Learn
 Personal Portfolio
 
 Get help at AlgoExpert support
-
-Octicons
-About Octicons
-
-Octicons is an open source library created specifically for GitHub's UI.
-
-Offers
-Offer
-
-Using Figma designs to build the Octicons icon library
-
-Tags
-
-Get help at Octicons support
 
 ToDiagram
 About ToDiagram
@@ -1081,21 +1081,6 @@ Infrastructure & APIs
 
 Get help at Travis CI support
 
-Pageclip
-About Pageclip
-
-A server for your static websites and HTML forms.
-
-Offers
-Offer
-
-Free basic plan while you are a student.
-
-Tags
-Infrastructure & APIs
-
-Get help at Pageclip support
-
 Xojo
 About Xojo
 
@@ -1111,6 +1096,21 @@ Design
 Developer tools
 
 Get help at Xojo support
+
+Pageclip
+About Pageclip
+
+A server for your static websites and HTML forms.
+
+Offers
+Offer
+
+Free basic plan while you are a student.
+
+Tags
+Infrastructure & APIs
+
+Get help at Pageclip support
 
 AstraSecurity
 About AstraSecurity
@@ -1175,21 +1175,6 @@ Cloud
 
 Get help at Requestly support
 
-Imgbot
-About Imgbot
-
-Imgbot is a GitHub App that automatically optimizes your images.
-
-Offers
-Offer
-
-Free image optimization for all your public and private projects while you are a student.
-
-Tags
-Infrastructure & APIs
-
-Get help at Imgbot support
-
 GoRails
 About GoRails
 
@@ -1204,6 +1189,21 @@ Tags
 Learn
 
 Get help at GoRails support
+
+Imgbot
+About Imgbot
+
+Imgbot is a GitHub App that automatically optimizes your images.
+
+Offers
+Offer
+
+Free image optimization for all your public and private projects while you are a student.
+
+Tags
+Infrastructure & APIs
+
+Get help at Imgbot support
 
 GitHub Desktop
 About GitHub Desktop
@@ -1281,21 +1281,6 @@ Infrastructure & APIs
 
 Get help at Blockchair support
 
-SQLGate
-About SQLGate
-
-Simple but powerful IDE for multiple SQL databases.
-
-Offers
-Offer
-
-Access to most Standard Subscription features for 1 year.
-
-Tags
-Developer tools
-
-Get help at SQLGate support
-
 POEditor
 About POEditor
 
@@ -1326,6 +1311,21 @@ Tags
 Developer tools
 
 Get help at Codecov support
+
+SQLGate
+About SQLGate
+
+Simple but powerful IDE for multiple SQL databases.
+
+Offers
+Offer
+
+Access to most Standard Subscription features for 1 year.
+
+Tags
+Developer tools
+
+Get help at SQLGate support
 
 PopSQL
 About PopSQL

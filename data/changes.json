@@ -10,6 +10,97 @@
   "date": "2026-10-14",
   "name": "Perplexity Free",
   "type": "page_changed",
+  "detail": "-Ray ID: a4a9dfc3690da68b | +Ray ID: a4aa07543cf2e079",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Jina Reader",
+  "type": "page_changed",
+  "detail": "-report_problemWe cannot generate an API key because we couldn't verify if you are human. Refreshing the page multiple times may help. If you believe this is a mistake, please contact us with the debug info. | -refresh | -REFRESH | -bug_report | -DEBUG INFO | -CONTACT",
+  "source_url": "https://jina.ai/reader/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4a9df772efa5122 | +Ray ID: a4aa0702ea189991",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Runway Free",
+  "type": "page_changed",
+  "detail": "--20% off | +2 months free | --20% off | +2 months free",
+  "source_url": "https://runway.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Claude Free",
+  "type": "page_changed",
+  "detail": "+Claude Code included | -Claude Code | +Claude Code included",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "-Best for trying out ChatGPT | +Intelligence for everyday tasks | -Best for longer conversations | +Expanded access | -Best for advanced work and productivity | +Do more with advanced intelligence",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Pinecone Starter",
+  "type": "page_changed",
+  "detail": "-This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. | +This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: | -Accept | -Deny Non-Essential",
+  "source_url": "https://www.pinecone.io/pricing/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "AWS Free Tier",
+  "type": "page_changed",
+  "detail": "-Displaying 1-8 (185) | +Displaying 1-8 (9)",
+  "source_url": "https://aws.amazon.com/free/"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+New Relic | +About New Relic | + | +New Relic is an observability platform that helps fully understand how to improve your software. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "GitHub Copilot Free",
+  "type": "page_changed",
+  "detail": "-For lightweight chats | +For getting started with GitHub Copilot. | -Start for free | +Get started | -Access to entry level models | +Access to Haiku 4.5, GPT-5 mini, and more",
+  "source_url": "https://github.com/features/copilot/plans"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-14",
+  "name": "Perplexity Free",
+  "type": "page_changed",
   "detail": "-Ray ID: a4a9d9242d84f09c | +Ray ID: a4a9dfc3690da68b",
   "source_url": "https://www.perplexity.ai/pro"
  },
