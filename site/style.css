@@ -45,3 +45,4 @@ article{max-width:720px}article h1{font-size:34px;letter-spacing:-.02em;line-hei
 .tiers{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}.tier{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px;box-shadow:var(--shadow)}.tier .eyebrow{margin:0 0 4px}
 .tier ul{padding-left:18px;font-size:14px;color:var(--muted)}.tier li{margin:4px 0}.preview{font-size:13px;background:var(--surface-2);border:1px solid var(--border);border-radius:8px;padding:10px 12px}.preview .badge{margin-left:0}
 .banner-prev{background:var(--sponsor-bg);border:1px dashed var(--sponsor-border)}.price{font-family:"Geist Mono",ui-monospace,monospace;font-size:13px;margin:8px 0 0}.footer-links a{margin-right:14px}
+.stat-value.small{font-size:14px;font-weight:500;line-height:1.35}.founding .price b{font-size:22px}

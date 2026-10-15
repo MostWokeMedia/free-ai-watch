@@ -8,25 +8,33 @@
 <h3>Audience</h3>
 <div class="stats">
   <div class="stat"><span class="stat-label">Offers tracked</span><span class="stat-value" id="st-offers">—</span></div>
-  <div class="stat"><span class="stat-label">Monthly visitors</span><span class="stat-value">TBD</span></div>
-  <div class="stat"><span class="stat-label">Weekly digest subscribers</span><span class="stat-value">TBD</span></div>
+  <div class="stat"><span class="stat-label">Monthly visitors</span><span class="stat-value small">Publishing after our first full month of analytics</span></div>
+  <div class="stat"><span class="stat-label">Weekly digest subscribers</span><span class="stat-value small">Publishing once the digest starts sending</span></div>
 </div>
 <p class="muted small">We'll publish real traffic numbers once analytics have a full month of data. We won't show estimates in the meantime.</p>
 
+<h3>Founding sponsors</h3>
+<div class="card founding"><p class="eyebrow">Founding Sponsor Pack · 4 available · ends Nov 30, 2026</p>
+<p>We're new and don't have traffic numbers yet, so founding rates are low and backed by a click floor. You get 2 weeks in the Featured row and 1 week on the homepage banner. We write your copy, give you a tracked link and send a weekly click report. You also get one labeled sponsored post on our X deals feed, and a digest line if the digest is live during your run.</p>
+<p class="price"><b>$179</b> <span class="muted">(à la carte $207)</span></p>
+<p class="muted small">Founding rates are locked through May 31, 2027 if you rebook within 30 days.</p>
+<p class="small"><b>Click floor:</b> under 25 counted clicks in a Featured row week (15 for the banner) gets you an extra week free. If that week misses too, we refund the original week.</p></div>
+
 <h3>Slots</h3>
 <div class="tiers">
-  <div class="tier"><p class="eyebrow">Featured row</p><h4>Top of the offers table</h4><div class="preview"><span class="badge">Sponsored</span> <b>Your tool</b>: your free offer, one line</div><ul><li>Pinned above the verified list on the homepage</li><li>Marked “Sponsored”. Your offer still has to be real and checkable</li><li>One sponsor at a time</li></ul><p class="price">Price: <b>TBD</b> / week</p></div>
-  <div class="tier"><p class="eyebrow">Homepage banner</p><h4>Banner under the header</h4><div class="preview banner-prev">⭐ <b>Your brand</b>: a short pitch and a link</div><ul><li>Shown on every page load of the homepage</li><li>Your link, tagged with utm_source=freeaiwatch</li><li>One sponsor at a time</li></ul><p class="price">Price: <b>TBD</b> / week</p></div>
-  <div class="tier"><p class="eyebrow">Weekly digest</p><h4>“Sponsored by” in the email</h4><div class="preview">Sponsored by <b>Your brand</b>: your pitch</div><ul><li>One line at the top of the weekly roundup</li><li>Goes to every subscriber that week</li><li>Available once the digest starts sending</li></ul><p class="price">Price: <b>TBD</b> / issue</p></div>
+  <div class="tier"><p class="eyebrow">Featured row</p><h4>Top of the offers table</h4><div class="preview"><span class="badge">Sponsored</span> <b>Your tool</b>: your free offer, one line</div><ul><li>Pinned above the verified list on the homepage</li><li>Marked “Sponsored”. Your offer still has to be real and checkable</li><li>One sponsor at a time</li></ul><p class="price">Founding rate: <b>$79</b> / week</p></div>
+  <div class="tier"><p class="eyebrow">Homepage banner</p><h4>Banner under the header</h4><div class="preview banner-prev">⭐ <b>Your brand</b>: a short pitch and a link</div><ul><li>Shown on every page load of the homepage</li><li>Your link, tagged with utm_source=freeaiwatch</li><li>One sponsor at a time</li></ul><p class="price">Founding rate: <b>$49</b> / week</p></div>
+  <div class="tier"><p class="eyebrow">Weekly digest</p><h4>“Sponsored by” in the email</h4><div class="preview">Sponsored by <b>Your brand</b>: your pitch</div><ul><li>One line at the top of the weekly roundup</li><li>Goes to every subscriber that week</li><li>Available once the digest starts sending</li></ul><p class="price">Not on sale until the digest sends. Included free in Founding Packs</p></div>
 </div>
-<p class="muted small">Sponsorship never changes rankings, verification status or the “not stated” labels. Prices are placeholders until launch.</p>
+<p class="muted small">Sponsorship never changes rankings, verification status or the “not stated” labels. Founding rates apply to bookings made by Nov 30, 2026. After that, pricing is based on published traffic.</p>
 
 <h3>Request a slot</h3>
+<p class="muted small">This form is the way to reach us about sponsorship. We reply to the contact email you enter.</p>
 <form class="card form" data-endpoint="/api/sponsor" novalidate>
   <div class="row2"><label>Company <span class="req">*</span><input name="company" required maxlength="120"></label>
   <label>Website <span class="req">*</span><input name="website" required maxlength="300" placeholder="https://"></label></div>
   <label>Contact email <span class="req">*</span><input name="email" type="email" required maxlength="254"></label>
-  <div class="row2"><label>Slot interest<select name="slot"><option value="not_sure">Not sure yet</option><option value="featured_row">Featured row</option><option value="homepage_banner">Homepage banner</option><option value="weekly_digest">Weekly digest</option></select></label>
+  <div class="row2"><label>Slot interest<select name="slot"><option value="founding_pack">Founding Sponsor Pack</option><option value="not_sure">Not sure yet</option><option value="featured_row">Featured row</option><option value="homepage_banner">Homepage banner</option><option value="weekly_digest">Weekly digest</option></select></label>
   <label>Budget<select name="budget"><option value="not_sure">Not sure yet</option><option value="under_100">Under $100</option><option value="100_300">$100–$300</option><option value="300_1000">$300–$1,000</option><option value="1000_plus">$1,000+</option></select></label></div>
   <label>Message<textarea name="message" rows="4" maxlength="2000" placeholder="What you'd like to promote and when"></textarea></label>
   <label class="hp" aria-hidden="true">Leave blank<input name="website_hp" tabindex="-1" autocomplete="off"></label>

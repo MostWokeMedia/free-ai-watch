@@ -1,7 +1,7 @@
 // POST /api/sponsor — sponsor inquiries, stored as PENDING in KV (SUBSCRIBERS binding, prefix "sponsor:"). Never published.
 const json = (o, s = 200) => new Response(JSON.stringify(o), { status: s, headers: { "Content-Type": "application/json", "Cache-Control": "no-store" } });
 const EMAIL_RE = /^[^\s@<>()[\]\\,;:"]{1,64}@[A-Za-z0-9](?:[A-Za-z0-9-]{0,61}[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]{0,61}[A-Za-z0-9])?)+$/;
-const SLOTS = ["featured_row", "homepage_banner", "weekly_digest", "not_sure"];
+const SLOTS = ["founding_pack", "featured_row", "homepage_banner", "weekly_digest", "not_sure"];
 const BUDGETS = ["under_100", "100_300", "300_1000", "1000_plus", "not_sure"];
 const clean = (v, max) => String(v ?? "").replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, "").trim().slice(0, max);
 async function body(req) { const ct = req.headers.get("content-type") || ""; if (ct.includes("json")) return req.json().catch(() => ({})); if (ct.includes("form")) return Object.fromEntries(await req.formData()); return {}; }
