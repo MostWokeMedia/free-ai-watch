@@ -9,7 +9,7 @@
   "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
   "verify": "Free of charge",
   "category": "API",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "rd Batch Flex Priority Contributor Free Tier Paid Tier, per 1M tokens in USD Input price Free of charge $0.75 through December 31, 2026. $1.50 starting January 1, 2027. Output price (including ",
   "deadline": null
  },
@@ -23,7 +23,7 @@
   "source_url": "https://console.groq.com/docs/rate-limits",
   "verify": "[Ff]ree",
   "category": "API",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "per plan, and higher limits are available for select workloads and enterprise use cases. Free Plan Limits Developer Plan Limits MODEL ID RPM RPD TPM TPD ASH ASD canopylabs/orpheus-a",
   "deadline": null
  },
@@ -37,7 +37,7 @@
   "source_url": "https://openrouter.ai/docs/api_reference/limits",
   "verify": "free",
   "category": "API",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "_budget; error.metadata on the error response Rate limits How many requests you can make (free-model request caps and DDoS protection) 429 X-RateLimit-* headers on the error response \u200b",
   "deadline": null
  },
@@ -51,7 +51,7 @@
   "source_url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
   "verify": "10,000 [Nn]eurons",
   "category": "API",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": " priced at $0.011 per 1,000 Neurons. Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge. To use more than 10,000 Neurons per day, you need to sign up for th",
   "deadline": null
  },
@@ -65,7 +65,7 @@
   "source_url": "https://docs.cohere.com/docs/rate-limits",
   "verify": "[Tt]rial",
   "category": "API",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ed in usage), and production keys (paid and much less limited in usage). You can create a trial or production key on the API keys page. For more details on pricing please see our pricin",
   "deadline": null
  },
@@ -79,7 +79,7 @@
   "source_url": "https://elevenlabs.io/pricing",
   "verify": "10k credits",
   "category": "Voice",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "h Speech to Text Sound Effects Voice Design Music Productions Image 3 Projects in Studio 10k credits per month Starter Until Oct 18 $6 First month 83% off $1 per month Choose Starter Ever",
   "deadline": null
  },
@@ -93,7 +93,7 @@
   "source_url": "https://github.com/features/copilot/plans",
   "verify": "2,000|Free",
   "category": "Coding",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ns & Pricing Take flight with GitHub Copilot Pricing plans For individuals For businesses Free For getting started with GitHub Copilot. $ 0 USD Get started Open in VS Code What's in",
   "deadline": null
  },
@@ -107,7 +107,7 @@
   "source_url": "https://education.github.com/pack",
   "verify": "[Ss]tudent",
   "category": "Students",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "Skip to content GitHub.com Education Students Teachers Schools Events Sign in GitHub Student Developer Pack Learn to ship software li",
   "deadline": null
  },
@@ -121,7 +121,7 @@
   "source_url": "https://azure.microsoft.com/en-us/free/students",
   "verify": "\\$100",
   "category": "Cloud",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ts of 65+ always-free services Access to full catalog of services up to free amounts and $100 credit Gain access to industry-leading technology like Azure OpenAI along with extensive ",
   "deadline": null
  },
@@ -135,7 +135,7 @@
   "source_url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account",
   "verify": "\\$200",
   "category": "Cloud",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "nts of 65+ always-free services Access to full catalog of services up to free amounts and $200 credit Spending protection\u2014credit card won\u2019t be charged* No upfront commitment\u2014cancel any",
   "deadline": null
  },
@@ -149,7 +149,7 @@
   "source_url": "https://cloud.google.com/free",
   "verify": "\\$300",
   "category": "Cloud",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "with AI for free. Get started for free Contact sales Three ways to get started for free $300 in free credit for new customers New customers get $300 in free credit to try Google Clo",
   "deadline": null
  },
@@ -163,7 +163,7 @@
   "source_url": "https://aws.amazon.com/free/",
   "verify": "\\$200",
   "category": "Cloud",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "erms and Conditions More AWS AWS Free Tier AWS Free Tier Get started for free with up to $200 in credits Create a free account Start building in console Get up to $200 in credits for",
   "deadline": null
  },
@@ -177,7 +177,7 @@
   "source_url": "https://docs.tavily.com/documentation/api-credits",
   "verify": "1,000",
   "category": "Search",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "nage your Tavily API Credits. Copy page \u200b Free API Credits Get your free API key You get 1,000 free API Credits every month. No credit card required. \u200b Pricing Overview Tavily operates",
   "deadline": null
  },
@@ -205,7 +205,7 @@
   "source_url": "https://exa.ai/pricing",
   "verify": "\\$10",
   "category": "Search",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ots News monitoring Enrichments Voice agents People search Company search STARTER Free $10 credits every month plus a $10 onboarding bonus. No payment method required Start buildi",
   "deadline": null
  },
@@ -219,7 +219,7 @@
   "source_url": "https://deepgram.com/pricing",
   "verify": "\\$200",
   "category": "Voice",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "id credits for the year. Credits are redeemed against actual usage. Overview Price Free $200 Credit then pay-as-you-go $4K+ / year Best for Developers & Startups Growing Applic",
   "deadline": null
  },
@@ -233,7 +233,7 @@
   "source_url": "https://www.pinecone.io/pricing/",
   "verify": "Starter",
   "category": "Infra",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "plans tailored to your needs. ALSO AVAILABLE ON YOUR CLOUD MARKETPLACE AWS GCP Microsoft Starter For trying out and for small applications. Start for Free Free View included usage P",
   "deadline": null
  },
@@ -247,7 +247,7 @@
   "source_url": "https://supabase.com/pricing",
   "verify": "Free",
   "category": "Infra",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "n Ask ChatGPT Ask Claude FREE Perfect for passion projects & simple websites. Start for Free $0 / month Get started with: Unlimited API requests 50,000 monthly active users 500 M",
   "deadline": null
  },
@@ -261,7 +261,7 @@
   "source_url": "https://vercel.com/pricing",
   "verify": "Hobby",
   "category": "Infra",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "Resources Enterprise Pricing Get a Demo Log In Sign Up Scale your app, control your costs Hobby $0 /mo. The perfect starting place for your web app or personal project. Import your re",
   "deadline": null
  },
@@ -275,7 +275,7 @@
   "source_url": "https://neon.com/pricing",
   "verify": "Free",
   "category": "Infra",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "Major update to our Free Plan: now with 1 GB of Postgres storage per project, 100 projects included Neon Product S",
   "deadline": null
  },
@@ -289,7 +289,7 @@
   "source_url": "https://modal.com/pricing",
   "verify": "\\$30",
   "category": "Infra",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ilt for small teams and independent developers looking to level up. $0 + compute / month $30 / month free credits 3 workspace seats included 100 containers + 10 GPU concurrency Sched",
   "deadline": null
  },
@@ -303,7 +303,7 @@
   "source_url": "https://devin.ai/pricing",
   "verify": "Free",
   "category": "Coding",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "rfect plan for your journey SWE-2, OUR LATEST MODEL, IS NOW AVAILABLE \u2192 INDIVIDUAL PLANS Free $0 Download Light quota to code with agents Limited model availability Unlimited inline e",
   "deadline": null
  },
@@ -317,7 +317,7 @@
   "source_url": "https://v0.app/pricing",
   "verify": "\\$5",
   "category": "Coding",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "terprise Pricing iOS Students FAQ Get Started Plans and Pricing Free $0 /month Includes $5 in one-time credits for new users Deploy apps to Vercel Edit visually with Design Mode Sy",
   "deadline": null
  },
@@ -331,7 +331,7 @@
   "source_url": "https://lovable.dev/pricing",
   "verify": "[Ff]ree",
   "category": "Coding",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ons Resources Community Enterprise Pricing Security Log in Get started Pricing Start for free. Upgrade to get the capacity that exactly matches your team's needs. Plans Monthly Yearl",
   "deadline": null
  },
@@ -345,7 +345,7 @@
   "source_url": "https://bolt.new/pricing",
   "verify": "[Ff]ree",
   "category": "Coding",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "Solutions Resources Careers Pricing Sign in Get Started Pricing Start for free. Upgrade as you go. Monthly Yearly Save up to 28% with yearly billing Free $0 Get star",
   "deadline": null
  },
@@ -359,7 +359,7 @@
   "source_url": "https://www.jetbrains.com/academy/student-pack/",
   "verify": "[Ss]tudent",
   "category": "Students",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": " Business Education Solutions Support Pricing Academy Scholars Teams Classrooms Educators Students Courses JetBrains Student Pack Professional developer tools for study and job prep Whet",
   "deadline": null
  },
@@ -373,7 +373,7 @@
   "source_url": "https://gemini.google/students/",
   "verify": "Redeem until December 31, 2026",
   "category": "Students",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ini different from other AI tools for school? Eligible students only. Offer Terms apply. Redeem until December 31, 2026. Valid form of payment required at sign-up. Unless cancelled earlier, Google AI Pro will ",
   "deadline": "2026-12-31"
  },
@@ -387,8 +387,8 @@
   "source_url": "https://chatgpt.com/pricing",
   "verify": "Free",
   "category": "Chat",
-  "last_checked": "2026-10-14",
-  "evidence": "cing for our individual, business, and enterprise plans. Individual Business & Enterprise Free Intelligence for everyday tasks $0 / month Get Free Unlimited text chats with GPT-6 L",
+  "last_checked": "2026-10-15",
+  "evidence": "cing for our individual, business, and enterprise plans. Individual Business & Enterprise Free Intelligence for everyday tasks / month Get Free Unlimited text chats with GPT-6 Limi",
   "deadline": null
  },
  {
@@ -401,7 +401,7 @@
   "source_url": "https://claude.com/pricing",
   "verify": "Free",
   "category": "Chat",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": " Read what changed (opens in new tab) Pricing Individual Developer Team & Enterprise API Free Try Claude $0 Free for everyone Try Claude Chat on web, desktop, and mobile Search th",
   "deadline": null
  },
@@ -415,7 +415,7 @@
   "source_url": "https://mistral.ai/pricing",
   "verify": "Free",
   "category": "Chat",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": " Malta Netherlands Poland Portugal Romania Slovakia Slovenia Spain Sweden United Kingdom Free Your personal AI agent for everyday tasks. Test out Vibe\u2019s capabilities. Access on web",
   "deadline": null
  },
@@ -429,7 +429,7 @@
   "source_url": "https://suno.com/pricing",
   "verify": "50 credits",
   "category": "Media",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "onthly Annual SAVE 20% Free Our starter plan. $0 /month Sign Up Access to our free models 50 credits per day Standard features only Upload up to 8 min of audio Shared creation queue No month",
   "deadline": null
  },
@@ -443,7 +443,7 @@
   "source_url": "https://runway.com/pricing",
   "verify": "125",
   "category": "Media",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": " months free Free Free forever. For people looking to explore Runway's AI Tools $0 /month 125 credits 125 one-time credits to explore Runway's AI tools. Start Free Includes 125 credit",
   "deadline": null
  },
@@ -471,7 +471,7 @@
   "source_url": "https://serper.dev/",
   "verify": "2,500",
   "category": "Search",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "ivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price. Get 2,500 free queries No credit card required \ud83d\udd0e Search \ud83d\udcf7 Images \ud83d\uddde News \ud83d\uddfa Maps \ud83d\udccd Places \ud83c\udfa5 Videos ",
   "deadline": null
  },
@@ -485,7 +485,7 @@
   "source_url": "https://brave.com/search/api/",
   "verify": "\\$5 in free monthly credits",
   "category": "Search",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "with the world's largest independent index of the Web. Get started* Read the docs *with $5 in free monthly credits Third-party verified as having the highest agent quality score and lowest latency among ",
   "deadline": null
  },
@@ -499,7 +499,7 @@
   "source_url": "https://jina.ai/reader/",
   "verify": "[Ff]ree",
   "category": "Search",
-  "last_checked": "2026-10-14",
+  "last_checked": "2026-10-15",
   "evidence": "sis AI in no time. open_in_new ORIGINAL PDF open_in_new READER RESULT The best part? It's free! Reader API is available for free and offers flexible rate limit and pricing. Built on a ",
   "deadline": null
  },

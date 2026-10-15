@@ -657,6 +657,22 @@ Productivity
 
 Get help at PomoDone support
 
+Appwrite
+About Appwrite
+
+Appwrite is an open-source, developer infrastructure platform for building web, mobile, and AI apps. It includes both a backend server and a fully integrated hosting solution for deploying static and server-side rendered frontends.
+
+Offers
+Offer
+
+Free access to Appwrite's Education plan (2 projects with equivalent resource limits as Appwrite Pro, worth $40/month) for six months.
+
+Tags
+Cloud
+Developer tools
+
+Get help at Appwrite support
+
 Bootstrap Studio
 About Bootstrap Studio
 
@@ -689,22 +705,6 @@ Infrastructure & APIs
 
 Get help at Arduino support
 
-Appwrite
-About Appwrite
-
-Appwrite is an open-source, developer infrastructure platform for building web, mobile, and AI apps. It includes both a backend server and a fully integrated hosting solution for deploying static and server-side rendered frontends.
-
-Offers
-Offer
-
-Free access to Appwrite's Education plan (2 projects with equivalent resource limits as Appwrite Pro, worth $40/month) for six months.
-
-Tags
-Cloud
-Developer tools
-
-Get help at Appwrite support
-
 Sentry
 About Sentry
 
@@ -721,21 +721,6 @@ Developer tools
 
 Get help at Sentry support
 
-Icons8
-About Icons8
-
-Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.
-
-Offers
-Offer
-
-Free 3-month subscription that includes: icons, photos, illustrations, and music.
-
-Tags
-Design
-
-Get help at Icons8 support
-
 Zyte
 About Zyte
 
@@ -750,6 +735,21 @@ Tags
 Developer tools
 
 Get help at Zyte support
+
+Icons8
+About Icons8
+
+Icons8 provides design resources: icons, UI illustrations, photos and software to class up your projects.
+
+Offers
+Offer
+
+Free 3-month subscription that includes: icons, photos, illustrations, and music.
+
+Tags
+Design
+
+Get help at Icons8 support
 
 New Relic
 About New Relic
@@ -925,21 +925,6 @@ Design
 
 Get help at Visme support
 
-HazeOver
-About HazeOver
-
-Get focused while working on your projects or studying with HazeOver for Mac.
-
-Offers
-Offer
-
-Free app license, including minor updates.
-
-Tags
-Productivity
-
-Get help at HazeOver support
-
 Adafruit
 About Adafruit
 
@@ -955,6 +940,36 @@ Internet of Things
 Infrastructure & APIs
 
 Get help at Adafruit support
+
+HazeOver
+About HazeOver
+
+Get focused while working on your projects or studying with HazeOver for Mac.
+
+Offers
+Offer
+
+Free app license, including minor updates.
+
+Tags
+Productivity
+
+Get help at HazeOver support
+
+InterviewCake
+About InterviewCake
+
+Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
+
+Offers
+Offer
+
+Access to the full coding interview prep course for 1 week.
+
+Tags
+Learn
+
+Get help at InterviewCake support
 
 Doppler
 About Doppler
@@ -973,20 +988,22 @@ Developer tools
 
 Get help at Doppler support
 
-InterviewCake
-About InterviewCake
+ToDiagram
+About ToDiagram
 
-Interview Cake makes coding interviews a piece of cake with practice questions, data structures and algorithms reference pages, cheat sheets, and more.
+ToDiagram is a browser-based interactive data editor that turns any JSON, YAML, CSV and XML into editable diagrams with fully customizable formats, allowing you to define nodes and edges for any diagram.
 
 Offers
 Offer
 
-Access to the full coding interview prep course for 1 week.
+ToDiagram Pro Plan including full editor access, no data limits, and up to 10 documents stored in the cloud. This offer does not include AI-assistant functionality.
 
 Tags
-Learn
+Productivity
+Developer tools
+Infrastructure & APIs
 
-Get help at InterviewCake support
+Get help at ToDiagram support
 
 GitKraken
 About GitKraken
@@ -1032,23 +1049,6 @@ Learn
 Personal Portfolio
 
 Get help at AlgoExpert support
-
-ToDiagram
-About ToDiagram
-
-ToDiagram is a browser-based interactive data editor that turns any JSON, YAML, CSV and XML into editable diagrams with fully customizable formats, allowing you to define nodes and edges for any diagram.
-
-Offers
-Offer
-
-ToDiagram Pro Plan including full editor access, no data limits, and up to 10 documents stored in the cloud. This offer does not include AI-assistant functionality.
-
-Tags
-Productivity
-Developer tools
-Infrastructure & APIs
-
-Get help at ToDiagram support
 
 Blackfire
 About Blackfire
@@ -1127,37 +1127,6 @@ Security & analytics
 
 Get help at AstraSecurity support
 
-Tower
-About Tower
-
-The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
-
-Offers
-Offer
-
-Free license for Tower Pro while you are a student.
-
-Tags
-Developer tools
-
-Get help at Tower support
-
-WorkingCopy
-About WorkingCopy
-
-Powerful Git client for iPhone & iPad.
-
-Offers
-Offer
-
-All Pro features for free while you are a student.
-
-Tags
-Developer tools
-Mobile
-
-Get help at WorkingCopy support
-
 Requestly
 About Requestly
 
@@ -1175,6 +1144,21 @@ Cloud
 
 Get help at Requestly support
 
+Tower
+About Tower
+
+The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
+
+Offers
+Offer
+
+Free license for Tower Pro while you are a student.
+
+Tags
+Developer tools
+
+Get help at Tower support
+
 GoRails
 About GoRails
 
@@ -1190,21 +1174,6 @@ Learn
 
 Get help at GoRails support
 
-Imgbot
-About Imgbot
-
-Imgbot is a GitHub App that automatically optimizes your images.
-
-Offers
-Offer
-
-Free image optimization for all your public and private projects while you are a student.
-
-Tags
-Infrastructure & APIs
-
-Get help at Imgbot support
-
 GitHub Desktop
 About GitHub Desktop
 
@@ -1219,6 +1188,37 @@ Tags
 Developer tools
 
 Get help at GitHub Desktop support
+
+WorkingCopy
+About WorkingCopy
+
+Powerful Git client for iPhone & iPad.
+
+Offers
+Offer
+
+All Pro features for free while you are a student.
+
+Tags
+Developer tools
+Mobile
+
+Get help at WorkingCopy support
+
+Imgbot
+About Imgbot
+
+Imgbot is a GitHub App that automatically optimizes your images.
+
+Offers
+Offer
+
+Free image optimization for all your public and private projects while you are a student.
+
+Tags
+Infrastructure & APIs
+
+Get help at Imgbot support
 
 SimpleAnalytics
 About SimpleAnalytics

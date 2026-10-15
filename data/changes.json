@@ -1,5 +1,110 @@
 [
  {
+  "date": "2026-10-15",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Perplexity Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4aa07543cf2e079 | +Ray ID: a4aae95d488ee1ee",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4aa0702ea189991 | +Ray ID: a4aae912ca7beb22",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Runway Free",
+  "type": "page_changed",
+  "detail": "+This website uses cookies | + | +We and our third-party partners use cookies, pixels, and other technologies to collect, record, and share information you provide as well as information about your interactions with our site for ad targeting, analytics, personalization, and site functionality purposes.\u00a0 | + | +By continuing to use the site or by clicking one of the buttons below, you agree to the ",
+  "source_url": "https://runway.com/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Claude Free",
+  "type": "page_changed",
+  "detail": "-Claude Code included | +Claude Code | -Claude Code included",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "-$0 | -$8 | -$20 | -$100",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Bolt Free",
+  "type": "page_changed",
+  "detail": "-Bolt Forge | -included until Oct 14 | -Learn more",
+  "source_url": "https://bolt.new/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Lovable Free",
+  "type": "page_changed",
+  "detail": "-We use cookies to enhance your development experience and keep your data secure. Privacy Policy \u00b7 Cookie Policy | +We use cookies to enhance your development experience and keep your data secure. Privacy Policy | +OK | -OK | +Do not sell my data",
+  "source_url": "https://lovable.dev/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Pinecone Starter",
+  "type": "page_changed",
+  "detail": "-This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: | +This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. | +Accept | +Deny Non-Essential",
+  "source_url": "https://www.pinecone.io/pricing/"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Tavily free plan",
+  "type": "page_changed",
+  "detail": "-Your Privacy Rights | +Do Not Sell or Share My Personal Information | -We process your personal information to measure and improve our sites and service, to assist our marketing campaigns and to provide personalised content and advertising. By clicking the button on the right, you can exercise your privacy rights. For more information see our privacy noticeCookie Notice | -Your Privacy Rights Rej",
+  "source_url": "https://docs.tavily.com/documentation/api-credits"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+Appwrite | +About Appwrite | + | +Appwrite is an open-source, developer infrastructure platform for building web, mobile, and AI apps. It includes both a backend server and a fully integrated hosting solution for deploying static and server-side rendered frontends. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "ElevenLabs Free",
+  "type": "page_changed",
+  "detail": "+Your Privacy Choices",
+  "source_url": "https://elevenlabs.io/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Cohere trial key",
+  "type": "page_changed",
+  "detail": "-We and our partners use cookies, scripts and certain similar technologies (\u201cCookies\u201d) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on",
+  "source_url": "https://docs.cohere.com/docs/rate-limits"
+ },
+ {
   "date": "2026-10-14",
   "name": "Perplexity Free",
   "type": "phrase_missing",

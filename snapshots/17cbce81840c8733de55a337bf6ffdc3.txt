@@ -1,3 +1,18 @@
+This website uses cookies
+
+We and our third-party partners use cookies, pixels, and other technologies to collect, record, and share information you provide as well as information about your interactions with our site for ad targeting, analytics, personalization, and site functionality purposes. 
+
+By continuing to use the site or by clicking one of the buttons below, you agree to the use of these technologies (as described in our Privacy Policy and subject to your settings) and our Terms of Use (which contains important waivers). 
+
+Consent Selection
+Necessary
+Functional
+Analytics
+Advertising
+Show details
+Allow all
+Allow selection
+Deny
 Creative
 Dev
 Robotics
@@ -92,6 +107,10 @@ $76
 /mo
 9500 credits = 791s of Gen-4.5, 791s of Gen-4, 1900s of Gen-4 Turbo, 1187 Gen-4 Images (1080p), or 475 Nano Banana Pro images (2K).
 Get Max
+
+Unlimited Wan 3.0 & Wan 3.0 Prime 
+Unlimited in Tool Mode until October 18.
+
 Early access to new models
 Agentic creative collaborator
 Parallel generations: 20 videos & images
@@ -103,6 +122,9 @@ Runway MCP
 Studio-grade quality generations: HDR, ProRes, image sequences
 Unlimited 4K video upscaling
 500GB storage
+Wan 3.0
+Unlimited
+Unlimited in Tool Mode until October 18.
 Topaz AI Upscale
 Unlimited
 Seedance 2.5
