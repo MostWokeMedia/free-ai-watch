@@ -1,7 +1,9 @@
 {
   "_doc": "Sponsor tracked links: https://freeaiwatch.com/go/<slug>?m=row|banner|x|digest . See docs/CLICKS.md. Keys starting with '_' are ignored.",
-  "_example": {"name": "Example Co", "url": "https://example.com/pricing", "active": false},
-  "sponsors": {
-    "test-sponsor": {"name": "Redirect test (remove)", "url": "https://example.com/", "active": true}
-  }
+  "_example": {
+    "name": "Example Co",
+    "url": "https://example.com/pricing",
+    "active": false
+  },
+  "sponsors": {}
 }
