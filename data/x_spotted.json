@@ -10,8 +10,8 @@
   "discount_pct": null,
   "comment_keyword": null,
   "posted_at": "2026-10-14T14:29:33.000Z",
-  "deadline": null,
-  "deadline_basis": null,
+  "deadline": "2026-10-17T06:59:59Z",
+  "deadline_basis": "Oct 13–16 (end of day PT)",
   "metrics": {
    "like_count": 81,
    "reply_count": 17,

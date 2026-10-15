@@ -23,11 +23,24 @@ def is_original(p):
     if p.get("in_reply_to_user_id"): return False
     return not any(r.get("type") in ("replied_to", "quoted", "retweeted") for r in p.get("referenced_tweets") or [])
 
+from zoneinfo import ZoneInfo
+PT = ZoneInfo("America/Los_Angeles")
+_MON = r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?"
+RANGE = re.compile(r"\b" + _MON + r"\s+(\d{1,2})\s*(?:[–—-]|to|through|thru)\s*(?:" + _MON + r"\s+)?(\d{1,2})\b", re.I)
+
 def deadline(text, created):
     m = re.search(cfg["extract"]["duration"], text, re.I)
     if m:
         n = NUM.get(m.group(1).lower()) or int(m.group(1)); u = UNIT[m.group(2).lower().rstrip("s")]
         return (created + dt.timedelta(**{u: n})).isoformat().replace("+00:00", "Z"), m.group(0)
+    m = RANGE.search(text)   # date range like "Oct 13–16" or "Oct 30 - Nov 2": ends on the last day, end of day PT
+    if m:
+        mon = m.group(3) or m.group(1)
+        try:
+            d = dt.datetime.strptime(f"{mon[:3].title()} {m.group(4)} {created.year}", "%b %d %Y").replace(hour=23, minute=59, second=59, tzinfo=PT)
+            if d < created - dt.timedelta(days=1): d = d.replace(year=d.year + 1)
+            return d.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z"), m.group(0) + " (end of day PT)"
+        except ValueError: pass
     m = re.search(cfg["extract"]["until_date"], text, re.I)
     if m:
         d = dt.datetime.strptime(f"{m.group(1)} {created.year}", "%B %d %Y").replace(hour=23, minute=59, tzinfo=dt.timezone.utc)
