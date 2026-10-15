@@ -832,21 +832,6 @@ Developer tools
 
 Get help at Polypane support
 
-IconScout
-About IconScout
-
-IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
-
-Offers
-Offer
-
-Free access to 60 premium icons from selected contributors every month for 1 year.
-
-Tags
-Design
-
-Get help at IconScout support
-
 GitLens
 About GitLens
 
@@ -861,6 +846,21 @@ Tags
 Developer tools
 
 Get help at GitLens support
+
+IconScout
+About IconScout
+
+IconScout is a design resources marketplace with over 4.9 million icons, illustrations, 3D assets, and Lottie animations.
+
+Offers
+Offer
+
+Free access to 60 premium icons from selected contributors every month for 1 year.
+
+Tags
+Design
+
+Get help at IconScout support
 
 Scrimba
 About Scrimba
@@ -1388,22 +1388,6 @@ Marketing
 
 Get help at Appfigures support
 
-Themeisle
-About Themeisle
-
-Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone.
-
-Offers
-Offer
-
-Free year of Neve Agency WordPress theme exclusively for students.
-
-Tags
-Design
-Infrastructure & APIs
-
-Get help at Themeisle support
-
 ConfigCat
 About ConfigCat
 
@@ -1419,6 +1403,22 @@ Developer tools
 Infrastructure & APIs
 
 Get help at ConfigCat support
+
+Themeisle
+About Themeisle
+
+Neve’s mobile-first approach, compatibility with AMP and popular page-builders makes website building accessible for everyone.
+
+Offers
+Offer
+
+Free year of Neve Agency WordPress theme exclusively for students.
+
+Tags
+Design
+Infrastructure & APIs
+
+Get help at Themeisle support
 
 Vaadin
 About Vaadin
