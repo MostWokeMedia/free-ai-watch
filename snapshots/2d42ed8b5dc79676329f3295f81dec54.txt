@@ -409,21 +409,6 @@ Mobile
 
 Get help at Termius support
 
-MongoDB
-About MongoDB
-
-A general purpose, document-based, distributed database built for modern application developers and for the cloud era.
-
-Offers
-Offer
-
-$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.
-
-Tags
-Infrastructure & APIs
-
-Get help at MongoDB support
-
 Educative
 About Educative
 
@@ -438,6 +423,21 @@ Tags
 Learn
 
 Get help at Educative support
+
+MongoDB
+About MongoDB
+
+A general purpose, document-based, distributed database built for modern application developers and for the cloud era.
+
+Offers
+Offer
+
+$50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification valued at $150.
+
+Tags
+Infrastructure & APIs
+
+Get help at MongoDB support
 
 Camber
 About Camber
@@ -971,23 +971,6 @@ Learn
 
 Get help at InterviewCake support
 
-Doppler
-About Doppler
-
-A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow.
-
-Offers
-Offer
-
-Free Doppler Team subscription while the user is an active student.
-
-Tags
-Infrastructure & APIs
-Security & analytics
-Developer tools
-
-Get help at Doppler support
-
 ToDiagram
 About ToDiagram
 
@@ -1019,6 +1002,23 @@ Tags
 Developer tools
 
 Get help at GitKraken support
+
+Doppler
+About Doppler
+
+A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow.
+
+Offers
+Offer
+
+Free Doppler Team subscription while the user is an active student.
+
+Tags
+Infrastructure & APIs
+Security & analytics
+Developer tools
+
+Get help at Doppler support
 
 Octicons
 About Octicons
