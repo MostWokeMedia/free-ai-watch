@@ -14,7 +14,7 @@ Individual
 Business & Enterprise
 Free
 
-Intelligence for everyday tasks
+Best for trying out ChatGPT
 
 $0
 / month
@@ -41,7 +41,7 @@ Unlimited text chats subject to abuse guardrails. Learn more⁠
 
 Go
 
-Expanded access
+Best for longer conversations
 
 $8
 / month
@@ -63,7 +63,7 @@ Unlimited text chats subject to abuse guardrails. Learn more⁠
 
 Plus
 
-Do more with advanced intelligence
+Best for advanced work and productivity
 
 $20
 / month
@@ -92,7 +92,7 @@ Limits apply⁠
 
 Pro
 
-Maximize your productivity
+Best for research and coding
 
 From
 $100
