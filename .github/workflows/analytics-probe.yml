@@ -1,0 +1,11 @@
+name: analytics-probe (temporary)
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Try enabling Cloudflare Web Analytics
+        env: { T: "${{ secrets.CLOUDFLARE_API_TOKEN }}", A: "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}" }
+        run: |
+          echo "--- list sites"; curl -s -H "Authorization: Bearer $T" "https://api.cloudflare.com/client/v4/accounts/$A/rum/site_info/list" | jq -c '{success,errors,count:(.result|length?)}'
+          echo "--- create"; curl -s -X POST -H "Authorization: Bearer $T" -H "Content-Type: application/json" "https://api.cloudflare.com/client/v4/accounts/$A/rum/site_info" -d '{"host":"freeaiwatch.com","auto_install":true}' | jq -c '{success,errors,site_tag:.result.site_tag}'
