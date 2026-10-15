@@ -19,11 +19,15 @@ VOLATILE = [(re.compile(r"(Cloudflare )?Ray ID:?\s*[0-9a-f]{12,20}", re.I), "Ray
             (re.compile(r"\b[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\b", re.I), "<uuid>")]
 # Lines that change without the offer changing: cookie/consent banners, keyboard-shortcut glyphs,
 # result counters, embedded widget errors (e.g. Jina's key widget failing its human check in CI).
-NOISE_LINE = re.compile(r"cookie|privacy choices|do not sell|manage preferences|consent|^(ctrl ?\+? ?[a-z]|⌘ ?[a-z]|ctrl[a-z])$|^displaying \d+-\d+ \(\d+\)$|"
+NOISE_LINE = re.compile(r"cookie|privacy|do not sell|manage preferences|consent|accept all|reject (all|optional)|agree to the use of|^settings$|security verification|malicious bots|^(ctrl ?\+? ?[a-z]|⌘ ?[a-z]|ctrl[a-z])$|^displaying \d+-\d+ \(\d+\)$|"
                         r"verify if you are human|refreshing the page multiple times|^(refresh|bug_report|debug info|contact|report_problem.*)$", re.I)
 def norm(t):
     for rx, rep in VOLATILE: t = rx.sub(rep, t)
     return "\n".join(l for l in t.splitlines() if l.strip() and not NOISE_LINE.search(l.strip()))
+def lh(l): return hashlib.md5(l.strip().lower().encode()).hexdigest()[:12]
+def remember(snap, text):
+    f = snap.with_suffix(".seen"); seen = set(f.read_text().split()) if f.exists() else set()
+    f.write_text("\n".join(sorted(seen | {lh(l) for l in norm(text).splitlines()})))
 def add_event(ev):
     """One event per offer/type/day: repeat runs replace instead of stacking."""
     for i, c in enumerate(changes):
@@ -57,9 +61,13 @@ with sync_playwright() as p:
         if snap.exists() and text:
             old = snap.read_text()
             if norm(old) != norm(text):
-                d = [l for l in difflib.unified_diff(norm(old).splitlines(), norm(text).splitlines(), lineterm="", n=0) if l[:1] in "+-" and l[:3] not in ("+++","---")]
+                # Only lines never seen before on this page count. A/B copy variants and reordering
+                # are remembered in snapshots/<hash>.seen, so a variant only alerts the first time it appears.
+                seenf = snap.with_suffix(".seen"); seen = set(seenf.read_text().split()) if seenf.exists() else set()
+                seen |= {lh(l) for l in norm(old).splitlines()}
+                d = ["+" + l for l in norm(text).splitlines() if lh(l) not in seen]
                 if d: add_event({"date":today,"name":it["name"],"type":"page_changed","detail":" | ".join(d[:6])[:400],"source_url":url})
-        if text: snap.write_text(text)
+        if text: snap.write_text(text); remember(snap, text)
         if seed:
             if m:
                 it.update(last_checked=today, evidence=ev, deadline=None); kept.append(it)

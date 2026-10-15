@@ -1,55 +1,6 @@
 [
  {
   "date": "2026-10-15",
-  "name": "Perplexity Free",
-  "type": "page_changed",
-  "detail": "-www.perplexity.ai | -Performing security verification | -This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. | -Ray ID: <ray> | -Performance and Security by Cloudflare | -Privacy",
-  "source_url": "https://www.perplexity.ai/pro"
- },
- {
-  "date": "2026-10-15",
-  "name": "Runway Free",
-  "type": "page_changed",
-  "detail": "+By continuing to use the site or by clicking one of the buttons below, you agree to the use of these technologies (as described in our Privacy Policy and subject to your settings) and our Terms of Use (which contains important waivers).\u00a0 | +Necessary | +Functional | +Analytics | +Advertising | +Show details",
-  "source_url": "https://runway.com/pricing"
- },
- {
-  "date": "2026-10-15",
-  "name": "Claude Free",
-  "type": "page_changed",
-  "detail": "-Developer | -Claude Code included | +Claude Code | -Claude Code included",
-  "source_url": "https://claude.com/pricing"
- },
- {
-  "date": "2026-10-15",
-  "name": "ChatGPT Free",
-  "type": "page_changed",
-  "detail": "-Best for trying out ChatGPT | +Intelligence for everyday tasks | -Best for longer conversations | +Expanded access | -Best for advanced work and productivity | +Do more with advanced intelligence",
-  "source_url": "https://chatgpt.com/pricing"
- },
- {
-  "date": "2026-10-15",
-  "name": "Tavily free plan",
-  "type": "page_changed",
-  "detail": "-Your Privacy Rights",
-  "source_url": "https://docs.tavily.com/documentation/api-credits"
- },
- {
-  "date": "2026-10-15",
-  "name": "GitHub Copilot Free",
-  "type": "page_changed",
-  "detail": "-For lightweight chats | +For getting started with GitHub Copilot. | -Start for free | +Get started | -Access to entry level models | +Access to Haiku 4.5, GPT-5 mini, and more",
-  "source_url": "https://github.com/features/copilot/plans"
- },
- {
-  "date": "2026-10-15",
-  "name": "Cohere trial key",
-  "type": "page_changed",
-  "detail": "+Settings | +Reject optional | +Accept all",
-  "source_url": "https://docs.cohere.com/docs/rate-limits"
- },
- {
-  "date": "2026-10-15",
   "name": "Jina Reader",
   "type": "note",
   "detail": "The API-key widget on jina.ai/reader shows 'couldn't verify if you are human' to our automated checker (bot check, not an offer change). Free tier still listed: keyless Reader 20 RPM; a free API key gives 500 RPM; new keys come with 10M free tokens.",
@@ -59,7 +10,7 @@
   "date": "2026-10-15",
   "name": "GitHub Student Developer Pack",
   "type": "page_changed",
-  "detail": "+GitLens | +About GitLens | +GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues. | +Offers | +Offer | +The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as",
+  "detail": "New partner offers listed: IconScout (design assets), GitLens (VS Code Git extension). See pack page.",
   "source_url": "https://education.github.com/pack"
  },
  {
