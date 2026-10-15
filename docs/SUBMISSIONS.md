@@ -16,7 +16,7 @@ The admin API `/api/admin/queue` stays **disabled (403) until `ADMIN_TOKEN` is s
 1. Generate a long random token locally: `python3 -c "import secrets;print(secrets.token_urlsafe(32))"` (24+ characters required).
 2. Cloudflare dashboard → Workers & Pages → **freeaiwatch** → Settings → Variables and Secrets → Add → Type **Secret**, name `ADMIN_TOKEN`, Production. (CLI alternative: `npx wrangler pages secret put ADMIN_TOKEN --project-name=freeaiwatch` with an account-level token.)
 3. Redeploy: push, or re-run the workflow.
-4. Locally: `export FAW_ADMIN_TOKEN=<same value>`. Never commit it.
+4. Locally the scripts read the token from `~/.secrets/freeaiwatch_admin_token` (chmod 600) by default; `FAW_ADMIN_TOKEN` or `FAW_ADMIN_TOKEN_FILE` override it. Never commit it.
 
 ## Review
 ```bash
@@ -31,3 +31,5 @@ python3 scripts/review_submissions.py sponsor-done <id> --note "replied 2026-10-
 - If the phrase isn't found, nothing changes.
 - **Publishing happens only when you `git commit && git push`.** Review the diff first.
 - Reply to sponsor requests by email. Nothing on /sponsor goes live without a manual change to the site.
+
+**Status (Oct 14, 2026):** ADMIN_TOKEN is set on the production Pages project. The owner copy is at `/home/box/.secrets/freeaiwatch_admin_token` on the box, and the same value is in the `FAW_ADMIN_TOKEN` GitHub secret. To rotate it, write a new value to that file, then run `gh secret set FAW_ADMIN_TOKEN < file` and `wrangler pages secret put ADMIN_TOKEN --project-name=freeaiwatch` (or use a one-off Actions workflow, since the deploy token has Pages Edit), then redeploy.

@@ -14,8 +14,10 @@
 ## Reading counts
 The endpoint is `/api/admin/clicks` (GET, or DELETE with `?slug=`). It returns **403 until `ADMIN_TOKEN` is set**.
 1. Set the token: Cloudflare dashboard → Workers & Pages → freeaiwatch → Settings → Variables and Secrets → Add → type *Secret*, name `ADMIN_TOKEN`, value: a random string of 24+ characters (e.g. `python3 -c "import secrets;print(secrets.token_urlsafe(32))"`). Then redeploy (push or re-run the workflow). Or use `npx wrangler pages secret put ADMIN_TOKEN --project-name=freeaiwatch`.
-2. `FAW_ADMIN_TOKEN=<token> python scripts/click_report.py [--slug acme] [--since 2026-11-01]`
+2. `python scripts/click_report.py [--slug acme] [--since 2026-11-01]`
 3. To remove a sponsor's counts: `python scripts/click_report.py --delete-slug <slug>`.
 
 ## Test slug
 `test-sponsor` (→ https://example.com/) was added to prove the redirect live and then removed from the config. The live tests used a `curl` user agent, which is on the bot list, so no counts should exist for it. If any do, run `--delete-slug test-sponsor` once the token is set.
+
+**Status (Oct 14, 2026):** ADMIN_TOKEN is set on the production Pages project. The owner copy is at `/home/box/.secrets/freeaiwatch_admin_token` on the box, and the same value is in the `FAW_ADMIN_TOKEN` GitHub secret. To rotate it, write a new value to that file, then run `gh secret set FAW_ADMIN_TOKEN < file` and `wrangler pages secret put ADMIN_TOKEN --project-name=freeaiwatch` (or use a one-off Actions workflow, since the deploy token has Pages Edit), then redeploy.

@@ -6,7 +6,7 @@ import argparse, json, os, sys, urllib.request, urllib.parse
 from collections import defaultdict
 API = os.environ.get("FAW_CLICKS_API", "https://freeaiwatch.com/api/admin/clicks")
 a = argparse.ArgumentParser(); a.add_argument("--slug"); a.add_argument("--since"); a.add_argument("--delete-slug"); o = a.parse_args()
-tok = os.environ.get("FAW_ADMIN_TOKEN")
+tok = os.environ.get("FAW_ADMIN_TOKEN") or (lambda f: open(f).read().strip() if os.path.exists(f) else None)(os.environ.get("FAW_ADMIN_TOKEN_FILE", os.path.expanduser("~/.secrets/freeaiwatch_admin_token")))
 if not tok: sys.exit("FAW_ADMIN_TOKEN not set. Set the ADMIN_TOKEN secret on Pages first (docs/CLICKS.md).")
 q = {k: v for k, v in (("slug", o.delete_slug or o.slug), ("since", o.since)) if v}
 req = urllib.request.Request(API + ("?" + urllib.parse.urlencode(q) if q else ""), method="DELETE" if o.delete_slug else "GET",

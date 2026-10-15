@@ -15,7 +15,7 @@ R = pathlib.Path(__file__).resolve().parent.parent
 API = os.environ.get("FAW_API", "https://freeaiwatch.com/api/admin/queue")
 
 def call(method, query="", body=None):
-    tok = os.environ.get("FAW_ADMIN_TOKEN")
+    tok = os.environ.get("FAW_ADMIN_TOKEN") or (lambda f: open(f).read().strip() if os.path.exists(f) else None)(os.environ.get("FAW_ADMIN_TOKEN_FILE", os.path.expanduser("~/.secrets/freeaiwatch_admin_token")))
     if not tok: sys.exit("FAW_ADMIN_TOKEN is not set. See docs/SUBMISSIONS.md (ADMIN_TOKEN must be set on the Pages project first).")
     req = urllib.request.Request(API + query, method=method, data=json.dumps(body).encode() if body else None,
                                  headers={"Authorization": "Bearer " + tok, "Content-Type": "application/json", "User-Agent": "faw-review/1"})

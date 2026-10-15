@@ -12,22 +12,43 @@ else:
     items = json.load(open(R/"data/offers.json"))
 changes = json.load(open(R/"data/changes.json")) if (R/"data/changes.json").exists() else []
 kept = []
+BLOCK = re.compile(r"just a moment|attention required|cf-chl|cf_chl|checking your browser|verify you are human|are you a robot|captcha|enable javascript and cookies to continue|ddos protection by|performing security verification", re.I)
+VOLATILE = [(re.compile(r"(Cloudflare )?Ray ID:?\s*[0-9a-f]{12,20}", re.I), "Ray ID: <ray>"),
+            (re.compile(r"\b(nonce|csrf|token|request[ _-]?id|trace[ _-]?id)([\"'=: ]+)[A-Za-z0-9+/_\-=]{8,}", re.I), r"\1\2<tok>"),
+            (re.compile(r"\b[0-9a-f]{32,}\b", re.I), "<hex>"),
+            (re.compile(r"\b[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\b", re.I), "<uuid>")]
+def norm(t):
+    for rx, rep in VOLATILE: t = rx.sub(rep, t)
+    return t
+def blocked(status, text):
+    """Bot-block / challenge page: count as 'couldn't verify', never as a change."""
+    if status in (403, 429, 503): return True
+    return bool(BLOCK.search(text[:5000])) and len(text) < 4000
 with sync_playwright() as p:
     b = p.chromium.launch()
     pg = b.new_page(user_agent="Mozilla/5.0 (X11; Linux x86_64) Chrome/130 Safari/537.36")
     for it in items:
         url = it["source_url"]; snap = R/"snapshots"/(hashlib.md5(url.encode()).hexdigest()+".txt")
+        status = None
         try:
-            pg.goto(url, timeout=30000, wait_until="domcontentloaded"); pg.wait_for_timeout(2500)
+            resp = pg.goto(url, timeout=30000, wait_until="domcontentloaded"); pg.wait_for_timeout(2500)
+            status = resp.status if resp else None
             text = pg.inner_text("body")
+            if blocked(status, text + " " + pg.title()):
+                print("UNVERIFIABLE TODAY (bot block)", it["name"], status)
+                if not seed:
+                    it["check_status"] = "unverifiable today"; it["check_status_date"] = today  # last good last_checked/evidence kept
+                    kept.append(it)
+                continue
         except Exception as e:
             print("FETCH FAIL", it["name"], e.__class__.__name__); text = ""
+        if text: it["check_status"] = "verified" if re.search(it["verify"], text) else "phrase missing"; it.pop("check_status_date", None)
         m = re.search(it["verify"], text) if text else None
         ev = re.sub(r"\s+"," ", text[max(0,m.start()-90):m.end()+90]) if m else ""
         if snap.exists() and text:
             old = snap.read_text()
-            if old != text:
-                d = [l for l in difflib.unified_diff(old.splitlines(), text.splitlines(), lineterm="", n=0) if l[:1] in "+-" and l[:3] not in ("+++","---")]
+            if norm(old) != norm(text):
+                d = [l for l in difflib.unified_diff(norm(old).splitlines(), norm(text).splitlines(), lineterm="", n=0) if l[:1] in "+-" and l[:3] not in ("+++","---")]
                 if d: changes.insert(0, {"date":today,"name":it["name"],"type":"page_changed","detail":" | ".join(d[:6])[:400],"source_url":url})
         if text: snap.write_text(text)
         if seed:

@@ -1,6 +1,7 @@
 name: daily-check-and-deploy
 on:
-  schedule: [{cron: "0 12 * * *"}]   # 12:00 UTC = 7:00 AM CT
+  # Two crons so it runs ~7 AM Central year-round: 12:00 UTC = 7 AM CDT, 13:00 UTC = 7 AM CST. The guard skips the other one.
+  schedule: [{cron: "0 12 * * *"}, {cron: "0 13 * * *"}]
   workflow_dispatch: {}
   push:
     branches: [main]
@@ -10,22 +11,36 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
+      - name: DST guard (scheduled runs only proceed at 7 AM America/Chicago)
+        id: guard
+        run: |
+          H=$(TZ=America/Chicago date +%H)
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "$H" = "07" ]; then echo "go=true" >> "$GITHUB_OUTPUT"; else echo "go=false" >> "$GITHUB_OUTPUT"; echo "Chicago hour $H != 07, skipping"; fi
       - uses: actions/checkout@v4
+        if: steps.guard.outputs.go == 'true'
       - uses: actions/setup-python@v5
+        if: steps.guard.outputs.go == 'true'
         with: {python-version: "3.12"}
       - run: pip install playwright && python -m playwright install --with-deps chromium
+        if: steps.guard.outputs.go == 'true'
       - run: python scripts/check_sources.py
+        if: steps.guard.outputs.go == 'true'
       - run: python scripts/draft_posts.py
+        if: steps.guard.outputs.go == 'true'
       - name: Weekly roundup draft (Mondays)
+        if: steps.guard.outputs.go == 'true'
         run: if [ "$(date -u +%u)" = "1" ]; then python scripts/draft_weekly.py; fi
       - name: Commit updated data, snapshots, drafts
+        if: steps.guard.outputs.go == 'true'
         run: |
           git config user.name "freeaiwatch-bot"; git config user.email "bot@users.noreply.github.com"
           git add data snapshots drafts && git commit -m "daily check $(date -u +%F)" || echo "no changes"
           git pull --rebase origin main && git push
       - name: Build public dist/
+        if: steps.guard.outputs.go == 'true'
         run: bash scripts/build_dist.sh
       - name: Deploy to Cloudflare Pages
+        if: steps.guard.outputs.go == 'true'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}       # placeholder: add in repo secrets
