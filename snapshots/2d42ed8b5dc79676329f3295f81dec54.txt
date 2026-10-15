@@ -832,21 +832,6 @@ Developer tools
 
 Get help at Polypane support
 
-GitLens
-About GitLens
-
-GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues.
-
-Offers
-Offer
-
-The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student.
-
-Tags
-Developer tools
-
-Get help at GitLens support
-
 IconScout
 About IconScout
 
@@ -861,6 +846,21 @@ Tags
 Design
 
 Get help at IconScout support
+
+GitLens
+About GitLens
+
+GitLens is the #1 Git extension for VS Code; enriching your IDE with Git visualizations such as inline blame annotations, the Commit Graph, and the innovative Launchpad. GitLens provides auto-linking and rich hover information for GitHub pull requests and issues.
+
+Offers
+Offer
+
+The GitKraken Student plan: free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+
+Tags
+Developer tools
+
+Get help at GitLens support
 
 Scrimba
 About Scrimba
@@ -988,21 +988,6 @@ Infrastructure & APIs
 
 Get help at ToDiagram support
 
-GitKraken
-About GitKraken
-
-GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
-
-Offers
-Offer
-
-The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
-
-Tags
-Developer tools
-
-Get help at GitKraken support
-
 Doppler
 About Doppler
 
@@ -1019,6 +1004,21 @@ Security & analytics
 Developer tools
 
 Get help at Doppler support
+
+GitKraken
+About GitKraken
+
+GitKraken Desktop is the most popular Git client for Windows, Mac & Linux, offering both a GUI and terminal interface. Deep integration with GitHub repos and issues enable interactive pull request management and issue management directly in the client.
+
+Offers
+Offer
+
+The GitKraken Student Plan: Free for 6 months and then up to 80% off the Pro price as long as you’re a student.
+
+Tags
+Developer tools
+
+Get help at GitKraken support
 
 AlgoExpert
 About AlgoExpert
@@ -1127,6 +1127,21 @@ Infrastructure & APIs
 
 Get help at Pageclip support
 
+Tower
+About Tower
+
+The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
+
+Offers
+Offer
+
+Free license for Tower Pro while you are a student.
+
+Tags
+Developer tools
+
+Get help at Tower support
+
 Requestly
 About Requestly
 
@@ -1143,21 +1158,6 @@ Developer tools
 Cloud
 
 Get help at Requestly support
-
-Tower
-About Tower
-
-The Git client that brings all of Git and GitHub's power to the desktop, for Mac and Windows.
-
-Offers
-Offer
-
-Free license for Tower Pro while you are a student.
-
-Tags
-Developer tools
-
-Get help at Tower support
 
 GoRails
 About GoRails
@@ -1373,6 +1373,21 @@ Security & analytics
 
 Get help at DevCycle support
 
+Appfigures
+About Appfigures
+
+App Store analytics, optimization, and intelligence.
+
+Offers
+Offer
+
+"Free access to universal analytics and performance reports for one year.
+
+Tags
+Marketing
+
+Get help at Appfigures support
+
 Themeisle
 About Themeisle
 
@@ -1388,21 +1403,6 @@ Design
 Infrastructure & APIs
 
 Get help at Themeisle support
-
-Appfigures
-About Appfigures
-
-App Store analytics, optimization, and intelligence.
-
-Offers
-Offer
-
-"Free access to universal analytics and performance reports for one year.
-
-Tags
-Marketing
-
-Get help at Appfigures support
 
 ConfigCat
 About ConfigCat
