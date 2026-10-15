@@ -1,0 +1,1929 @@
+{
+ "fetched_at": "2026-10-15T11:10:43Z",
+ "tool": "x.search_posts_all",
+ "results": [
+  {
+   "name": "official_time_limited",
+   "response": {
+    "data": [
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-10-14T17:00:01.000Z",
+      "edit_history_tweet_ids": [
+       "2110415341998191027"
+      ],
+      "id": "2110415341998191027",
+      "public_metrics": {
+       "bookmark_count": 471,
+       "impression_count": 26507,
+       "like_count": 449,
+       "quote_count": 11,
+       "reply_count": 50,
+       "repost_count": 44
+      },
+      "text": "Bolt is free for EVERYONE for an ENTIRE weekend. \nAnd you could win $10K!\n\nIntroducing the Builders Week challenge.\nBuild all weekend Oct 17 + 18.\nTurn your idea into a product, and submit by Oct 20.\n\nReady to build? Details here 👉 https://t.co/kX0cuKDGyE https://t.co/douQmOcPCb",
+      "url": "https://x.com/boltdotnew/status/2110415341998191027",
+      "lang": "en"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-14T16:15:02.000Z",
+      "edit_history_tweet_ids": [
+       "2110404020192092611"
+      ],
+      "id": "2110404020192092611",
+      "public_metrics": {
+       "bookmark_count": 5,
+       "impression_count": 6335,
+       "like_count": 63,
+       "quote_count": 1,
+       "reply_count": 6,
+       "retweet_count": 5
+      },
+      "text": "ElevenLabs had a strong launch week, taking nearly a third of spend on text-to-speech models yesterday after only 7 days live on platform.\n\nAll @ElevenLabs models are 50% off, only on OpenRouter, through 10/19 https://t.co/7aKezXPsaw",
+      "url": "https://x.com/OpenRouter/status/2110404020192092611"
+     },
+     {
+      "author_id": "1478679005788311552",
+      "created_at": "2026-10-14T16:00:00.000Z",
+      "edit_history_tweet_ids": [
+       "2110400237969826097"
+      ],
+      "id": "2110400237969826097",
+      "public_metrics": {
+       "bookmark_count": 21,
+       "impression_count": 7554,
+       "like_count": 117,
+       "quote_count": 3,
+       "reply_count": 19,
+       "repost_count": 7
+      },
+      "text": "We run our own customer support on ElevenAgents. It’s resolved over 22,000 tickets a month and cut our response time down from hours to 60 seconds.\n\nOur support team already had standard operating procedures for every major kind of ticket, like refunds, billing changes, and voice https://t.co/LodPe287TM",
+      "url": "https://x.com/ElevenLabs/status/2110400237969826097",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "elevenlabs.io/blog/how-we-so…",
+          "end": 594,
+          "expanded_url": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+          "start": 571,
+          "url": "https://t.co/A8WdZefO3b"
+         }
+        ]
+       },
+       "text": "We run our own customer support on ElevenAgents. It’s resolved over 22,000 tickets a month and cut our response time down from hours to 60 seconds.\n\nOur support team already had standard operating procedures for every major kind of ticket, like refunds, billing changes, and voice clone questions. We turned each one into a set of steps the agent follows. The agent can also look up what it needs about a customer, read text, screenshots, and PDFs, reply in the customer's language, take actions, and hand off to our team when a person is needed.\n\nRead how we built it:  https://t.co/A8WdZefO3b"
+      },
+      "lang": "en"
+     },
+     {
+      "author_id": "1830956655892164613",
+      "created_at": "2026-10-14T14:29:33.000Z",
+      "edit_history_tweet_ids": [
+       "2110377476237214065"
+      ],
+      "id": "2110377476237214065",
+      "public_metrics": {
+       "bookmark_count": 20,
+       "impression_count": 6532,
+       "like_count": 81,
+       "quote_count": 8,
+       "reply_count": 17,
+       "repost_count": 10
+      },
+      "text": "MiniMax Design Agent V3 is LIVE!\n✨ Create More, Spend Less\n30%+ lower creation costs. Faster, smarter, and more efficient!\n\n⚡️ Seamless Creative Workflow\nReuse assets and share context across chats within the same creation page.\n\n🎨 Design Your Rules\nCustomize Agent instructions https://t.co/lLswi98BEV",
+      "url": "https://x.com/Hailuo_AI/status/2110377476237214065",
+      "note_tweet": {
+       "text": "MiniMax Design Agent V3 is LIVE!\n✨ Create More, Spend Less\n30%+ lower creation costs. Faster, smarter, and more efficient!\n\n⚡️ Seamless Creative Workflow\nReuse assets and share context across chats within the same creation page.\n\n🎨 Design Your Rules\nCustomize Agent instructions to match your style.\n\n💰Exclusive Member Rewards\nOct 13–16: Claim 1,000 FREE credits daily, up to 4,000 credits total!"
+      },
+      "lang": "en"
+     },
+     {
+      "author_id": "1712267009483022336",
+      "created_at": "2026-10-13T18:24:38.000Z",
+      "edit_history_tweet_ids": [
+       "2110074247569924489"
+      ],
+      "id": "2110074247569924489",
+      "public_metrics": {
+       "bookmark_count": 461,
+       "impression_count": 455046,
+       "like_count": 947,
+       "quote_count": 95,
+       "reply_count": 125,
+       "repost_count": 265
+      },
+      "text": "Wan 3.0 is now UNLIMITED on Higgsfield for 7 days.\n\n60% OFF on Higgsfield API.\n\n&gt; Advanced motion design, animation and live-action realism\n&gt; Consistent characters across every shot\n&gt; Top-tier quality at an affordable price\n\nAvailable now at Higgsfield. Limited offer. https://t.co/ncpqpOg4NX",
+      "url": "https://x.com/higgsfield_ai/status/2110074247569924489",
+      "lang": "en"
+     },
+     {
+      "author_id": "1712267009483022336",
+      "created_at": "2026-10-12T16:22:40.000Z",
+      "edit_history_tweet_ids": [
+       "2109681164806177267"
+      ],
+      "id": "2109681164806177267",
+      "public_metrics": {
+       "bookmark_count": 418,
+       "impression_count": 1153106,
+       "like_count": 827,
+       "quote_count": 25,
+       "reply_count": 88,
+       "repost_count": 267
+      },
+      "text": "Meet Higgsfield Genjutsu, now available via API.\n\nGet 50% OFF the Genjutsu API.\n\nBring the most viral motion transfer feature to your app with one endpoint.\n\nOffer valid through October 31. https://t.co/BzavlEech7",
+      "url": "https://x.com/higgsfield_ai/status/2109681164806177267",
+      "lang": "en"
+     },
+     {
+      "author_id": "1799294856822673408",
+      "created_at": "2026-10-12T12:02:14.000Z",
+      "edit_history_tweet_ids": [
+       "2109615077783425087",
+       "2109615420223197541",
+       "2109615624985219203"
+      ],
+      "id": "2109615624985219203",
+      "public_metrics": {
+       "bookmark_count": 75,
+       "impression_count": 13823,
+       "like_count": 179,
+       "quote_count": 6,
+       "reply_count": 48,
+       "repost_count": 17
+      },
+      "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know https://t.co/VD9HksLmKG",
+      "url": "https://x.com/Kling_ai/status/2109615624985219203",
+      "note_tweet": {
+       "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know how he pulled it off.\n\nIn this episode of Creator Off Script, Simon breaks down his creative process, shares how he makes AI footage feel real, and reveals the Kling 4.0 features that impressed him most."
+      },
+      "lang": "en"
+     },
+     {
+      "author_id": "1799294856822673408",
+      "created_at": "2026-10-12T12:01:25.000Z",
+      "edit_history_tweet_ids": [
+       "2109615077783425087",
+       "2109615420223197541",
+       "2109615624985219203"
+      ],
+      "id": "2109615420223197541",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 1057,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "repost_count": 0
+      },
+      "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know https://t.co/E2wCvksfQ3",
+      "url": "https://x.com/Kling_ai/status/2109615420223197541",
+      "note_tweet": {
+       "entities": {
+        "hashtags": [
+         {
+          "end": 487,
+          "start": 480,
+          "tag": "Kling4"
+         },
+         {
+          "end": 496,
+          "start": 488,
+          "tag": "KlingAI"
+         }
+        ]
+       },
+       "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know how he pulled it off.\n\nIn this episode of Creator Off Script, Simon breaks down his creative process, shares how he makes AI footage feel real, and reveals the Kling 4.0 features that impressed him most. #Kling4 #KlingAI"
+      },
+      "lang": "en"
+     },
+     {
+      "author_id": "1478679005788311552",
+      "created_at": "2026-10-11T03:00:03.000Z",
+      "edit_history_tweet_ids": [
+       "2109116790517477412"
+      ],
+      "id": "2109116790517477412",
+      "public_metrics": {
+       "bookmark_count": 21,
+       "impression_count": 15398,
+       "like_count": 146,
+       "quote_count": 2,
+       "reply_count": 16,
+       "repost_count": 15
+      },
+      "text": "Our team has been in Singapore this week. Here’s a quick roundup:\n- We opened our new Singapore office, with 25 of us now on the ground, working alongside customers.\n- Business in South Asia means moving between languages. Our CEO @Mati joined CNBC Squawk Box to talk about https://t.co/V9I9DEhGfk",
+      "url": "https://x.com/ElevenLabs/status/2109116790517477412",
+      "note_tweet": {
+       "entities": {
+        "mentions": [
+         {
+          "end": 236,
+          "id": "937783581018955776",
+          "start": 231,
+          "username": "Mati"
+         }
+        ]
+       },
+       "text": "Our team has been in Singapore this week. Here’s a quick roundup:\n- We opened our new Singapore office, with 25 of us now on the ground, working alongside customers.\n- Business in South Asia means moving between languages. Our CEO @Mati joined CNBC Squawk Box to talk about building localized AI, and why voice AI innovation is starting in Asia and spreading globally.\n- We’re also at the Singapore Grand Prix this weekend as an official partner of Audi Revolut F1. If you’ll be there, get in touch."
+      },
+      "lang": "en"
+     },
+     {
+      "author_id": "366289783",
+      "created_at": "2026-10-09T23:45:16.000Z",
+      "edit_history_tweet_ids": [
+       "2108705386886742349"
+      ],
+      "id": "2108705386886742349",
+      "public_metrics": {
+       "bookmark_count": 18,
+       "impression_count": 10761,
+       "like_count": 50,
+       "quote_count": 9,
+       "reply_count": 31,
+       "repost_count": 8
+      },
+      "text": "This Week in Replit\n\n1) Replit Desktop for Windows is now in private preview, with Microsoft and NVIDIA. Replit can build and run apps right on your PC, each in its own isolated sandbox. Join the waitlist for early access.\n\n→ https://t.co/DkLzjOkPw5\n\n2) Work across all your https://t.co/6WOMBBNtww",
+      "url": "https://x.com/Replit/status/2108705386886742349",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "replit.com/lp/desktop-pre…",
+          "end": 249,
+          "expanded_url": "http://replit.com/lp/desktop-preview",
+          "start": 226,
+          "url": "https://t.co/lUnAEfcQuu"
+         },
+         {
+          "display_url": "docs.replit.com/chat/continue-…",
+          "end": 463,
+          "expanded_url": "http://docs.replit.com/chat/continue-or-create-a-project",
+          "start": 440,
+          "url": "https://t.co/X9a7MPHv0r"
+         },
+         {
+          "display_url": "docs.replit.com/use-cases/run-…",
+          "end": 656,
+          "expanded_url": "http://docs.replit.com/use-cases/run-tiktok-ads",
+          "start": 633,
+          "url": "https://t.co/21BeErydKw"
+         }
+        ]
+       },
+       "text": "This Week in Replit\n\n1) Replit Desktop for Windows is now in private preview, with Microsoft and NVIDIA. Replit can build and run apps right on your PC, each in its own isolated sandbox. Join the waitlist for early access.\n\n→ https://t.co/lUnAEfcQuu\n\n2) Work across all your projects from a single chat. Ask Replit to find a project, read its files, and send it tasks. Bring a feature from one app to another without switching projects.\n\n→ https://t.co/X9a7MPHv0r\n\n3) Create, launch, and track TikTok ads from Replit with the new TikTok Ads MCP. Replit can generate your ad content and copy, and help you optimize your campaigns.\n\n→ https://t.co/21BeErydKw"
+      },
+      "lang": "en"
+     },
+     {
+      "author_id": "366289783",
+      "created_at": "2026-10-09T17:34:14.000Z",
+      "edit_history_tweet_ids": [
+       "2108612012800716998"
+      ],
+      "id": "2108612012800716998",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 8467,
+       "like_count": 30,
+       "quote_count": 2,
+       "reply_count": 7,
+       "retweet_count": 1
+      },
+      "text": "This week, we were at #sftechweek with @passionfrootme, @elevenlabs, and @gamma.\n\nHere are 3 insights we heard for businesses looking to work with creators ↓",
+      "url": "https://x.com/Replit/status/2108612012800716998"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-08T20:21:25.000Z",
+      "edit_history_tweet_ids": [
+       "2108291696572379521"
+      ],
+      "id": "2108291696572379521",
+      "public_metrics": {
+       "bookmark_count": 28,
+       "impression_count": 10979,
+       "like_count": 110,
+       "quote_count": 2,
+       "reply_count": 11,
+       "repost_count": 15
+      },
+      "text": "Mercury Decide from @_inception_ai is now available with zero data retention on OpenRouter\n\nThe fastest growing decision model on OpenRouter last week now has a paid ZDR endpoint, alongside the free one\n\n$0.02/M input (50% off the $0.04 list price). Output and cached input are https://t.co/tZOxnKWy0i",
+      "url": "https://x.com/OpenRouter/status/2108291696572379521",
+      "note_tweet": {
+       "entities": {
+        "mentions": [
+         {
+          "end": 34,
+          "id": "1894161655728410630",
+          "start": 20,
+          "username": "_inception_ai"
+         }
+        ],
+        "urls": [
+         {
+          "display_url": "openrouter.ai/inception/merc…",
+          "end": 320,
+          "expanded_url": "http://openrouter.ai/inception/mercury-decide",
+          "start": 297,
+          "url": "https://t.co/5sumvRshSm"
+         }
+        ]
+       },
+       "text": "Mercury Decide from @_inception_ai is now available with zero data retention on OpenRouter\n\nThe fastest growing decision model on OpenRouter last week now has a paid ZDR endpoint, alongside the free one\n\n$0.02/M input (50% off the $0.04 list price). Output and cached input are free. 66K context\n\nhttps://t.co/5sumvRshSm"
+      },
+      "lang": "en"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-07T15:12:45.000Z",
+      "edit_history_tweet_ids": [
+       "2107851633191436685"
+      ],
+      "id": "2107851633191436685",
+      "public_metrics": {
+       "bookmark_count": 97,
+       "impression_count": 44305,
+       "like_count": 495,
+       "quote_count": 16,
+       "reply_count": 29,
+       "repost_count": 36
+      },
+      "text": "ElevenLabs is officially on OpenRouter.\n\nYou can now call 9 Text to Speech models, with up to 90+ languages, and 2 Speech to Text models with speaker labels and word-level timestamps.\n\nAll @ElevenLabs models are 50% off, only on OpenRouter, through October 19, 8am PT. https://t.co/K8ZCmCtPyd",
+      "url": "https://x.com/OpenRouter/status/2107851633191436685",
+      "lang": "en"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-06T14:27:31.000Z",
+      "edit_history_tweet_ids": [
+       "2107477859317297600"
+      ],
+      "id": "2107477859317297600",
+      "public_metrics": {
+       "bookmark_count": 98,
+       "impression_count": 52942,
+       "like_count": 1143,
+       "quote_count": 21,
+       "reply_count": 63,
+       "repost_count": 43
+      },
+      "text": "Le Chonk has arrived 🐈\n\nMistral Large 4 is now on OpenRouter in public preview: 1T params (49B active), natively multimodal, 1M context, up to 256K output.\n\n50% off for the first two weeks: $0.68 in / $2.09 out per 1M tokens ($0.07 cached). https://t.co/NtVeln3yP4",
+      "url": "https://x.com/OpenRouter/status/2107477859317297600",
+      "lang": "en"
+     },
+     {
+      "author_id": "366289783",
+      "created_at": "2026-10-05T20:50:42.000Z",
+      "edit_history_tweet_ids": [
+       "2107211407431487622",
+       "2107211903760293996"
+      ],
+      "id": "2107211903760293996",
+      "public_metrics": {
+       "bookmark_count": 6,
+       "impression_count": 7608,
+       "like_count": 47,
+       "quote_count": 2,
+       "reply_count": 12,
+       "retweet_count": 7
+      },
+      "text": "Press Play ▶️ This week, @amasad talks vibe coding, the lost joy of building with computers, and why AI doomerism misses the accountability question. \n\nIf AI agents can act on our behalf, who’s responsible when they go too far? \n\nListen to the new Times Tech episode:",
+      "url": "https://x.com/Replit/status/2107211903760293996"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "Build without boundaries. Create stunning web apps that scale to millions by collaborating with AI.",
+       "id": "2279695508",
+       "name": "bolt.new",
+       "url": "https://t.co/0eDjZKerjU",
+       "username": "boltdotnew",
+       "verified_type": "business"
+      },
+      {
+       "description": "The unified interface for LLMs. 400+ models (incl. 50+ free), the best prices, explorable data, private chat, & a unified API. https://t.co/qJG5mKrQ6j",
+       "id": "1681349314797240320",
+       "name": "OpenRouter",
+       "url": "https://t.co/o0u65kcJeL",
+       "username": "OpenRouter",
+       "verified_type": "business"
+      },
+      {
+       "description": "AI research and products that transform how we interact with technology. \n\nLeading foundational models powering ElevenAgents, @ElevenCreative, and ElevenAPI.",
+       "id": "1478679005788311552",
+       "name": "ElevenLabs",
+       "url": "https://t.co/rHN3SKiqqp",
+       "username": "ElevenLabs",
+       "verified_type": "business"
+      },
+      {
+       "description": "Discord: https://t.co/vPihZSqbU8\nINS: https://t.co/koyDATq9CZ\nCreator Partnership Program(CPP): https://t.co/KLDCVOlk92",
+       "id": "1830956655892164613",
+       "name": "MiniMax Design (H3)",
+       "url": "https://t.co/wt5acj04pj",
+       "username": "Hailuo_AI",
+       "verified_type": "business"
+      },
+      {
+       "description": "The AI-native creative suite",
+       "id": "1712267009483022336",
+       "name": "Higgsfield AI 🧩",
+       "url": "https://t.co/uJcxvH8C1T",
+       "username": "higgsfield_ai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+       "id": "1799294856822673408",
+       "name": "Kling AI",
+       "url": "https://t.co/qiuazczD2J",
+       "username": "Kling_ai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+       "id": "366289783",
+       "name": "Replit ⠕",
+       "url": "https://t.co/2pVzkujhQZ",
+       "username": "Replit",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2110415341998191027",
+     "next_token": "b26v89c19zqg8o3juziyqdabl545jylde7hu6ah70pif1",
+     "oldest_id": "2107211903760293996",
+     "result_count": 15
+    }
+   }
+  },
+  {
+   "name": "official_engagement_gated",
+   "response": {
+    "data": [
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-13T16:02:18.000Z",
+      "edit_history_tweet_ids": [
+       "2110038429199450126"
+      ],
+      "id": "2110038429199450126",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "s.fish.audio/rqh0l8",
+          "end": 358,
+          "expanded_url": "https://s.fish.audio/rqh0l8",
+          "start": 335,
+          "url": "https://t.co/4nbz4sQ4yy"
+         },
+         {
+          "display_url": "s.fish.audio/qz9r0t",
+          "end": 495,
+          "expanded_url": "https://s.fish.audio/qz9r0t",
+          "start": 472,
+          "url": "https://t.co/jBXXZSAg0p"
+         }
+        ]
+       },
+       "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment “DRAMA” within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+      },
+      "public_metrics": {
+       "bookmark_count": 14444,
+       "impression_count": 12843777,
+       "like_count": 16977,
+       "quote_count": 826,
+       "reply_count": 8239,
+       "retweet_count": 1624
+      },
+      "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice https://t.co/9QnmoRZIaP",
+      "url": "https://x.com/FishAudio/status/2110038429199450126"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs. \n👉 https://t.co/gzh4M4drSq @FishCreativeHQ",
+       "id": "1779922590645235713",
+       "name": "Fish Audio",
+       "url": "https://t.co/fOVWGwSC2C",
+       "username": "FishAudio",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2110038429199450126",
+     "next_token": "b26v89c19zqg8o3juzlvk1t2sr2obrglri6a404rq0fp9",
+     "oldest_id": "2110038429199450126",
+     "result_count": 1
+    }
+   }
+  },
+  {
+   "name": "discovery_broad",
+   "response": {
+    "data": [
+     {
+      "author_id": "2006767830692438016",
+      "created_at": "2026-10-11T15:32:48.000Z",
+      "edit_history_tweet_ids": [
+       "2109306229126533137"
+      ],
+      "id": "2109306229126533137",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 9,
+       "impression_count": 1730,
+       "like_count": 57,
+       "quote_count": 0,
+       "reply_count": 43,
+       "retweet_count": 33
+      },
+      "text": "Most people think prompting is just text.\n\nIt’s a skill.\n\nMaster cross-AI prompting with this step-by-step guide.\n\nWorth $81. FREE for 48 hours.\n\nComment “PROMPT” to get it.\n\nFollow @jimmy_aibrief https://t.co/PWzVY68zJB",
+      "url": "https://x.com/jimmy_aibrief/status/2109306229126533137"
+     },
+     {
+      "author_id": "1736246905892671488",
+      "created_at": "2026-10-12T02:46:09.000Z",
+      "edit_history_tweet_ids": [
+       "2109475682292220294"
+      ],
+      "id": "2109475682292220294",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 61,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Most people think prompting is just text.\n\nIt’s a skill.\n\nMaster cross-AI prompting with this step-by-step guide.\n\nWorth $81. FREE for 48 hours.\n\nComment “PROMPT” to get it.\n\nA",
+      "url": "https://x.com/konig0000/status/2109475682292220294"
+     },
+     {
+      "author_id": "1736246905892671488",
+      "created_at": "2026-10-12T01:38:44.000Z",
+      "edit_history_tweet_ids": [
+       "2109458714721976616"
+      ],
+      "id": "2109458714721976616",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 288,
+       "like_count": 2,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 1
+      },
+      "text": "Most people think prompting is just text.\n\nIt’s a skill.\n\nMaster cross-AI prompting with this step-by-step guide.\n\nWorth $81. FREE for 48 hours.\n\nComment “PROMPT” to get it.\n\n.",
+      "url": "https://x.com/konig0000/status/2109458714721976616"
+     },
+     {
+      "author_id": "2097029294124068864",
+      "created_at": "2026-10-10T13:30:27.000Z",
+      "edit_history_tweet_ids": [
+       "2108913051781206171"
+      ],
+      "id": "2108913051781206171",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 20,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "My AI side hustle makes $4,500/week. 🤖💰\n\nWant to start yours?\n\n🎁 My $90 AI side hustle guide is FREE for 48 hours!\n\n❤️ Like + 💬 Comment “SEND”\n➕ Follow me to get the DM.\n\nLet’s go! 🚀 https://t.co/fjTVuPIDUI",
+      "url": "https://x.com/LUCKYAITECH/status/2108913051781206171"
+     },
+     {
+      "author_id": "920870603313135616",
+      "created_at": "2026-10-10T13:39:50.000Z",
+      "edit_history_tweet_ids": [
+       "2108915412968886365"
+      ],
+      "id": "2108915412968886365",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 19,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "My AI side hustle makes $4,500/week. 🤖💰\n\nWant to start yours?\n\n🎁 My $90 AI side hustle guide is FREE for 48 hours!\n\n❤️ Like + 💬 Comment “SEND”\n➕ Follow me to get the DM.\n\nLet’s go! 🚀 https://t.co/DBFenXVZ3M",
+      "url": "https://x.com/FokirCom/status/2108915412968886365"
+     },
+     {
+      "author_id": "1752965014611460096",
+      "created_at": "2026-10-11T11:42:16.000Z",
+      "edit_history_tweet_ids": [
+       "2109248213199048982"
+      ],
+      "id": "2109248213199048982",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "mentions": [
+         {
+          "end": 236,
+          "id": "1752965014611460096",
+          "start": 224,
+          "username": "ai_logician"
+         }
+        ]
+       },
+       "text": "I'm shocked people still can't make $297 a day with ChatGPT.\n\nUsually, this guide sells for $81, but today it's yours 100% free.\n\nLike + comment 'AI' and I'll send you my beginner-to-advanced guide for FREE.\n\nMust follow me @ai_logician to get this guide in DM.\n\nFREE for 48 hours only."
+      },
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 629,
+       "like_count": 30,
+       "quote_count": 0,
+       "reply_count": 19,
+       "retweet_count": 21
+      },
+      "text": "I'm shocked people still can't make $297 a day with ChatGPT.\n\nUsually, this guide sells for $81, but today it's yours 100% free.\n\nLike + comment 'AI' and I'll send you my beginner-to-advanced guide for FREE.\n\nMust follow me @ai_logician to get this guide in DM.\n\nFREE for 48 hours https://t.co/eenkNsIl7e",
+      "url": "https://x.com/ai_logician/status/2109248213199048982"
+     },
+     {
+      "author_id": "1857626863985913856",
+      "created_at": "2026-10-11T16:07:58.000Z",
+      "edit_history_tweet_ids": [
+       "2109315077799350565"
+      ],
+      "id": "2109315077799350565",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 2476,
+       "like_count": 20,
+       "quote_count": 0,
+       "reply_count": 29,
+       "retweet_count": 10
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/4qzOnwZqmh",
+      "url": "https://x.com/AiwithDharmik/status/2109315077799350565"
+     },
+     {
+      "author_id": "2006767830692438016",
+      "created_at": "2026-10-12T09:03:27.000Z",
+      "edit_history_tweet_ids": [
+       "2109570634414223433"
+      ],
+      "id": "2109570634414223433",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 12,
+       "impression_count": 1627,
+       "like_count": 86,
+       "quote_count": 0,
+       "reply_count": 52,
+       "retweet_count": 49
+      },
+      "text": "🚀 Want to monetize Facebook with a faceless channel?\n\nLearn the strategy, discover the potential, and get started with my FREE guide.\n\n🎁 100% FREE for 48 hours\n\n❤️ Like this post\n💬 Comment FB\n✅ Follow @jimmy_aibrief to receive the guide via DM.\n\nStart building smarter with AI https://t.co/kyyLSx4Rer",
+      "url": "https://x.com/jimmy_aibrief/status/2109570634414223433"
+     },
+     {
+      "author_id": "1935980063511724032",
+      "created_at": "2026-10-12T01:48:38.000Z",
+      "edit_history_tweet_ids": [
+       "2109461208416043266"
+      ],
+      "id": "2109461208416043266",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "mentions": [
+         {
+          "end": 240,
+          "id": "1935980063511724032",
+          "start": 224,
+          "username": "austin_jordan12"
+         }
+        ]
+       },
+       "text": "I'm shocked people still can't make $297 a day with ChatGPT.\n\nUsually, this guide sells for $81, but today it's yours 100% free.\n\nLike + comment 'AI' and I'll send you my beginner-to-advanced guide for FREE.\n\nMust follow me @austin_jordan12 to get this guide in DM.\n\nFREE for 48 hours only."
+      },
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 1188,
+       "like_count": 56,
+       "quote_count": 0,
+       "reply_count": 42,
+       "retweet_count": 32
+      },
+      "text": "I'm shocked people still can't make $297 a day with ChatGPT.\n\nUsually, this guide sells for $81, but today it's yours 100% free.\n\nLike + comment 'AI' and I'll send you my beginner-to-advanced guide for FREE.\n\nMust follow me @austin_jordan12 to get this guide in DM.\n\nFREE for 48 https://t.co/I0LkZElCOf",
+      "url": "https://x.com/austin_jordan12/status/2109461208416043266"
+     },
+     {
+      "author_id": "1657222895977009153",
+      "created_at": "2026-10-10T03:45:14.000Z",
+      "edit_history_tweet_ids": [
+       "2108765774487994591"
+      ],
+      "id": "2108765774487994591",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 36,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/WrfMD2qIQj",
+      "url": "https://x.com/Maria__wht/status/2108765774487994591"
+     },
+     {
+      "author_id": "1828746905985429504",
+      "created_at": "2026-10-15T07:30:45.000Z",
+      "edit_history_tweet_ids": [
+       "2110634469459923299"
+      ],
+      "id": "2110634469459923299",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 136,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "You can make $8000/month if you have ChatGPT, a laptop, internet, and an hour a day.\n\nThis guide sells for $81 but today you can get it 100% free.\n\nLike + comment 'AI' &amp; I'll send you my detailed guide for FREE.\n\nYou must follow me or I can't send it.\n\nFREE for 48 hours. https://t.co/RuDpPOMOnB",
+      "url": "https://x.com/smratitiwa86867/status/2110634469459923299"
+     },
+     {
+      "author_id": "2053765413679325184",
+      "created_at": "2026-10-15T06:08:33.000Z",
+      "edit_history_tweet_ids": [
+       "2110613782108197059"
+      ],
+      "id": "2110613782108197059",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 24,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "You can make $8000/month if you have ChatGPT, a laptop, internet, and an hour a day.\n\nThis guide sells for $81 but today you can get it 100% free.\n\nLike + comment 'AI' &amp; I'll send you my detailed guide for FREE.\n\nYou must follow me or I can't send it.\n\nFREE for 48 hours. https://t.co/0jeVsKG51v",
+      "url": "https://x.com/Crypt0Promo/status/2110613782108197059"
+     },
+     {
+      "author_id": "2065665618020560896",
+      "created_at": "2026-10-12T13:41:18.000Z",
+      "edit_history_tweet_ids": [
+       "2109640557673017528"
+      ],
+      "id": "2109640557673017528",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 3,
+       "impression_count": 1363,
+       "like_count": 22,
+       "quote_count": 0,
+       "reply_count": 26,
+       "retweet_count": 10
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/5PM9Peg2a8",
+      "url": "https://x.com/Aiwithpoonam/status/2109640557673017528"
+     },
+     {
+      "author_id": "2084533225989570560",
+      "created_at": "2026-10-15T09:55:51.000Z",
+      "edit_history_tweet_ids": [
+       "2110670982939840575"
+      ],
+      "id": "2110670982939840575",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 40,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "You can make $8000/month if you have ChatGPT, a laptop, internet, and an hour a day.\n\nThis guide sells for $81 but today you can get it 100% free.\n\nLike + comment 'AI' &amp; I'll send you my detailed guide for FREE.\n\nYou must follow me or I can't send it.\n\nFREE for 48 hours. https://t.co/npvQsj7E0P",
+      "url": "https://x.com/umaimakhan79/status/2110670982939840575"
+     },
+     {
+      "author_id": "1579396213660606465",
+      "created_at": "2026-10-15T05:22:24.000Z",
+      "edit_history_tweet_ids": [
+       "2110602168084357528"
+      ],
+      "id": "2110602168084357528",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 20,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "You can make $8000/month if you have ChatGPT, a laptop, internet, and an hour a day.\n\nThis guide sells for $81 but today you can get it 100% free.\n\nLike + comment 'AI' &amp; I'll send you my detailed guide for FREE.\n\nYou must follow me or I can't send it.\n\nFREE for 48 hours. https://t.co/iWoW5yIRwS",
+      "url": "https://x.com/guittnovo/status/2110602168084357528"
+     },
+     {
+      "author_id": "2676112626",
+      "created_at": "2026-10-09T05:19:23.000Z",
+      "edit_history_tweet_ids": [
+       "2108427079914270760"
+      ],
+      "id": "2108427079914270760",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 17,
+       "impression_count": 5983,
+       "like_count": 73,
+       "quote_count": 1,
+       "reply_count": 115,
+       "retweet_count": 32
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/rM4WUnW0R5",
+      "url": "https://x.com/heyfatema/status/2108427079914270760"
+     },
+     {
+      "author_id": "1865131640898408448",
+      "created_at": "2026-10-12T17:25:43.000Z",
+      "edit_history_tweet_ids": [
+       "2109697031212015724"
+      ],
+      "id": "2109697031212015724",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 5,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "4 hires I didn't make this year:\n\ncontent, partnerships, lifecycle emails, SEO.\nEach job went to an AI agent in Grok Bot, posting from one app.\n$49/mo total ($20 agents + $29 for the app).\n\nComment TEAM for my setup, or try it free for 7 days, link in bio. https://t.co/00iRJWJ2fu",
+      "url": "https://x.com/Postlaty/status/2109697031212015724"
+     },
+     {
+      "author_id": "960953477043245057",
+      "created_at": "2026-10-09T19:33:41.000Z",
+      "edit_history_tweet_ids": [
+       "2108642072823796170"
+      ],
+      "id": "2108642072823796170",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 651,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/tPucPXs06G",
+      "url": "https://x.com/QueenRyha/status/2108642072823796170"
+     },
+     {
+      "author_id": "2010916076033622017",
+      "created_at": "2026-10-13T16:57:58.000Z",
+      "edit_history_tweet_ids": [
+       "2110052436698439894"
+      ],
+      "id": "2110052436698439894",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 47,
+       "like_count": 3,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/7m9IinQ8yh",
+      "url": "https://x.com/Sumaiya_Aix/status/2110052436698439894"
+     },
+     {
+      "author_id": "2006739899098267648",
+      "created_at": "2026-10-08T19:04:10.000Z",
+      "edit_history_tweet_ids": [
+       "2108272257197846770"
+      ],
+      "id": "2108272257197846770",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 13,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "What does Sandisk (SNDK) actually do?\n\nIt makes NAND flash storage:\nmemory cards and SSDs, including enterprise SSDs for AI.\n\nIt has been its own company since its 2025 spin-off.\n\nGet fresh chart setups every morning with SIWAI, free for 7 days https://t.co/qwQVh8vyaD",
+      "url": "https://x.com/siwai_app/status/2108272257197846770"
+     },
+     {
+      "author_id": "323506510",
+      "created_at": "2026-10-13T14:15:03.000Z",
+      "edit_history_tweet_ids": [
+       "2110011435799777597"
+      ],
+      "id": "2110011435799777597",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 325,
+       "impression_count": 124838,
+       "like_count": 1340,
+       "quote_count": 5,
+       "reply_count": 1727,
+       "retweet_count": 91
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/36TokuRztD",
+      "url": "https://x.com/AndrewBolis/status/2110011435799777597"
+     },
+     {
+      "author_id": "1446392935185063937",
+      "created_at": "2026-10-09T03:17:27.000Z",
+      "edit_history_tweet_ids": [
+       "2108396397448093802"
+      ],
+      "id": "2108396397448093802",
+      "lang": "en",
+      "note_tweet": {
+       "text": "I'm deleting this soon because it's lowkey a formula to PRINT MONEY.\n\nAI SIDE HUSTLE.\n\nYou can make $15,000 simply by working few hours a week from anywhere in the world.\n\nComment 'Hustle' and I will DM it to you for FREE.\n\nMust follow me so I can DM this proven guide\n\nFREE for 48 hours only."
+      },
+      "public_metrics": {
+       "bookmark_count": 7,
+       "impression_count": 323,
+       "like_count": 32,
+       "quote_count": 0,
+       "reply_count": 24,
+       "retweet_count": 23
+      },
+      "text": "I'm deleting this soon because it's lowkey a formula to PRINT MONEY.\n\nAI SIDE HUSTLE.\n\nYou can make $15,000 simply by working few hours a week from anywhere in the world.\n\nComment 'Hustle' and I will DM it to you for FREE.\n\nMust follow me so I can DM this proven guide\n\nFREE for https://t.co/Q5UYE0JNbP",
+      "url": "https://x.com/zara_tech_ai/status/2108396397448093802"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "Daily AI tools for creators & builders.\nAI use cases, not noise.\n📧 Collaborations & freelance: jimmytech27@gmail.com",
+       "id": "2006767830692438016",
+       "name": "Jimmy",
+       "url": "https://t.co/cXWCzEkLeQ",
+       "username": "jimmy_aibrief",
+       "verified_type": "blue"
+      },
+      {
+       "description": "part-time writer\nDM for Collab / paid promotion\n\ncreator | gentleman",
+       "id": "1736246905892671488",
+       "name": "chaos",
+       "url": "",
+       "username": "konig0000",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Exploring AI | Technology | Innovation\nDiscovering the Tools Shaping the Future\n\n📩 Business: mstlucky5825@gmail.com",
+       "id": "2097029294124068864",
+       "name": "Lucky",
+       "url": "",
+       "username": "LUCKYAITECH",
+       "verified_type": "none"
+      },
+      {
+       "description": "",
+       "id": "920870603313135616",
+       "name": "bd fokir.com",
+       "url": "",
+       "username": "FokirCom",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI & Tech Explorer | Web Developer | Personal Branding Strategist | Educator | AI & Master Digital Skills | DM for Collab: metastackhub@gmail.com",
+       "id": "1752965014611460096",
+       "name": "AI Logician",
+       "url": "",
+       "username": "ai_logician",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI tools | Productivity | Automation\nHelping you work smarter with AI\nSharing  tools | Building with AI | \n📩 Biz: dharmiklinkedin@gmail.com",
+       "id": "1857626863985913856",
+       "name": "Dharmik Harinkhede",
+       "url": "https://t.co/CzuBaBTpTl",
+       "username": "AiwithDharmik",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI & Tech Creator 🤖 | AI Tools • AI Video •\n Emerging Tech | Helping Brands Grow on X 🚀 | 📩 Paid Collabs  📧 austinjordanai@gmail.com",
+       "id": "1935980063511724032",
+       "name": "Austin Jordan",
+       "url": "",
+       "username": "austin_jordan12",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI & Future Tech Explorer | Posting AI tools, startup ideas, productivity tips & hidden websites | Let’s grow with AI together",
+       "id": "1657222895977009153",
+       "name": "Maria White",
+       "url": "",
+       "username": "Maria__wht",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI & tech creator sharing what actually works, not just what’s trending\n\nOpen to collaborations🤝",
+       "id": "1828746905985429504",
+       "name": "smrati tiwari",
+       "url": "https://t.co/lBzeI0zeZ1",
+       "username": "smratitiwa86867",
+       "verified_type": "blue"
+      },
+      {
+       "description": "🚀 Crypt0Promo\nSupercharging crypto growth & Web3 projects.\nSmart marketing, real impact.\n📩 DM for collab!",
+       "id": "2053765413679325184",
+       "name": "Crypt0 promo",
+       "url": "",
+       "username": "Crypt0Promo",
+       "verified_type": "blue"
+      },
+      {
+       "description": "🤖 AI Tools • Prompts • Automation\n🚀 Making AI simple & useful\n💡 Learn AI. Work smarter. Grow faster.\nDM for everything 👆",
+       "id": "2065665618020560896",
+       "name": "Poonam",
+       "url": "",
+       "username": "Aiwithpoonam",
+       "verified_type": "blue"
+      },
+      {
+       "description": "🤖 AI Tools & Prompts\n⚙️ Practical Workflows & Hacks\n💡 Tech Insights for Creators\n📩 DM for Collab / Business",
+       "id": "2084533225989570560",
+       "name": "umaima saleem",
+       "url": "",
+       "username": "umaimakhan79",
+       "verified_type": "blue"
+      },
+      {
+       "description": "公式にバックアップを行う口座の投資家および仮想通貨トレーダー",
+       "id": "1579396213660606465",
+       "name": "Mio Sugita",
+       "url": "",
+       "username": "guittnovo",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI Creator | Sharing AI Tools, Prompts & Tech Insights |\n\nDM for Paid Partnership 📧 fatematujjohura.info@gmail.com",
+       "id": "2676112626",
+       "name": "Fatema",
+       "url": "https://t.co/yRa8ThCUHm",
+       "username": "heyfatema",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Create & Post Later",
+       "id": "1865131640898408448",
+       "name": "Postlaty",
+       "url": "",
+       "username": "Postlaty",
+       "verified_type": "none"
+      },
+      {
+       "description": "Helping AI startups reach the right audience on X.\nCreator campaigns • Launches • Growth.",
+       "id": "960953477043245057",
+       "name": "Ryha-queen",
+       "url": "",
+       "username": "QueenRyha",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI & Tech Enthusiast | Sharing AI tools, automation hacks & online income ideas | Helping creators & founders grow with AI | DM for collabs",
+       "id": "2010916076033622017",
+       "name": "Sumaiya Mim",
+       "url": "",
+       "username": "Sumaiya_Aix",
+       "verified_type": "blue"
+      },
+      {
+       "description": "The setups formed while you slept",
+       "id": "2006739899098267648",
+       "name": "SIWAI - Smarter Investor with AI",
+       "url": "https://t.co/c72mIniYNC",
+       "username": "siwai_app",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+       "id": "323506510",
+       "name": "Andrew Bolis",
+       "url": "https://t.co/q58vcup3L8",
+       "username": "AndrewBolis",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI content creator. Helping you to make money with AI & tech 📩hellozaratech9@gmail.com",
+       "id": "1446392935185063937",
+       "name": "Zara Tech",
+       "url": "",
+       "username": "zara_tech_ai",
+       "verified_type": "blue"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2110670982939840575",
+     "next_token": "b26v89c19zqg8o3juziz5iy2a8hw3bwbsu0bv9v8f3hbx",
+     "oldest_id": "2108272257197846770",
+     "result_count": 22
+    }
+   }
+  },
+  {
+   "name": "lookup_full_text",
+   "response": {
+    "data": [
+     {
+      "attachments": {
+       "media_keys": [
+        "7_2110415263795408896"
+       ]
+      },
+      "author_id": "2279695508",
+      "created_at": "2026-10-14T17:00:01.000Z",
+      "edit_history_post_ids": [
+       "2110415341998191027"
+      ],
+      "id": "2110415341998191027",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 471,
+       "impression_count": 26507,
+       "like_count": 449,
+       "quote_count": 11,
+       "reply_count": 50,
+       "repost_count": 44
+      },
+      "text": "Bolt is free for EVERYONE for an ENTIRE weekend. \nAnd you could win $10K!\n\nIntroducing the Builders Week challenge.\nBuild all weekend Oct 17 + 18.\nTurn your idea into a product, and submit by Oct 20.\n\nReady to build? Details here 👉 https://t.co/kX0cuKDGyE https://t.co/douQmOcPCb",
+      "url": "https://x.com/boltdotnew/status/2110415341998191027"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2110373458878382080"
+       ]
+      },
+      "author_id": "1478679005788311552",
+      "created_at": "2026-10-14T16:00:00.000Z",
+      "edit_history_post_ids": [
+       "2110400237969826097"
+      ],
+      "id": "2110400237969826097",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "elevenlabs.io/blog/how-we-so…",
+          "end": 594,
+          "expanded_url": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+          "start": 571,
+          "url": "https://t.co/A8WdZefO3b"
+         }
+        ]
+       },
+       "text": "We run our own customer support on ElevenAgents. It’s resolved over 22,000 tickets a month and cut our response time down from hours to 60 seconds.\n\nOur support team already had standard operating procedures for every major kind of ticket, like refunds, billing changes, and voice clone questions. We turned each one into a set of steps the agent follows. The agent can also look up what it needs about a customer, read text, screenshots, and PDFs, reply in the customer's language, take actions, and hand off to our team when a person is needed.\n\nRead how we built it:  https://t.co/A8WdZefO3b"
+      },
+      "public_metrics": {
+       "bookmark_count": 21,
+       "impression_count": 7554,
+       "like_count": 117,
+       "quote_count": 3,
+       "reply_count": 19,
+       "repost_count": 7
+      },
+      "text": "We run our own customer support on ElevenAgents. It’s resolved over 22,000 tickets a month and cut our response time down from hours to 60 seconds.\n\nOur support team already had standard operating procedures for every major kind of ticket, like refunds, billing changes, and voice https://t.co/LodPe287TM",
+      "url": "https://x.com/ElevenLabs/status/2110400237969826097"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "3_2110374618024517632"
+       ]
+      },
+      "author_id": "1830956655892164613",
+      "created_at": "2026-10-14T14:29:33.000Z",
+      "edit_history_post_ids": [
+       "2110377476237214065"
+      ],
+      "id": "2110377476237214065",
+      "lang": "en",
+      "note_tweet": {
+       "text": "MiniMax Design Agent V3 is LIVE!\n✨ Create More, Spend Less\n30%+ lower creation costs. Faster, smarter, and more efficient!\n\n⚡️ Seamless Creative Workflow\nReuse assets and share context across chats within the same creation page.\n\n🎨 Design Your Rules\nCustomize Agent instructions to match your style.\n\n💰Exclusive Member Rewards\nOct 13–16: Claim 1,000 FREE credits daily, up to 4,000 credits total!"
+      },
+      "public_metrics": {
+       "bookmark_count": 20,
+       "impression_count": 6532,
+       "like_count": 81,
+       "quote_count": 8,
+       "reply_count": 17,
+       "repost_count": 10
+      },
+      "text": "MiniMax Design Agent V3 is LIVE!\n✨ Create More, Spend Less\n30%+ lower creation costs. Faster, smarter, and more efficient!\n\n⚡️ Seamless Creative Workflow\nReuse assets and share context across chats within the same creation page.\n\n🎨 Design Your Rules\nCustomize Agent instructions https://t.co/lLswi98BEV",
+      "url": "https://x.com/Hailuo_AI/status/2110377476237214065"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2110073686263013376"
+       ]
+      },
+      "author_id": "1712267009483022336",
+      "created_at": "2026-10-13T18:24:38.000Z",
+      "edit_history_post_ids": [
+       "2110074247569924489"
+      ],
+      "id": "2110074247569924489",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 461,
+       "impression_count": 455046,
+       "like_count": 947,
+       "quote_count": 95,
+       "reply_count": 125,
+       "repost_count": 265
+      },
+      "text": "Wan 3.0 is now UNLIMITED on Higgsfield for 7 days.\n\n60% OFF on Higgsfield API.\n\n&gt; Advanced motion design, animation and live-action realism\n&gt; Consistent characters across every shot\n&gt; Top-tier quality at an affordable price\n\nAvailable now at Higgsfield. Limited offer. https://t.co/ncpqpOg4NX",
+      "url": "https://x.com/higgsfield_ai/status/2110074247569924489"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2109680773465055233"
+       ]
+      },
+      "author_id": "1712267009483022336",
+      "created_at": "2026-10-12T16:22:40.000Z",
+      "edit_history_post_ids": [
+       "2109681164806177267"
+      ],
+      "id": "2109681164806177267",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 418,
+       "impression_count": 1153106,
+       "like_count": 827,
+       "quote_count": 25,
+       "reply_count": 88,
+       "repost_count": 267
+      },
+      "text": "Meet Higgsfield Genjutsu, now available via API.\n\nGet 50% OFF the Genjutsu API.\n\nBring the most viral motion transfer feature to your app with one endpoint.\n\nOffer valid through October 31. https://t.co/BzavlEech7",
+      "url": "https://x.com/higgsfield_ai/status/2109681164806177267"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2109580100685746176"
+       ]
+      },
+      "author_id": "1799294856822673408",
+      "created_at": "2026-10-12T12:02:14.000Z",
+      "edit_history_post_ids": [
+       "2109615077783425087",
+       "2109615420223197541",
+       "2109615624985219203"
+      ],
+      "id": "2109615624985219203",
+      "lang": "en",
+      "note_tweet": {
+       "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know how he pulled it off.\n\nIn this episode of Creator Off Script, Simon breaks down his creative process, shares how he makes AI footage feel real, and reveals the Kling 4.0 features that impressed him most."
+      },
+      "public_metrics": {
+       "bookmark_count": 75,
+       "impression_count": 13823,
+       "like_count": 179,
+       "quote_count": 6,
+       "reply_count": 48,
+       "repost_count": 17
+      },
+      "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know https://t.co/VD9HksLmKG",
+      "url": "https://x.com/Kling_ai/status/2109615624985219203"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2109580100685746176"
+       ]
+      },
+      "author_id": "1799294856822673408",
+      "created_at": "2026-10-12T12:01:25.000Z",
+      "edit_history_post_ids": [
+       "2109615077783425087",
+       "2109615420223197541",
+       "2109615624985219203"
+      ],
+      "id": "2109615420223197541",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "hashtags": [
+         {
+          "end": 487,
+          "start": 480,
+          "tag": "Kling4"
+         },
+         {
+          "end": 496,
+          "start": 488,
+          "tag": "KlingAI"
+         }
+        ]
+       },
+       "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know how he pulled it off.\n\nIn this episode of Creator Off Script, Simon breaks down his creative process, shares how he makes AI footage feel real, and reveals the Kling 4.0 features that impressed him most. #Kling4 #KlingAI"
+      },
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 1057,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "repost_count": 0
+      },
+      "text": "How do you make an AI-generated music video that gets people talking? 👀🎬\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know https://t.co/E2wCvksfQ3",
+      "url": "https://x.com/Kling_ai/status/2109615420223197541"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2108956758383403008"
+       ]
+      },
+      "author_id": "1478679005788311552",
+      "created_at": "2026-10-11T03:00:03.000Z",
+      "edit_history_post_ids": [
+       "2109116790517477412"
+      ],
+      "id": "2109116790517477412",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "mentions": [
+         {
+          "end": 236,
+          "id": "937783581018955776",
+          "start": 231,
+          "username": "Mati"
+         }
+        ]
+       },
+       "text": "Our team has been in Singapore this week. Here’s a quick roundup:\n- We opened our new Singapore office, with 25 of us now on the ground, working alongside customers.\n- Business in South Asia means moving between languages. Our CEO @Mati joined CNBC Squawk Box to talk about building localized AI, and why voice AI innovation is starting in Asia and spreading globally.\n- We’re also at the Singapore Grand Prix this weekend as an official partner of Audi Revolut F1. If you’ll be there, get in touch."
+      },
+      "public_metrics": {
+       "bookmark_count": 21,
+       "impression_count": 15398,
+       "like_count": 146,
+       "quote_count": 2,
+       "reply_count": 16,
+       "repost_count": 15
+      },
+      "text": "Our team has been in Singapore this week. Here’s a quick roundup:\n- We opened our new Singapore office, with 25 of us now on the ground, working alongside customers.\n- Business in South Asia means moving between languages. Our CEO @Mati joined CNBC Squawk Box to talk about https://t.co/V9I9DEhGfk",
+      "url": "https://x.com/ElevenLabs/status/2109116790517477412"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2108657451344019456"
+       ]
+      },
+      "author_id": "366289783",
+      "created_at": "2026-10-09T23:45:16.000Z",
+      "edit_history_post_ids": [
+       "2108705386886742349"
+      ],
+      "id": "2108705386886742349",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "replit.com/lp/desktop-pre…",
+          "end": 249,
+          "expanded_url": "http://replit.com/lp/desktop-preview",
+          "start": 226,
+          "url": "https://t.co/lUnAEfcQuu"
+         },
+         {
+          "display_url": "docs.replit.com/chat/continue-…",
+          "end": 463,
+          "expanded_url": "http://docs.replit.com/chat/continue-or-create-a-project",
+          "start": 440,
+          "url": "https://t.co/X9a7MPHv0r"
+         },
+         {
+          "display_url": "docs.replit.com/use-cases/run-…",
+          "end": 656,
+          "expanded_url": "http://docs.replit.com/use-cases/run-tiktok-ads",
+          "start": 633,
+          "url": "https://t.co/21BeErydKw"
+         }
+        ]
+       },
+       "text": "This Week in Replit\n\n1) Replit Desktop for Windows is now in private preview, with Microsoft and NVIDIA. Replit can build and run apps right on your PC, each in its own isolated sandbox. Join the waitlist for early access.\n\n→ https://t.co/lUnAEfcQuu\n\n2) Work across all your projects from a single chat. Ask Replit to find a project, read its files, and send it tasks. Bring a feature from one app to another without switching projects.\n\n→ https://t.co/X9a7MPHv0r\n\n3) Create, launch, and track TikTok ads from Replit with the new TikTok Ads MCP. Replit can generate your ad content and copy, and help you optimize your campaigns.\n\n→ https://t.co/21BeErydKw"
+      },
+      "public_metrics": {
+       "bookmark_count": 18,
+       "impression_count": 10761,
+       "like_count": 50,
+       "quote_count": 9,
+       "reply_count": 31,
+       "repost_count": 8
+      },
+      "text": "This Week in Replit\n\n1) Replit Desktop for Windows is now in private preview, with Microsoft and NVIDIA. Replit can build and run apps right on your PC, each in its own isolated sandbox. Join the waitlist for early access.\n\n→ https://t.co/DkLzjOkPw5\n\n2) Work across all your https://t.co/6WOMBBNtww",
+      "url": "https://x.com/Replit/status/2108705386886742349"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2108291683813326848"
+       ]
+      },
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-08T20:21:25.000Z",
+      "edit_history_post_ids": [
+       "2108291696572379521"
+      ],
+      "id": "2108291696572379521",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "mentions": [
+         {
+          "end": 34,
+          "id": "1894161655728410630",
+          "start": 20,
+          "username": "_inception_ai"
+         }
+        ],
+        "urls": [
+         {
+          "display_url": "openrouter.ai/inception/merc…",
+          "end": 320,
+          "expanded_url": "http://openrouter.ai/inception/mercury-decide",
+          "start": 297,
+          "url": "https://t.co/5sumvRshSm"
+         }
+        ]
+       },
+       "text": "Mercury Decide from @_inception_ai is now available with zero data retention on OpenRouter\n\nThe fastest growing decision model on OpenRouter last week now has a paid ZDR endpoint, alongside the free one\n\n$0.02/M input (50% off the $0.04 list price). Output and cached input are free. 66K context\n\nhttps://t.co/5sumvRshSm"
+      },
+      "public_metrics": {
+       "bookmark_count": 28,
+       "impression_count": 10979,
+       "like_count": 110,
+       "quote_count": 2,
+       "reply_count": 11,
+       "repost_count": 15
+      },
+      "text": "Mercury Decide from @_inception_ai is now available with zero data retention on OpenRouter\n\nThe fastest growing decision model on OpenRouter last week now has a paid ZDR endpoint, alongside the free one\n\n$0.02/M input (50% off the $0.04 list price). Output and cached input are https://t.co/tZOxnKWy0i",
+      "url": "https://x.com/OpenRouter/status/2108291696572379521"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2107851569710743552"
+       ]
+      },
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-07T15:12:45.000Z",
+      "edit_history_post_ids": [
+       "2107851633191436685"
+      ],
+      "id": "2107851633191436685",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 97,
+       "impression_count": 44305,
+       "like_count": 495,
+       "quote_count": 16,
+       "reply_count": 29,
+       "repost_count": 36
+      },
+      "text": "ElevenLabs is officially on OpenRouter.\n\nYou can now call 9 Text to Speech models, with up to 90+ languages, and 2 Speech to Text models with speaker labels and word-level timestamps.\n\nAll @ElevenLabs models are 50% off, only on OpenRouter, through October 19, 8am PT. https://t.co/K8ZCmCtPyd",
+      "url": "https://x.com/OpenRouter/status/2107851633191436685"
+     },
+     {
+      "attachments": {
+       "media_keys": [
+        "13_2107477846059102208"
+       ]
+      },
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-06T14:27:31.000Z",
+      "edit_history_post_ids": [
+       "2107477859317297600"
+      ],
+      "id": "2107477859317297600",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 98,
+       "impression_count": 52942,
+       "like_count": 1143,
+       "quote_count": 21,
+       "reply_count": 63,
+       "repost_count": 43
+      },
+      "text": "Le Chonk has arrived 🐈\n\nMistral Large 4 is now on OpenRouter in public preview: 1T params (49B active), natively multimodal, 1M context, up to 256K output.\n\n50% off for the first two weeks: $0.68 in / $2.09 out per 1M tokens ($0.07 cached). https://t.co/NtVeln3yP4",
+      "url": "https://x.com/OpenRouter/status/2107477859317297600"
+     }
+    ],
+    "includes": {
+     "media": [
+      {
+       "duration_ms": 27680,
+       "media_key": "7_2110415263795408896",
+       "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2110415263795408896/pu/img/jl_Gj2WY5aGa5Q8K.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/2110415263795408896/pu/vid/avc1/480x270/fw1I4T0Wxk5L4Y_X.mp4?tag=12"
+        },
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/2110415263795408896/pu/vid/avc1/640x360/XhweGa8QFIPjcdEu.mp4?tag=12"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/2110415263795408896/pu/vid/avc1/1280x720/zVljbBA0yoBvpSAg.mp4?tag=12"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/ext_tw_video/2110415263795408896/pu/pl/lPVXgxt9FzJW0BEm.m3u8?tag=12&v=cfc"
+        }
+       ]
+      },
+      {
+       "duration_ms": 38038,
+       "media_key": "13_2110373458878382080",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110373458878382080/img/ZNqZaTxVZbkFm5Tq.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110373458878382080/vid/avc1/640x360/WPtTPzBoZ8XpTUuc.mp4"
+        },
+        {
+         "bit_rate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110373458878382080/vid/avc1/480x270/tk_MFeM-M6GKRKJW.mp4"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2110373458878382080/pl/hbcLw7nCVaTwrT-w.m3u8?v=cfc"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110373458878382080/vid/avc1/1280x720/o9ak2O9WwBmDo9Rn.mp4"
+        },
+        {
+         "bit_rate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110373458878382080/vid/avc1/1920x1080/6eyIoa3GW_abP3S4.mp4"
+        }
+       ]
+      },
+      {
+       "media_key": "3_2110374618024517632",
+       "type": "photo",
+       "url": "https://pbs.twimg.com/media/HUmOiKpaIAAk20g.jpg"
+      },
+      {
+       "duration_ms": 23416,
+       "media_key": "13_2110073686263013376",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2110073686263013376/img/ZFOa_Fr8J_jBHLZR.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110073686263013376/vid/avc1/640x360/8Cwr19kVSZG4MjPQ.mp4"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110073686263013376/vid/avc1/1280x720/Yr335vUyMzVVln_R.mp4"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2110073686263013376/pl/-fN6jLw92NavvMPW.m3u8?v=cfc"
+        },
+        {
+         "bit_rate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110073686263013376/vid/avc1/1920x1080/OqNICnteKMitXqh6.mp4"
+        },
+        {
+         "bit_rate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2110073686263013376/vid/avc1/480x270/KMkbJNL7235n4SNz.mp4"
+        }
+       ]
+      },
+      {
+       "duration_ms": 25000,
+       "media_key": "13_2109680773465055233",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109680773465055233/img/DkpYgVkzNZEWnmYu.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109680773465055233/vid/avc1/1280x720/pWEPjoGaRp-3mDSd.mp4"
+        },
+        {
+         "bit_rate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109680773465055233/vid/avc1/480x270/koFKyP451HiGysXR.mp4"
+        },
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109680773465055233/vid/avc1/640x360/WlwuxDrODcxj3t7s.mp4"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2109680773465055233/pl/VdLASgUVzLc7xio4.m3u8?v=cfc"
+        },
+        {
+         "bit_rate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109680773465055233/vid/avc1/1920x1080/WDk-eMrgxIhLrTL8.mp4"
+        }
+       ]
+      },
+      {
+       "duration_ms": 229924,
+       "media_key": "13_2109580100685746176",
+       "preview_image_url": "https://pbs.twimg.com/media/HUbHyk-aYAAmSv1.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109580100685746176/vid/avc1/1920x1080/-t0zYSlhTkgQE_ci.mp4"
+        },
+        {
+         "bit_rate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109580100685746176/vid/avc1/480x270/X-G25XJEQzLXc5_x.mp4"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109580100685746176/vid/avc1/1280x720/6-vwfTzu8Ngc6yic.mp4"
+        },
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2109580100685746176/vid/avc1/640x360/E5h9hZBT5QR6Gr9m.mp4"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2109580100685746176/pl/iTruJZPL0jNqUuC6.m3u8"
+        }
+       ]
+      },
+      {
+       "duration_ms": 77415,
+       "media_key": "13_2108956758383403008",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108956758383403008/img/ArKFlemM51mOypg-.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108956758383403008/vid/avc1/640x360/orDbLYXKxaJICAbs.mp4"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108956758383403008/vid/avc1/1280x720/HqWxTrAAcAYeQ-Y5.mp4"
+        },
+        {
+         "bit_rate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108956758383403008/vid/avc1/1920x1080/W8TZRcKS1OJfcN3X.mp4"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2108956758383403008/pl/wuKroZhI2ETfFtS3.m3u8?v=458"
+        },
+        {
+         "bit_rate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108956758383403008/vid/avc1/480x270/WUbqCpt8D_Et_aQi.mp4"
+        }
+       ]
+      },
+      {
+       "duration_ms": 422278,
+       "media_key": "13_2108657451344019456",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108657451344019456/img/DpL1GbgKUEBcdWHc.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108657451344019456/vid/avc1/640x360/aylkhL9PAK1YGzC4.mp4"
+        },
+        {
+         "bit_rate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108657451344019456/vid/avc1/1920x1080/ut97DSlwxnWj09vM.mp4"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108657451344019456/vid/avc1/1280x720/g_kwQdEd29cKWEes.mp4"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2108657451344019456/pl/SRz2tbHpXgfvLNOc.m3u8?v=8b7"
+        },
+        {
+         "bit_rate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108657451344019456/vid/avc1/480x270/yrNHS9R8cn5tl1on.mp4"
+        }
+       ]
+      },
+      {
+       "duration_ms": 9000,
+       "media_key": "13_2108291683813326848",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2108291683813326848/img/Y61fJyrV9bxxJ8Dc.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 288000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108291683813326848/vid/avc1/424x270/LWrpO-4me-cMJvBS.mp4?tag=16"
+        },
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108291683813326848/vid/avc1/566x360/wBLE_sNepIAlEJun.mp4?tag=16"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2108291683813326848/vid/avc1/1132x720/1JsZjTDzZdSaB96L.mp4?tag=16"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2108291683813326848/pl/KdBmhNQnUHQE_zQs.m3u8?tag=16"
+        }
+       ]
+      },
+      {
+       "duration_ms": 89208,
+       "media_key": "13_2107851569710743552",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107851569710743552/img/-tgPTlwd8NKeWoL1.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 8768000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2107851569710743552/vid/avc1/1080x1080/UyadFM2-zfRTo2wO.mp4?tag=16"
+        },
+        {
+         "bit_rate": 1280000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2107851569710743552/vid/avc1/720x720/7DrUaNR_SHONyxnz.mp4?tag=16"
+        },
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2107851569710743552/vid/avc1/540x540/p4uJX9oIlIkmeH8a.mp4?tag=16"
+        },
+        {
+         "bit_rate": 432000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2107851569710743552/vid/avc1/320x320/dMPeXXgh9Y7i9ur1.mp4?tag=16"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2107851569710743552/pl/OkQYdwdwKK3fWw0G.m3u8?tag=16&v=79c"
+        }
+       ]
+      },
+      {
+       "duration_ms": 8033,
+       "media_key": "13_2107477846059102208",
+       "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107477846059102208/img/8cGI5fUW2RsQbn88.jpg",
+       "type": "video",
+       "variants": [
+        {
+         "bit_rate": 288000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2107477846059102208/vid/avc1/480x270/GL00x4GHYRSpywI0.mp4?tag=16"
+        },
+        {
+         "bit_rate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2107477846059102208/vid/avc1/640x360/a0Vabn86T6zxS9gV.mp4?tag=16"
+        },
+        {
+         "bit_rate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2107477846059102208/vid/avc1/1280x720/GMnVP0TP9PROjSJD.mp4?tag=16"
+        },
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2107477846059102208/pl/PTgS8ksw0K7x2WEo.m3u8?tag=16"
+        }
+       ]
+      }
+     ],
+     "users": [
+      {
+       "description": "Build without boundaries. Create stunning web apps that scale to millions by collaborating with AI.",
+       "id": "2279695508",
+       "name": "bolt.new",
+       "url": "https://t.co/0eDjZKerjU",
+       "username": "boltdotnew",
+       "verified_type": "business"
+      },
+      {
+       "description": "AI research and products that transform how we interact with technology. \n\nLeading foundational models powering ElevenAgents, @ElevenCreative, and ElevenAPI.",
+       "id": "1478679005788311552",
+       "name": "ElevenLabs",
+       "url": "https://t.co/rHN3SKiqqp",
+       "username": "ElevenLabs",
+       "verified_type": "business"
+      },
+      {
+       "description": "Discord: https://t.co/vPihZSqbU8\nINS: https://t.co/koyDATq9CZ\nCreator Partnership Program(CPP): https://t.co/KLDCVOlk92",
+       "id": "1830956655892164613",
+       "name": "MiniMax Design (H3)",
+       "url": "https://t.co/wt5acj04pj",
+       "username": "Hailuo_AI",
+       "verified_type": "business"
+      },
+      {
+       "description": "The AI-native creative suite",
+       "id": "1712267009483022336",
+       "name": "Higgsfield AI 🧩",
+       "url": "https://t.co/uJcxvH8C1T",
+       "username": "higgsfield_ai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+       "id": "1799294856822673408",
+       "name": "Kling AI",
+       "url": "https://t.co/qiuazczD2J",
+       "username": "Kling_ai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+       "id": "366289783",
+       "name": "Replit ⠕",
+       "url": "https://t.co/2pVzkujhQZ",
+       "username": "Replit",
+       "verified_type": "business"
+      },
+      {
+       "description": "The unified interface for LLMs. 400+ models (incl. 50+ free), the best prices, explorable data, private chat, & a unified API. https://t.co/qJG5mKrQ6j",
+       "id": "1681349314797240320",
+       "name": "OpenRouter",
+       "url": "https://t.co/o0u65kcJeL",
+       "username": "OpenRouter",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "result_count": 12
+    }
+   }
+  }
+ ]
+}
