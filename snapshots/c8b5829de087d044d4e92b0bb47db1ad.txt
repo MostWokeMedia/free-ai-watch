@@ -1,8 +1,6 @@
-We and our partners use cookies, scripts and certain similar technologies (“Cookies”) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on your browsing habits. Click “Accept all” to accept all Cookies, or use another button to adjust the optional ones. See our Privacy Policy.
+We and our partners use cookies, scripts and certain similar technologies (“Cookies”) to collect data from visitors to this site, including IP address, clicks, and other details about them and their use of the site and other sites. This helps us operate site features, identify visitors, understand use of our site, and provide personalized advertisements on and off our site, including ads based on your browsing habits. You can opt out of certain Cookies through the Cookie Settings link below. See our Privacy Policy.
 
-Settings
-Reject optional
-Accept all
+Cookie settings
 For AI agents: a documentation index is available at the root level at /llms.txt. Append /llms.txt to any URL for a page-level index, or .md for the markdown version of any page.
 
 🚀 Meet Embed 5: Cohere’s most powerful embeddings models yet, now available in Pro and Fast. (Learn more)

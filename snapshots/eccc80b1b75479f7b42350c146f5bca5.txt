@@ -14,6 +14,12 @@ attach_money
 Pricing
 Reader API
 Convert a URL to LLM-friendly input by prepending r.jina.ai.
+report_problemWe cannot generate an API key because we couldn't verify if you are human. Refreshing the page multiple times may help. If you believe this is a mistake, please contact us with the debug info.
+refresh
+REFRESH
+bug_report
+DEBUG INFO
+CONTACT
 login
 key
 API KEY & BILLING
