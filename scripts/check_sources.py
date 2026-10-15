@@ -17,9 +17,18 @@ VOLATILE = [(re.compile(r"(Cloudflare )?Ray ID:?\s*[0-9a-f]{12,20}", re.I), "Ray
             (re.compile(r"\b(nonce|csrf|token|request[ _-]?id|trace[ _-]?id)([\"'=: ]+)[A-Za-z0-9+/_\-=]{8,}", re.I), r"\1\2<tok>"),
             (re.compile(r"\b[0-9a-f]{32,}\b", re.I), "<hex>"),
             (re.compile(r"\b[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\b", re.I), "<uuid>")]
+# Lines that change without the offer changing: cookie/consent banners, keyboard-shortcut glyphs,
+# result counters, embedded widget errors (e.g. Jina's key widget failing its human check in CI).
+NOISE_LINE = re.compile(r"cookie|privacy choices|do not sell|manage preferences|consent|^(ctrl ?\+? ?[a-z]|⌘ ?[a-z]|ctrl[a-z])$|^displaying \d+-\d+ \(\d+\)$|"
+                        r"verify if you are human|refreshing the page multiple times|^(refresh|bug_report|debug info|contact|report_problem.*)$", re.I)
 def norm(t):
     for rx, rep in VOLATILE: t = rx.sub(rep, t)
-    return t
+    return "\n".join(l for l in t.splitlines() if l.strip() and not NOISE_LINE.search(l.strip()))
+def add_event(ev):
+    """One event per offer/type/day: repeat runs replace instead of stacking."""
+    for i, c in enumerate(changes):
+        if c["date"] == ev["date"] and c["name"] == ev["name"] and c["type"] == ev["type"]: changes[i] = ev; return
+    changes.insert(0, ev)
 def blocked(status, text):
     """Bot-block / challenge page: count as 'couldn't verify', never as a change."""
     if status in (403, 429, 503): return True
@@ -49,7 +58,7 @@ with sync_playwright() as p:
             old = snap.read_text()
             if norm(old) != norm(text):
                 d = [l for l in difflib.unified_diff(norm(old).splitlines(), norm(text).splitlines(), lineterm="", n=0) if l[:1] in "+-" and l[:3] not in ("+++","---")]
-                if d: changes.insert(0, {"date":today,"name":it["name"],"type":"page_changed","detail":" | ".join(d[:6])[:400],"source_url":url})
+                if d: add_event({"date":today,"name":it["name"],"type":"page_changed","detail":" | ".join(d[:6])[:400],"source_url":url})
         if text: snap.write_text(text)
         if seed:
             if m:
@@ -58,7 +67,7 @@ with sync_playwright() as p:
             print(("OK  " if m else "SKIP"), it["name"])
         else:
             if m: it.update(last_checked=today, evidence=ev)
-            elif text: changes.insert(0, {"date":today,"name":it["name"],"type":"phrase_missing","detail":"Verification phrase no longer found - review","source_url":url})
+            elif text: add_event({"date":today,"name":it["name"],"type":"phrase_missing","detail":"Verification phrase no longer found - review","source_url":url})
             kept.append(it)
     b.close()
 json.dump(kept, open(R/"data/offers.json","w"), indent=1)

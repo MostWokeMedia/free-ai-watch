@@ -3,7 +3,7 @@ on:
   # Two crons so it runs ~7 AM Central year-round: 12:00 UTC = 7 AM CDT, 13:00 UTC = 7 AM CST. The guard skips the other one.
   schedule: [{cron: "0 12 * * *"}, {cron: "0 13 * * *"}]
   workflow_dispatch: {}
-  push:
+  push:   # push = build + deploy only (no source check, no data commit)
     branches: [main]
 permissions: {contents: write}
 concurrency: {group: daily-deploy, cancel-in-progress: false}
@@ -22,16 +22,16 @@ jobs:
         if: steps.guard.outputs.go == 'true'
         with: {python-version: "3.12"}
       - run: pip install playwright && python -m playwright install --with-deps chromium
-        if: steps.guard.outputs.go == 'true'
+        if: steps.guard.outputs.go == 'true' && github.event_name != 'push'
       - run: python scripts/check_sources.py
-        if: steps.guard.outputs.go == 'true'
+        if: steps.guard.outputs.go == 'true' && github.event_name != 'push'
       - run: python scripts/draft_posts.py
-        if: steps.guard.outputs.go == 'true'
+        if: steps.guard.outputs.go == 'true' && github.event_name != 'push'
       - name: Weekly roundup draft (Mondays)
-        if: steps.guard.outputs.go == 'true'
+        if: steps.guard.outputs.go == 'true' && github.event_name != 'push'
         run: if [ "$(date -u +%u)" = "1" ]; then python scripts/draft_weekly.py; fi
       - name: Commit updated data, snapshots, drafts
-        if: steps.guard.outputs.go == 'true'
+        if: steps.guard.outputs.go == 'true' && github.event_name != 'push'
         run: |
           git config user.name "freeaiwatch-bot"; git config user.email "bot@users.noreply.github.com"
           git add data snapshots drafts && git commit -m "daily check $(date -u +%F)" || echo "no changes"
