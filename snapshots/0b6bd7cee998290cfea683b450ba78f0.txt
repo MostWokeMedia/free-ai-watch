@@ -9,7 +9,7 @@ Tavily Docs home page
 Search...
 Ctrl K
 Ask Assistant
-CTRLI
+Ctrl+I
 Support
 Get an API key
 Home

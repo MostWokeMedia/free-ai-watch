@@ -312,6 +312,31 @@ visibility_off
 verified_user
 Top up this API key with more tokens
 Depending on your location, you may be charged in USD, EUR, or other currencies. Taxes may apply.
+Toy Experiment
+10 Million
+Tokens valid for:
+Non-commercial use only (CC-BY-NC).
+Free
+Enjoy your new API key with free tokens.
+Prototype Development
+1 Billion
+Tokens valid for:
+key Standard key
+task_alt Basic key management
+task_alt Technical support
+$50
+0.050 / 1M tokens
+add_shopping_cart
+Production Deployment
+11 Billion
+Tokens valid for:
+key Premium key with much higher rate limits
+task_alt Advanced key management
+task_alt Premium customer support in 24 hours
+task_alt One-hour integration consultation
+$500
+0.045 / 1M tokens
+add_shopping_cart
 Please enter the correct API key to top up.
 speed
 Understand the rate limit

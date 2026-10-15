@@ -9,7 +9,7 @@ OpenRouter | Documentation home page
 Search...
 Ctrl K
 Ask Assistant
-CTRLI
+Ctrl+I
 Models
 Benchmarks
 Chat

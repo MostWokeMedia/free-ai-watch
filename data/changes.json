@@ -10,6 +10,97 @@
   "date": "2026-10-15",
   "name": "Perplexity Free",
   "type": "page_changed",
+  "detail": "-Ray ID: a4aafbd8a91dc379 | +Ray ID: a4ab4a1c9df350d9",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Jina Reader",
+  "type": "page_changed",
+  "detail": "+Toy Experiment | +10 Million | +Tokens valid for: | +Non-commercial use only (CC-BY-NC). | +Free | +Enjoy your new API key with free tokens.",
+  "source_url": "https://jina.ai/reader/"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Ideogram Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Ideogram Free",
+  "type": "page_changed",
+  "detail": "-Ray ID: a4aafb8d9ae476b8 | +Ray ID: a4ab49d2cd43507c",
+  "source_url": "https://ideogram.ai/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Runway Free",
+  "type": "page_changed",
+  "detail": "-2 months free | +-20% off | -2 months free | +-20% off",
+  "source_url": "https://runway.com/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Claude Free",
+  "type": "page_changed",
+  "detail": "+Developer",
+  "source_url": "https://claude.com/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "ChatGPT Free",
+  "type": "page_changed",
+  "detail": "-$0 | -$8 | -$20 | -$100",
+  "source_url": "https://chatgpt.com/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Firecrawl free plan",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.firecrawl.dev/pricing"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Tavily free plan",
+  "type": "page_changed",
+  "detail": "-CTRLI | +Ctrl+I",
+  "source_url": "https://docs.tavily.com/documentation/api-credits"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "GitHub Student Developer Pack",
+  "type": "page_changed",
+  "detail": "+MongoDB | +About MongoDB | + | +A general purpose, document-based, distributed database built for modern application developers and for the cloud era. | + | +Offers",
+  "source_url": "https://education.github.com/pack"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "GitHub Copilot Free",
+  "type": "page_changed",
+  "detail": "-For getting started with GitHub Copilot. | +For lightweight chats | -Get started | +Start for free | +Access to entry level models | -Access to Haiku 4.5, GPT-5 mini, and more",
+  "source_url": "https://github.com/features/copilot/plans"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "OpenRouter free models",
+  "type": "page_changed",
+  "detail": "-CTRLI | +Ctrl+I",
+  "source_url": "https://openrouter.ai/docs/api_reference/limits"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Perplexity Free",
+  "type": "phrase_missing",
+  "detail": "Verification phrase no longer found - review",
+  "source_url": "https://www.perplexity.ai/pro"
+ },
+ {
+  "date": "2026-10-15",
+  "name": "Perplexity Free",
+  "type": "page_changed",
   "detail": "-Ray ID: a4aaeea1f89183d5 | +Ray ID: a4aafbd8a91dc379",
   "source_url": "https://www.perplexity.ai/pro"
  },
