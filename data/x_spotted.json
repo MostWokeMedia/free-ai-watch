@@ -44,28 +44,6 @@
   "first_seen": "2026-10-14"
  },
  {
-  "post_id": "2110038429199450126",
-  "url": "https://x.com/FishAudio/status/2110038429199450126",
-  "author": "@FishAudio",
-  "author_evidence": "https://fish.audio/claim/twitter",
-  "tool": "Fish Audio",
-  "type": "engagement_gated",
-  "offer": "Comment “DRAMA” within the next 48 hours for 1 month free.",
-  "discount_pct": null,
-  "comment_keyword": "DRAMA",
-  "posted_at": "2026-10-13T16:02:18.000Z",
-  "deadline": "2026-10-15T16:02:18Z",
-  "deadline_basis": "within the next 48 hours",
-  "metrics": {
-   "like_count": 11645,
-   "reply_count": 5126,
-   "retweet_count": null,
-   "impression_count": 8098799
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-14"
- },
- {
   "post_id": "2109681164806177267",
   "url": "https://x.com/higgsfield_ai/status/2109681164806177267",
   "author": "@higgsfield_ai",
