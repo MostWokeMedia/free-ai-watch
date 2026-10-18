@@ -1,5 +1,27 @@
 [
  {
+  "post_id": "2111487458819145893",
+  "url": "https://x.com/OpenRouter/status/2111487458819145893",
+  "author": "@OpenRouter",
+  "author_evidence": "https://openrouter.ai",
+  "tool": "OpenRouter (Scaledown models)",
+  "type": "promo_time_limited",
+  "offer": "Scaledown's task-specific models are currently 20% off on OpenRouter.",
+  "discount_pct": 20,
+  "comment_keyword": null,
+  "posted_at": "2026-10-17T16:00:14.000Z",
+  "deadline": null,
+  "deadline_basis": null,
+  "metrics": {
+   "like_count": 102,
+   "reply_count": 16,
+   "retweet_count": 4,
+   "impression_count": 10256
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-18"
+ },
+ {
   "post_id": "2111125198577479919",
   "url": "https://x.com/boltdotnew/status/2111125198577479919",
   "author": "@boltdotnew",
