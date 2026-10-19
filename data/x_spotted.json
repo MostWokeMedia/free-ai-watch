@@ -22,28 +22,6 @@
   "first_seen": "2026-10-18"
  },
  {
-  "post_id": "2111125198577479919",
-  "url": "https://x.com/boltdotnew/status/2111125198577479919",
-  "author": "@boltdotnew",
-  "author_evidence": "http://bolt.new/",
-  "tool": "Bolt",
-  "type": "promo_time_limited",
-  "offer": "Bolt is free for EVERYONE for the entire weekend, starting 12:00am PT October 17 (Builders Week challenge, submit by Oct 20 for a shot at $10K).",
-  "discount_pct": null,
-  "comment_keyword": null,
-  "posted_at": "2026-10-16T16:00:44.000Z",
-  "deadline": "2026-10-19T06:59:59Z",
-  "deadline_basis": "weekend of Oct 17 + 18 (end of Sunday PT)",
-  "metrics": {
-   "like_count": 345,
-   "reply_count": 36,
-   "retweet_count": 35,
-   "impression_count": 17896
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-17"
- },
- {
   "post_id": "2110074247569924489",
   "url": "https://x.com/higgsfield_ai/status/2110074247569924489",
   "author": "@higgsfield_ai",
@@ -120,8 +98,8 @@
   "discount_pct": 50,
   "comment_keyword": null,
   "posted_at": "2026-10-07T15:12:45.000Z",
-  "deadline": "2026-10-19T23:59:00Z",
-  "deadline_basis": "through October 19",
+  "deadline": "2026-10-19T15:00:00Z",
+  "deadline_basis": "through October 19, 8am PT",
   "metrics": {
    "like_count": 488,
    "reply_count": 28,
