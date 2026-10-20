@@ -1,0 +1,489 @@
+{
+ "fetched_at": "2026-10-20T11:12:00Z",
+ "results": [
+  {
+   "name": "official_time_limited",
+   "response": {
+    "data": [
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-19T17:00:02.000Z",
+      "edit_history_tweet_ids": [
+       "2112227283008389129"
+      ],
+      "id": "2112227283008389129",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 851,
+       "impression_count": 55911,
+       "like_count": 1086,
+       "quote_count": 8,
+       "reply_count": 29,
+       "retweet_count": 83
+      },
+      "text": "One script. Unlimited emotions. \ud83c\udfad\n\nWith Fish Audio Drama 3, you direct every performance, seriously!\n\nTry it on our web app and API \ud83d\udc33 https://t.co/0JpZfbqpdo",
+      "url": "https://x.com/FishAudio/status/2112227283008389129"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-19T16:54:03.000Z",
+      "edit_history_tweet_ids": [
+       "2112225779782398131"
+      ],
+      "id": "2112225779782398131",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 176,
+       "impression_count": 38368,
+       "like_count": 690,
+       "quote_count": 13,
+       "reply_count": 35,
+       "retweet_count": 30
+      },
+      "text": "Mercury 3 is live on OpenRouter!\n\n@_inception_ai's new diffusion model generates 1,000+ tok/s with 1M context, 4x more than Mercury 2.5. Inception reports it beats GPT-6 Luna and Haiku 5.5 on IFBench, GPQA Diamond, and SWE-Bench Atlas.\n\n50% off at launch: $0.10/M in, $0.35/M out https://t.co/QuHw9l3QYe",
+      "url": "https://x.com/OpenRouter/status/2112225779782398131"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-19T12:01:04.000Z",
+      "edit_history_tweet_ids": [
+       "2112152045461680591"
+      ],
+      "id": "2112152045461680591",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 142,
+       "impression_count": 121207,
+       "like_count": 1080,
+       "quote_count": 40,
+       "reply_count": 59,
+       "retweet_count": 76
+      },
+      "text": "Stealth model reveal \ud83d\udc30\n\nSpace Bunny was OpenRouter\u2019s #1 model for 10 straight days, processing 56.7T tokens! The most of any stealth model we\u2019ve run.\n\nSpace Bunny hopped off OpenRouter on Oct 5. It's back today as @MiniMax_AI's M3.1 Flash, and it's free for the next 72 hours. https://t.co/2i0HsEibp5",
+      "url": "https://x.com/OpenRouter/status/2112152045461680591"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-17T16:00:14.000Z",
+      "edit_history_tweet_ids": [
+       "2111487458819145893"
+      ],
+      "id": "2111487458819145893",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "mentions": [
+         {
+          "end": 78,
+          "id": "1167336092703477762",
+          "start": 63,
+          "username": "scaledown_team"
+         }
+        ],
+        "urls": [
+         {
+          "display_url": "openrouter.ai/docs/cookbook/\u2026",
+          "end": 284,
+          "expanded_url": "http://openrouter.ai/docs/cookbook/building-agents/compact-agent-sessions-with-scaledown",
+          "start": 261,
+          "url": "https://t.co/IKky6eQhHL"
+         }
+        ]
+       },
+       "text": "Looking for a weekend project? Two new OpenRouter cookbooks on @scaledown_team's task-specific models (currently 20% off!), each a ready-to-run recipe for a workflow problem.\n\nSummarize: compact a 100-step agent session while keeping the facts it still needs.\n\nhttps://t.co/IKky6eQhHL"
+      },
+      "public_metrics": {
+       "bookmark_count": 48,
+       "impression_count": 13309,
+       "like_count": 113,
+       "quote_count": 3,
+       "reply_count": 19,
+       "retweet_count": 6
+      },
+      "text": "Looking for a weekend project? Two new OpenRouter cookbooks on @scaledown_team's task-specific models (currently 20% off!), each a ready-to-run recipe for a workflow problem.\n\nSummarize: compact a 100-step agent session while keeping the facts it still needs.",
+      "url": "https://x.com/OpenRouter/status/2111487458819145893"
+     },
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-10-17T15:00:13.000Z",
+      "edit_history_tweet_ids": [
+       "2111472357105672652"
+      ],
+      "id": "2111472357105672652",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 270,
+       "impression_count": 235897,
+       "like_count": 592,
+       "quote_count": 109,
+       "reply_count": 114,
+       "retweet_count": 94
+      },
+      "text": "Bolt is free for EVERYONE, all weekend long. \nAnd you could win $10k!\n\nTurn your idea into a product.\nSubmit it by Oct 20 for your shot at the prize.\nBolt Builders Week starts now \ud83c\udfc1\n\nDetails here \ud83d\udc49 https://t.co/vzI8Nngl7G https://t.co/qR11AwfrRp",
+      "url": "https://x.com/boltdotnew/status/2111472357105672652"
+     },
+     {
+      "author_id": "366289783",
+      "created_at": "2026-10-16T21:00:00.000Z",
+      "edit_history_tweet_ids": [
+       "2111200511915667571"
+      ],
+      "id": "2111200511915667571",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "runway.com/mcp#replit",
+          "end": 341,
+          "expanded_url": "http://runway.com/mcp#replit",
+          "start": 318,
+          "url": "https://t.co/ED4PoOyULk"
+         },
+         {
+          "display_url": "replit.com/blog/introduci\u2026",
+          "end": 633,
+          "expanded_url": "http://replit.com/blog/introducing-replit-solutions-partners",
+          "start": 610,
+          "url": "https://t.co/wzUpwxNn89"
+         }
+        ]
+       },
+       "text": "This Week in Replit\n\n1) Introducing Runway for web design. Connect Runway to Replit to generate images, video, and assets directly inside your project, from first idea to finished site. Turn a product photo into a commercial, make UGC-style ads and launch videos, or create image and video assets for your website.\n\n\u2192 https://t.co/ED4PoOyULk\n\n2) Introducing the Replit Solutions Partner Program, for the systems integrators, agencies, and consultancies who turn client briefs into working software on Replit. It brings training and a referral-first partnership model to the work partners are already doing.\n\n\u2192 https://t.co/wzUpwxNn89"
+      },
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 6558,
+       "like_count": 38,
+       "quote_count": 1,
+       "reply_count": 12,
+       "retweet_count": 4
+      },
+      "text": "This Week in Replit\n\n1) Introducing Runway for web design. Connect Runway to Replit to generate images, video, and assets directly inside your project, from first idea to finished site. Turn a product photo into a commercial, make UGC-style ads and launch videos, or create image https://t.co/DlMiAUlP5F",
+      "url": "https://x.com/Replit/status/2111200511915667571"
+     },
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-10-16T16:00:44.000Z",
+      "edit_history_tweet_ids": [
+       "2111125198577479919"
+      ],
+      "id": "2111125198577479919",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 336,
+       "impression_count": 30107,
+       "like_count": 422,
+       "quote_count": 10,
+       "reply_count": 53,
+       "retweet_count": 42
+      },
+      "text": "Bolt is free for EVERYONE. For the ENTIRE weekend.\n\nStarting at 12:00am PT October 17. \nBuild it Saturday, ship it Sunday, submit by Oct 20 for a shot at $10K.\n\nReady to build? Details here \ud83d\udc49\u00a0https://t.co/vzI8Nngl7G https://t.co/TZGAFoiY8Y",
+      "url": "https://x.com/boltdotnew/status/2111125198577479919"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-15T19:29:37.000Z",
+      "edit_history_tweet_ids": [
+       "2110815375357280695"
+      ],
+      "id": "2110815375357280695",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 11,
+       "impression_count": 14403,
+       "like_count": 136,
+       "quote_count": 7,
+       "reply_count": 12,
+       "retweet_count": 8
+      },
+      "text": "New addition to our data rankings: Open vs Closed model share.\n\nOpen-weight models processed 73% of total tokens so far this week.\n\nDance through the data yourself at https://t.co/jy765IMtrk\n\nWe are also accepting suggestions for new public charts! https://t.co/Q2Rfen4cxa",
+      "url": "https://x.com/OpenRouter/status/2110815375357280695"
+     },
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-10-14T17:00:01.000Z",
+      "edit_history_tweet_ids": [
+       "2110415341998191027"
+      ],
+      "id": "2110415341998191027",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 531,
+       "impression_count": 34524,
+       "like_count": 525,
+       "quote_count": 16,
+       "reply_count": 65,
+       "retweet_count": 52
+      },
+      "text": "Bolt is free for EVERYONE for an ENTIRE weekend. \nAnd you could win $10K!\n\nIntroducing the Builders Week challenge.\nBuild all weekend Oct 17 + 18.\nTurn your idea into a product, and submit by Oct 20.\n\nReady to build? Details here \ud83d\udc49 https://t.co/kX0cuKDGyE https://t.co/douQmOcPCb",
+      "url": "https://x.com/boltdotnew/status/2110415341998191027"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-14T16:15:02.000Z",
+      "edit_history_tweet_ids": [
+       "2110404020192092611"
+      ],
+      "id": "2110404020192092611",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 6,
+       "impression_count": 7354,
+       "like_count": 72,
+       "quote_count": 1,
+       "reply_count": 6,
+       "retweet_count": 6
+      },
+      "text": "ElevenLabs had a strong launch week, taking nearly a third of spend on text-to-speech models yesterday after only 7 days live on platform.\n\nAll @ElevenLabs models are 50% off, only on OpenRouter, through 10/19 https://t.co/7aKezXPsaw",
+      "url": "https://x.com/OpenRouter/status/2110404020192092611"
+     },
+     {
+      "author_id": "1478679005788311552",
+      "created_at": "2026-10-14T16:00:00.000Z",
+      "edit_history_tweet_ids": [
+       "2110400237969826097"
+      ],
+      "id": "2110400237969826097",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "elevenlabs.io/blog/how-we-so\u2026",
+          "end": 594,
+          "expanded_url": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+          "start": 571,
+          "url": "https://t.co/A8WdZefO3b"
+         }
+        ]
+       },
+       "text": "We run our own customer support on ElevenAgents. It\u2019s resolved over 22,000 tickets a month and cut our response time down from hours to 60 seconds.\n\nOur support team already had standard operating procedures for every major kind of ticket, like refunds, billing changes, and voice clone questions. We turned each one into a set of steps the agent follows. The agent can also look up what it needs about a customer, read text, screenshots, and PDFs, reply in the customer's language, take actions, and hand off to our team when a person is needed.\n\nRead how we built it:  https://t.co/A8WdZefO3b"
+      },
+      "public_metrics": {
+       "bookmark_count": 22,
+       "impression_count": 10235,
+       "like_count": 146,
+       "quote_count": 5,
+       "reply_count": 29,
+       "retweet_count": 9
+      },
+      "text": "We run our own customer support on ElevenAgents. It\u2019s resolved over 22,000 tickets a month and cut our response time down from hours to 60 seconds.\n\nOur support team already had standard operating procedures for every major kind of ticket, like refunds, billing changes, and voice https://t.co/LodPe287TM",
+      "url": "https://x.com/ElevenLabs/status/2110400237969826097"
+     },
+     {
+      "author_id": "1830956655892164613",
+      "created_at": "2026-10-14T14:29:33.000Z",
+      "edit_history_tweet_ids": [
+       "2110377476237214065"
+      ],
+      "id": "2110377476237214065",
+      "lang": "en",
+      "note_tweet": {
+       "text": "MiniMax Design Agent V3 is LIVE!\n\u2728 Create More, Spend Less\n30%+ lower creation costs. Faster, smarter, and more efficient!\n\n\u26a1\ufe0f Seamless Creative Workflow\nReuse assets and share context across chats within the same creation page.\n\n\ud83c\udfa8 Design Your Rules\nCustomize Agent instructions to match your style.\n\n\ud83d\udcb0Exclusive Member Rewards\nOct 13\u201316: Claim 1,000 FREE credits daily, up to 4,000 credits total!"
+      },
+      "public_metrics": {
+       "bookmark_count": 23,
+       "impression_count": 9162,
+       "like_count": 99,
+       "quote_count": 8,
+       "reply_count": 19,
+       "retweet_count": 12
+      },
+      "text": "MiniMax Design Agent V3 is LIVE!\n\u2728 Create More, Spend Less\n30%+ lower creation costs. Faster, smarter, and more efficient!\n\n\u26a1\ufe0f Seamless Creative Workflow\nReuse assets and share context across chats within the same creation page.\n\n\ud83c\udfa8 Design Your Rules\nCustomize Agent instructions https://t.co/lLswi98BEV",
+      "url": "https://x.com/Hailuo_AI/status/2110377476237214065"
+     },
+     {
+      "author_id": "1712267009483022336",
+      "created_at": "2026-10-13T18:24:38.000Z",
+      "edit_history_tweet_ids": [
+       "2110074247569924489"
+      ],
+      "id": "2110074247569924489",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 476,
+       "impression_count": 505717,
+       "like_count": 979,
+       "quote_count": 96,
+       "reply_count": 132,
+       "retweet_count": 270
+      },
+      "text": "Wan 3.0 is now UNLIMITED on Higgsfield for 7 days.\n\n60% OFF on Higgsfield API.\n\n&gt; Advanced motion design, animation and live-action realism\n&gt; Consistent characters across every shot\n&gt; Top-tier quality at an affordable price\n\nAvailable now at Higgsfield. Limited offer. https://t.co/ncpqpOg4NX",
+      "url": "https://x.com/higgsfield_ai/status/2110074247569924489"
+     },
+     {
+      "author_id": "1712267009483022336",
+      "created_at": "2026-10-12T16:22:40.000Z",
+      "edit_history_tweet_ids": [
+       "2109681164806177267"
+      ],
+      "id": "2109681164806177267",
+      "lang": "en",
+      "public_metrics": {
+       "bookmark_count": 419,
+       "impression_count": 1194140,
+       "like_count": 836,
+       "quote_count": 25,
+       "reply_count": 90,
+       "retweet_count": 264
+      },
+      "text": "Meet Higgsfield Genjutsu, now available via API.\n\nGet 50% OFF the Genjutsu API.\n\nBring the most viral motion transfer feature to your app with one endpoint.\n\nOffer valid through October 31. https://t.co/BzavlEech7",
+      "url": "https://x.com/higgsfield_ai/status/2109681164806177267"
+     },
+     {
+      "author_id": "1799294856822673408",
+      "created_at": "2026-10-12T12:02:14.000Z",
+      "edit_history_tweet_ids": [
+       "2109615077783425087",
+       "2109615420223197541",
+       "2109615624985219203"
+      ],
+      "id": "2109615624985219203",
+      "lang": "en",
+      "note_tweet": {
+       "text": "How do you make an AI-generated music video that gets people talking? \ud83d\udc40\ud83c\udfac\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know how he pulled it off.\n\nIn this episode of Creator Off Script, Simon breaks down his creative process, shares how he makes AI footage feel real, and reveals the Kling 4.0 features that impressed him most."
+      },
+      "public_metrics": {
+       "bookmark_count": 81,
+       "impression_count": 16362,
+       "like_count": 195,
+       "quote_count": 7,
+       "reply_count": 52,
+       "retweet_count": 17
+      },
+      "text": "How do you make an AI-generated music video that gets people talking? \ud83d\udc40\ud83c\udfac\n\nSimon Meyer, Creative Director and Co-Founder of PROMPTR Studios got early access to Kling 4.0 to put its new capabilities to the test. The music video he created went viral, with viewers eager to know https://t.co/VD9HksLmKG",
+      "url": "https://x.com/Kling_ai/status/2109615624985219203"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs. \n\ud83d\udc49 https://t.co/gzh4M4drSq @FishCreativeHQ",
+       "id": "1779922590645235713",
+       "name": "Fish Audio",
+       "url": "https://t.co/fOVWGwSC2C",
+       "username": "FishAudio",
+       "verified_type": "business"
+      },
+      {
+       "description": "The unified interface for LLMs. 400+ models (incl. 50+ free), the best prices, explorable data, private chat, & a unified API. https://t.co/qJG5mKrQ6j",
+       "id": "1681349314797240320",
+       "name": "OpenRouter",
+       "url": "https://t.co/o0u65kcJeL",
+       "username": "OpenRouter",
+       "verified_type": "business"
+      },
+      {
+       "description": "Build without boundaries. Create stunning web apps that scale to millions by collaborating with AI.",
+       "id": "2279695508",
+       "name": "bolt.new",
+       "url": "https://t.co/0eDjZKerjU",
+       "username": "boltdotnew",
+       "verified_type": "business"
+      },
+      {
+       "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+       "id": "366289783",
+       "name": "Replit \u2815",
+       "url": "https://t.co/2pVzkujhQZ",
+       "username": "Replit",
+       "verified_type": "business"
+      },
+      {
+       "description": "AI research and products that transform how we interact with technology. \n\nLeading foundational models powering ElevenAgents, @ElevenCreative, and ElevenAPI.",
+       "id": "1478679005788311552",
+       "name": "ElevenLabs",
+       "url": "https://t.co/rHN3SKiqqp",
+       "username": "ElevenLabs",
+       "verified_type": "business"
+      },
+      {
+       "description": "Discord: https://t.co/vPihZSqbU8\nINS: https://t.co/koyDATq9CZ\nCreator Partnership Program(CPP): https://t.co/KLDCVOlk92",
+       "id": "1830956655892164613",
+       "name": "MiniMax Design (H3)",
+       "url": "https://t.co/wt5acj04pj",
+       "username": "Hailuo_AI",
+       "verified_type": "business"
+      },
+      {
+       "description": "The AI-native creative suite",
+       "id": "1712267009483022336",
+       "name": "Higgsfield AI \ud83e\udde9",
+       "url": "https://t.co/uJcxvH8C1T",
+       "username": "higgsfield_ai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Join KLING AI Community\ud83d\udcab\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+       "id": "1799294856822673408",
+       "name": "Kling AI",
+       "url": "https://t.co/qiuazczD2J",
+       "username": "Kling_ai",
+       "verified_type": "blue"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2112227283008389129",
+     "next_token": "b26v89c19zqg8o3juzizkx146mt5a7wisrb4vdakeuhkt",
+     "oldest_id": "2109615624985219203",
+     "result_count": 15
+    }
+   }
+  },
+  {
+   "name": "official_engagement_gated",
+   "response": {
+    "data": [
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-13T16:02:18.000Z",
+      "edit_history_tweet_ids": [
+       "2110038429199450126"
+      ],
+      "id": "2110038429199450126",
+      "public_metrics": {
+       "bookmark_count": 14556,
+       "impression_count": 12994197,
+       "like_count": 17232,
+       "quote_count": 847,
+       "reply_count": 8361,
+       "retweet_count": 1647
+      },
+      "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice https://t.co/9QnmoRZIaP",
+      "url": "https://x.com/FishAudio/status/2110038429199450126"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs. \n\ud83d\udc49 https://t.co/gzh4M4drSq @FishCreativeHQ",
+       "id": "1779922590645235713",
+       "name": "Fish Audio",
+       "url": "https://t.co/fOVWGwSC2C",
+       "username": "FishAudio",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2110038429199450126",
+     "next_token": "b26v89c19zqg8o3juzlvk1t2sr2obrglri6a404rq0fp9",
+     "oldest_id": "2110038429199450126",
+     "result_count": 1
+    }
+   }
+  },
+  {
+   "name": "discovery_broad",
+   "response": {
+    "data": [],
+    "meta": {
+     "result_count": 0
+    },
+    "_error": "HTTP 429 rate limit on shared X access (2 attempts); skipped"
+   }
+  }
+ ]
+}

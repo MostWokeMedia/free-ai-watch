@@ -1,5 +1,49 @@
 [
  {
+  "post_id": "2112225779782398131",
+  "url": "https://x.com/OpenRouter/status/2112225779782398131",
+  "author": "@OpenRouter",
+  "author_evidence": "https://openrouter.ai",
+  "tool": "OpenRouter (Inception Mercury 3)",
+  "type": "promo_time_limited",
+  "offer": "Inception's Mercury 3 diffusion model is 50% off at launch on OpenRouter: $0.10/M input, $0.35/M output.",
+  "discount_pct": 50,
+  "comment_keyword": null,
+  "posted_at": "2026-10-19T16:54:03.000Z",
+  "deadline": null,
+  "deadline_basis": null,
+  "metrics": {
+   "like_count": 690,
+   "reply_count": 35,
+   "retweet_count": 30,
+   "impression_count": 38368
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-20"
+ },
+ {
+  "post_id": "2112152045461680591",
+  "url": "https://x.com/OpenRouter/status/2112152045461680591",
+  "author": "@OpenRouter",
+  "author_evidence": "https://openrouter.ai",
+  "tool": "OpenRouter (MiniMax M3.1 Flash)",
+  "type": "promo_time_limited",
+  "offer": "MiniMax M3.1 Flash (formerly stealth model Space Bunny) is free on OpenRouter for the next 72 hours.",
+  "discount_pct": null,
+  "comment_keyword": null,
+  "posted_at": "2026-10-19T12:01:04.000Z",
+  "deadline": "2026-10-22T12:01:04Z",
+  "deadline_basis": "for the next 72 hours",
+  "metrics": {
+   "like_count": 1080,
+   "reply_count": 59,
+   "retweet_count": 76,
+   "impression_count": 121207
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-20"
+ },
+ {
   "post_id": "2111487458819145893",
   "url": "https://x.com/OpenRouter/status/2111487458819145893",
   "author": "@OpenRouter",
@@ -83,28 +127,6 @@
    "reply_count": 10,
    "retweet_count": 15,
    "impression_count": 10892
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-14"
- },
- {
-  "post_id": "2107851633191436685",
-  "url": "https://x.com/OpenRouter/status/2107851633191436685",
-  "author": "@OpenRouter",
-  "author_evidence": "https://openrouter.ai",
-  "tool": "OpenRouter",
-  "type": "promo_time_limited",
-  "offer": "All @ElevenLabs models are 50% off, only on OpenRouter, through October 19, 8am PT.",
-  "discount_pct": 50,
-  "comment_keyword": null,
-  "posted_at": "2026-10-07T15:12:45.000Z",
-  "deadline": "2026-10-19T15:00:00Z",
-  "deadline_basis": "through October 19, 8am PT",
-  "metrics": {
-   "like_count": 488,
-   "reply_count": 28,
-   "retweet_count": 34,
-   "impression_count": 42864
   },
   "status": "unverified",
   "first_seen": "2026-10-14"
