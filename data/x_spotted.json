@@ -44,28 +44,6 @@
   "first_seen": "2026-10-20"
  },
  {
-  "post_id": "2112152045461680591",
-  "url": "https://x.com/OpenRouter/status/2112152045461680591",
-  "author": "@OpenRouter",
-  "author_evidence": "https://openrouter.ai",
-  "tool": "OpenRouter (MiniMax M3.1 Flash)",
-  "type": "promo_time_limited",
-  "offer": "MiniMax M3.1 Flash (formerly stealth model Space Bunny) is free on OpenRouter for the next 72 hours.",
-  "discount_pct": null,
-  "comment_keyword": null,
-  "posted_at": "2026-10-19T12:01:04.000Z",
-  "deadline": "2026-10-22T12:01:04Z",
-  "deadline_basis": "for the next 72 hours",
-  "metrics": {
-   "like_count": 1080,
-   "reply_count": 59,
-   "retweet_count": 76,
-   "impression_count": 121207
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-20"
- },
- {
   "post_id": "2111487458819145893",
   "url": "https://x.com/OpenRouter/status/2111487458819145893",
   "author": "@OpenRouter",
@@ -105,28 +83,6 @@
    "reply_count": 85,
    "retweet_count": 263,
    "impression_count": 1098266
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-14"
- },
- {
-  "post_id": "2108291696572379521",
-  "url": "https://x.com/OpenRouter/status/2108291696572379521",
-  "author": "@OpenRouter",
-  "author_evidence": "https://openrouter.ai",
-  "tool": "OpenRouter",
-  "type": "promo_time_limited",
-  "offer": "$0.02/M input (50% off the $0.04 list price).",
-  "discount_pct": 50,
-  "comment_keyword": null,
-  "posted_at": "2026-10-08T20:21:25.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 110,
-   "reply_count": 10,
-   "retweet_count": 15,
-   "impression_count": 10892
   },
   "status": "unverified",
   "first_seen": "2026-10-14"
