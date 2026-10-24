@@ -1,5 +1,27 @@
 [
  {
+  "post_id": "2113772401351647360",
+  "url": "https://x.com/Replit/status/2113772401351647360",
+  "author": "@Replit",
+  "author_evidence": "http://replit.com",
+  "tool": "Replit",
+  "type": "promo_time_limited",
+  "offer": "Ask Replit to incorporate your business through the Stripe MCP integration, with 20% off when you incorporate through Replit.",
+  "discount_pct": 20,
+  "comment_keyword": null,
+  "posted_at": "2026-10-23T23:19:47.000Z",
+  "deadline": null,
+  "deadline_basis": null,
+  "metrics": {
+   "like_count": 20,
+   "reply_count": 7,
+   "retweet_count": 4,
+   "impression_count": 4699
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-24"
+ },
+ {
   "post_id": "2112925874144030784",
   "url": "https://x.com/runwayml/status/2112925874144030784",
   "author": "@runwayml",
