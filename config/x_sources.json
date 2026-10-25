@@ -82,5 +82,11 @@
   "\\bairdrop\\b",
   "\\bgiveaway\\b",
   "\\bguide\\b.*\\bfree\\b"
+ ],
+ "rejected_posts": [
+  {
+   "post_id": "2112227283008389129",
+   "reason": "FishAudio 'Unlimited emotions' is marketing copy, not a promo (hand-check 2026-10-25)"
+  }
  ]
 }

@@ -62,6 +62,7 @@ def main(path):
     for p, u in posts(raw):
         stats["seen_posts"] += 1
         text = (p.get("note_tweet") or {}).get("text") or p.get("text", ""); text = text.replace("&gt;", ">").replace("&amp;", "&")
+        if p["id"] in {r["post_id"] for r in cfg.get("rejected_posts", [])}: stats.setdefault("rejected", 0); stats["rejected"] += 1; continue
         if not is_original(p): stats["not_original"] += 1; continue
         h = (u.get("username") or "").lower()
         if h not in OFF: stats["not_official"] += 1; continue
