@@ -1,0 +1,929 @@
+{
+ "fetched_at": "2026-10-26T11:04:01.744922+00:00",
+ "results": [
+  {
+   "name": "official_time_limited",
+   "response": {
+    "data": [
+     {
+      "author_id": "366289783",
+      "created_at": "2026-10-23T23:19:47.000Z",
+      "edit_history_tweet_ids": [
+       "2113772401351647360"
+      ],
+      "id": "2113772401351647360",
+      "public_metrics": {
+       "bookmark_count": 9,
+       "impression_count": 7906,
+       "like_count": 30,
+       "quote_count": 6,
+       "reply_count": 17,
+       "retweet_count": 6
+      },
+      "text": "This Week in Replit\n\n1) Stripe Atlas on Replit. Ask Replit to incorporate your business through the Stripe MCP integration, with 20% off when you incorporate through Replit.\n\n\u2192 Try it today. Ask Replit: \"Incorporate my business with Stripe Atlas\"\n\n2) Chat and asset sharing. Give https://t.co/6h2D6y0h6t",
+      "url": "https://x.com/Replit/status/2113772401351647360"
+     },
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-10-23T16:00:13.000Z",
+      "edit_history_tweet_ids": [
+       "2113661781075800440"
+      ],
+      "id": "2113661781075800440",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 2952,
+       "like_count": 42,
+       "quote_count": 0,
+       "reply_count": 9,
+       "retweet_count": 2
+      },
+      "text": "Day 5 of Builders Week \u26a1\ufe0f \n\nCustomers are paying. Now we find out what's working.\n\nToday we build Larry's Lawn a dashboard that tracks every customer from quote to booking and shows exactly where they drop off. https://t.co/EXTzGnC3f3",
+      "url": "https://x.com/boltdotnew/status/2113661781075800440"
+     },
+     {
+      "author_id": "1001114465692200960",
+      "created_at": "2026-10-21T15:15:59.000Z",
+      "edit_history_tweet_ids": [
+       "2112925874144030784"
+      ],
+      "id": "2112925874144030784",
+      "public_metrics": {
+       "bookmark_count": 23,
+       "impression_count": 27928,
+       "like_count": 133,
+       "quote_count": 16,
+       "reply_count": 32,
+       "retweet_count": 17
+      },
+      "text": "Unlimited Kling 4 is now live on Runway.\n\nSign up for a new Max or Team plan to get 3 days of unlimited access. Plus 25% off Kling 4 on all plans. Get started at the link below. https://t.co/AthV6pDo0c",
+      "url": "https://x.com/runwayml/status/2112925874144030784"
+     },
+     {
+      "author_id": "1478679005788311552",
+      "created_at": "2026-10-21T15:02:21.000Z",
+      "edit_history_tweet_ids": [
+       "2112922442691928256"
+      ],
+      "id": "2112922442691928256",
+      "public_metrics": {
+       "bookmark_count": 41,
+       "impression_count": 19281,
+       "like_count": 166,
+       "quote_count": 15,
+       "reply_count": 36,
+       "retweet_count": 14
+      },
+      "text": "This week, we launched Eleven Realtime for voice agents that talk to people. Now we\u2019re opening a limited alpha of Eleven Realtime Translation, for people who need to talk to each other.\n\nEleven Realtime Translation builds live voice translation into calls. Each person can speak",
+      "url": "https://x.com/ElevenLabs/status/2112922442691928256"
+     },
+     {
+      "article": {
+       "title": "How We Made Drama 3 Cry on Cue and Still Get the Words Right"
+      },
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-20T17:29:48.000Z",
+      "edit_history_tweet_ids": [
+       "2112597163922641058"
+      ],
+      "id": "2112597163922641058",
+      "public_metrics": {
+       "bookmark_count": 11,
+       "impression_count": 3531,
+       "like_count": 34,
+       "quote_count": 0,
+       "reply_count": 5,
+       "retweet_count": 2
+      },
+      "text": "https://t.co/Yd1GwpdCTm",
+      "url": "https://x.com/FishAudio/status/2112597163922641058"
+     },
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-19T17:00:02.000Z",
+      "edit_history_tweet_ids": [
+       "2112227283008389129"
+      ],
+      "id": "2112227283008389129",
+      "public_metrics": {
+       "bookmark_count": 1453,
+       "impression_count": 190982,
+       "like_count": 1592,
+       "quote_count": 18,
+       "reply_count": 40,
+       "retweet_count": 124
+      },
+      "text": "One script. Unlimited emotions. \ud83c\udfad\n\nWith Fish Audio Drama 3, you direct every performance, seriously!\n\nTry it on our web app and API \ud83d\udc33 https://t.co/0JpZfbqpdo",
+      "url": "https://x.com/FishAudio/status/2112227283008389129"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-19T16:54:03.000Z",
+      "edit_history_tweet_ids": [
+       "2112225779782398131"
+      ],
+      "id": "2112225779782398131",
+      "public_metrics": {
+       "bookmark_count": 185,
+       "impression_count": 46239,
+       "like_count": 742,
+       "quote_count": 15,
+       "reply_count": 48,
+       "retweet_count": 33
+      },
+      "text": "Mercury 3 is live on OpenRouter!\n\n@_inception_ai's new diffusion model generates 1,000+ tok/s with 1M context, 4x more than Mercury 2.5. Inception reports it beats GPT-6 Luna and Haiku 5.5 on IFBench, GPQA Diamond, and SWE-Bench Atlas.\n\n50% off at launch: $0.10/M in, $0.35/M out https://t.co/QuHw9l3QYe",
+      "url": "https://x.com/OpenRouter/status/2112225779782398131"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-19T12:01:04.000Z",
+      "edit_history_tweet_ids": [
+       "2112152045461680591"
+      ],
+      "id": "2112152045461680591",
+      "public_metrics": {
+       "bookmark_count": 148,
+       "impression_count": 131579,
+       "like_count": 1110,
+       "quote_count": 44,
+       "reply_count": 61,
+       "retweet_count": 79
+      },
+      "text": "Stealth model reveal \ud83d\udc30\n\nSpace Bunny was OpenRouter\u2019s #1 model for 10 straight days, processing 56.7T tokens! The most of any stealth model we\u2019ve run.\n\nSpace Bunny hopped off OpenRouter on Oct 5. It's back today as @MiniMax_AI's M3.1 Flash, and it's free for the next 72 hours. https://t.co/2i0HsEibp5",
+      "url": "https://x.com/OpenRouter/status/2112152045461680591"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-10-17T16:00:14.000Z",
+      "edit_history_tweet_ids": [
+       "2111487458819145893"
+      ],
+      "id": "2111487458819145893",
+      "public_metrics": {
+       "bookmark_count": 50,
+       "impression_count": 13916,
+       "like_count": 114,
+       "quote_count": 3,
+       "reply_count": 19,
+       "retweet_count": 6
+      },
+      "text": "Looking for a weekend project? Two new OpenRouter cookbooks on @scaledown_team's task-specific models (currently 20% off!), each a ready-to-run recipe for a workflow problem.\n\nSummarize: compact a 100-step agent session while keeping the facts it still needs.",
+      "url": "https://x.com/OpenRouter/status/2111487458819145893"
+     },
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-10-17T15:00:13.000Z",
+      "edit_history_tweet_ids": [
+       "2111472357105672652"
+      ],
+      "id": "2111472357105672652",
+      "public_metrics": {
+       "bookmark_count": 264,
+       "impression_count": 246069,
+       "like_count": 592,
+       "quote_count": 114,
+       "reply_count": 117,
+       "retweet_count": 97
+      },
+      "text": "Bolt is free for EVERYONE, all weekend long. \nAnd you could win $10k!\n\nTurn your idea into a product.\nSubmit it by Oct 20 for your shot at the prize.\nBolt Builders Week starts now \ud83c\udfc1\n\nDetails here \ud83d\udc49 https://t.co/vzI8Nngl7G https://t.co/qR11AwfrRp",
+      "url": "https://x.com/boltdotnew/status/2111472357105672652"
+     },
+     {
+      "author_id": "366289783",
+      "created_at": "2026-10-16T21:00:00.000Z",
+      "edit_history_tweet_ids": [
+       "2111200511915667571"
+      ],
+      "id": "2111200511915667571",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 6821,
+       "like_count": 39,
+       "quote_count": 1,
+       "reply_count": 12,
+       "retweet_count": 4
+      },
+      "text": "This Week in Replit\n\n1) Introducing Runway for web design. Connect Runway to Replit to generate images, video, and assets directly inside your project, from first idea to finished site. Turn a product photo into a commercial, make UGC-style ads and launch videos, or create image https://t.co/DlMiAUlP5F",
+      "url": "https://x.com/Replit/status/2111200511915667571"
+     },
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-10-16T16:00:44.000Z",
+      "edit_history_tweet_ids": [
+       "2111125198577479919"
+      ],
+      "id": "2111125198577479919",
+      "public_metrics": {
+       "bookmark_count": 327,
+       "impression_count": 31072,
+       "like_count": 423,
+       "quote_count": 10,
+       "reply_count": 54,
+       "retweet_count": 42
+      },
+      "text": "Bolt is free for EVERYONE. For the ENTIRE weekend.\n\nStarting at 12:00am PT October 17. \nBuild it Saturday, ship it Sunday, submit by Oct 20 for a shot at $10K.\n\nReady to build? Details here \ud83d\udc49\u00a0https://t.co/vzI8Nngl7G https://t.co/TZGAFoiY8Y",
+      "url": "https://x.com/boltdotnew/status/2111125198577479919"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+       "id": "366289783",
+       "name": "Replit \u2815",
+       "url": "https://t.co/2pVzkujhQZ",
+       "username": "Replit",
+       "verified_type": "business"
+      },
+      {
+       "description": "Build without boundaries. Create stunning web apps that scale to millions by collaborating with AI.",
+       "id": "2279695508",
+       "name": "bolt.new",
+       "url": "https://t.co/0eDjZKerjU",
+       "username": "boltdotnew",
+       "verified_type": "business"
+      },
+      {
+       "description": "Building AI to simulate the world. We're hiring: https://t.co/Grh4tTfq8y",
+       "id": "1001114465692200960",
+       "name": "Runway",
+       "url": "https://t.co/8tocc8m1ln",
+       "username": "runwayml",
+       "verified_type": "business"
+      },
+      {
+       "description": "AI research and products that transform how we interact with technology. \n\nLeading foundational models powering ElevenAgents, @ElevenCreative, and ElevenAPI.",
+       "id": "1478679005788311552",
+       "name": "ElevenLabs",
+       "url": "https://t.co/rHN3SKiqqp",
+       "username": "ElevenLabs",
+       "verified_type": "business"
+      },
+      {
+       "description": "AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs. \n\ud83d\udc49 https://t.co/gzh4M4drSq @FishCreativeHQ",
+       "id": "1779922590645235713",
+       "name": "Fish Audio",
+       "url": "https://t.co/fOVWGwSC2C",
+       "username": "FishAudio",
+       "verified_type": "business"
+      },
+      {
+       "description": "The unified interface for LLMs. 400+ models (incl. 50+ free), the best prices, explorable data, private chat, & a unified API. https://t.co/qJG5mKrQ6j",
+       "id": "1681349314797240320",
+       "name": "OpenRouter",
+       "url": "https://t.co/o0u65kcJeL",
+       "username": "OpenRouter",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2113772401351647360",
+     "next_token": "b26v89c19zqg8o3juzlvz9jfy55oiy9m5c2mphz43aav1",
+     "oldest_id": "2111125198577479919",
+     "result_count": 12
+    }
+   }
+  },
+  {
+   "name": "official_engagement_gated",
+   "response": {
+    "data": [
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-13T16:02:18.000Z",
+      "edit_history_tweet_ids": [
+       "2110038429199450126"
+      ],
+      "id": "2110038429199450126",
+      "lang": "en",
+      "note_tweet": {
+       "entities": {
+        "urls": [
+         {
+          "display_url": "s.fish.audio/rqh0l8",
+          "end": 358,
+          "expanded_url": "https://s.fish.audio/rqh0l8",
+          "start": 335,
+          "url": "https://t.co/4nbz4sQ4yy"
+         },
+         {
+          "display_url": "s.fish.audio/qz9r0t",
+          "end": 495,
+          "expanded_url": "https://s.fish.audio/qz9r0t",
+          "start": 472,
+          "url": "https://t.co/jBXXZSAg0p"
+         }
+        ]
+       },
+       "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice mid-sentence.\n\nUncle Roger was impressed too.\n\nTry it here:\n\nhttps://t.co/4nbz4sQ4yy\n\nComment \u201cDRAMA\u201d within the next 48 hours for 1 month free.\n\nIf you're an enterprise your first month is on us:\n\nhttps://t.co/jBXXZSAg0p"
+      },
+      "public_metrics": {
+       "bookmark_count": 14521,
+       "impression_count": 13027667,
+       "like_count": 17230,
+       "quote_count": 854,
+       "reply_count": 8311,
+       "retweet_count": 1645
+      },
+      "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice https://t.co/9QnmoRZIaP",
+      "url": "https://x.com/FishAudio/status/2110038429199450126"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs. \n\ud83d\udc49 https://t.co/gzh4M4drSq @FishCreativeHQ",
+       "id": "1779922590645235713",
+       "name": "Fish Audio",
+       "url": "https://t.co/fOVWGwSC2C",
+       "username": "FishAudio",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2110038429199450126",
+     "next_token": "b26v89c19zqg8o3juzlvk1t2sr2obrglri6a404rq0fp9",
+     "oldest_id": "2110038429199450126",
+     "result_count": 1
+    }
+   }
+  },
+  {
+   "name": "discovery_broad",
+   "response": {
+    "data": [
+     {
+      "author_id": "2048811892530167808",
+      "created_at": "2026-10-24T02:24:42.000Z",
+      "edit_history_tweet_ids": [
+       "2113818936701849602"
+      ],
+      "id": "2113818936701849602",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 51,
+       "like_count": 2,
+       "quote_count": 0,
+       "reply_count": 2,
+       "retweet_count": 2
+      },
+      "text": "\ud83d\udcbb ChatGPT + Laptop + 60 Min/Day \ud83e\udd16\n\n\ud83d\ude80 Explore AI Income Opportunities\n\n\ud83c\udf81 $97 Guide \u2014 FREE for 48 Hours!\n\n\u2764\ufe0f Like + \ud83d\udd01 Repost\n\n\ud83d\udcac Comment \u201cMONEY\u201d\n\n\ud83d\udc64 Follow for DM delivery!\n\nResults vary by skills, effort &amp; experience. No income \nguaranteed. https://t.co/m07ou8jQ5Q",
+      "url": "https://x.com/REXO_TECH/status/2113818936701849602"
+     },
+     {
+      "author_id": "2048811892530167808",
+      "created_at": "2026-10-20T09:07:38.000Z",
+      "edit_history_tweet_ids": [
+       "2112470788318372272"
+      ],
+      "id": "2112470788318372272",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 45,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "\ud83d\udcbb ChatGPT + Laptop + 60 Min/Day \ud83e\udd16\n\n\ud83d\ude80 Explore AI Income Opportunities\n\n\ud83c\udf81 $97 Guide \u2014 FREE for 48 Hours!\n\n\u2764\ufe0f Like + \ud83d\udd01 Repost\n\n\ud83d\udcac Comment \u201cMONEY\u201d\n\n\ud83d\udc64 Follow me to get it via DM!\n\nResults vary by skills, effort &amp; experience. No income \nguaranteed. https://t.co/pTxaWdElr2",
+      "url": "https://x.com/REXO_TECH/status/2112470788318372272"
+     },
+     {
+      "author_id": "53922990",
+      "created_at": "2026-10-21T12:20:00.000Z",
+      "edit_history_tweet_ids": [
+       "2112881586253234347"
+      ],
+      "id": "2112881586253234347",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 310,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "11 NBA games tonight. That's 11 chances for the app to sell you a parlay.\n\nMy Discord is free for 7 days. One straight play a day, posted with the price before tip-off, and the result stays up after.\n\nWho I'm rocking with is in there. \ud83d\udc4a\ud83c\udffe",
+      "url": "https://x.com/tonythecloser_/status/2112881586253234347"
+     },
+     {
+      "author_id": "2052404875099787265",
+      "created_at": "2026-10-25T13:42:42.000Z",
+      "edit_history_tweet_ids": [
+       "2114351948942262352"
+      ],
+      "id": "2114351948942262352",
+      "public_metrics": {
+       "bookmark_count": 3,
+       "impression_count": 581,
+       "like_count": 40,
+       "quote_count": 0,
+       "reply_count": 17,
+       "retweet_count": 31
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/WdyyUSV6aV",
+      "url": "https://x.com/Theolevi_XAi/status/2114351948942262352"
+     },
+     {
+      "author_id": "1884055598314184705",
+      "created_at": "2026-10-25T10:53:28.000Z",
+      "edit_history_tweet_ids": [
+       "2114309360843460923"
+      ],
+      "id": "2114309360843460923",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 120,
+       "like_count": 6,
+       "quote_count": 0,
+       "reply_count": 15,
+       "retweet_count": 0
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/QGYwv9xJAd",
+      "url": "https://x.com/HarshBisen143/status/2114309360843460923"
+     },
+     {
+      "author_id": "2014497713807884289",
+      "created_at": "2026-10-25T11:43:12.000Z",
+      "edit_history_tweet_ids": [
+       "2114321878538240490"
+      ],
+      "id": "2114321878538240490",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 5139,
+       "like_count": 27,
+       "quote_count": 0,
+       "reply_count": 29,
+       "retweet_count": 4
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/plq7romsbv",
+      "url": "https://x.com/Tanaypawar27/status/2114321878538240490"
+     },
+     {
+      "author_id": "2014497713807884289",
+      "created_at": "2026-10-25T10:27:15.000Z",
+      "edit_history_tweet_ids": [
+       "2114302763903680660"
+      ],
+      "id": "2114302763903680660",
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 3453,
+       "like_count": 19,
+       "quote_count": 0,
+       "reply_count": 34,
+       "retweet_count": 0
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/oBGmq8i5Vb",
+      "url": "https://x.com/Tanaypawar27/status/2114302763903680660"
+     },
+     {
+      "author_id": "2065665618020560896",
+      "created_at": "2026-10-19T21:29:36.000Z",
+      "edit_history_tweet_ids": [
+       "2112295123317141527"
+      ],
+      "id": "2112295123317141527",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 996,
+       "like_count": 10,
+       "quote_count": 0,
+       "reply_count": 12,
+       "retweet_count": 1
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only... https://t.co/mQTe1VBxk3",
+      "url": "https://x.com/Aiwithpoonam/status/2112295123317141527"
+     },
+     {
+      "author_id": "1272044358024347649",
+      "created_at": "2026-10-25T03:59:40.000Z",
+      "edit_history_tweet_ids": [
+       "2114205225792000025"
+      ],
+      "id": "2114205225792000025",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 236,
+       "like_count": 43,
+       "quote_count": 0,
+       "reply_count": 12,
+       "retweet_count": 20
+      },
+      "text": "Earn $1000 per day with AI. Here\u2019s what you\u2019ll use to get started:\n\nYou only need:\n\n\ud83d\udcbb A laptop\n\ud83c\udf10 Internet\n\u23f0 30 minutes a day\n\nI made a FREE guide online income.\n\n\ud83d\udcac Comment \u201cEARN\u201d like and Repost.\n\ud83d\udc64 Follow me \u2192 I\u2019ll DM you the guide.\n\nFree for 48 hours. https://t.co/G4p6rHncud",
+      "url": "https://x.com/TwinkuAI/status/2114205225792000025"
+     },
+     {
+      "author_id": "2057309660643033088",
+      "created_at": "2026-10-25T02:06:30.000Z",
+      "edit_history_tweet_ids": [
+       "2114176745884811464"
+      ],
+      "id": "2114176745884811464",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 90,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Earn $540 per day with AI. Here\u2019s what you\u2019ll use to get started:\n\nYou only need:\n\n\ud83d\udcbb A laptop\n\ud83c\udf10 Internet\n\u23f0 60 minutes a day\n\nI made a FREE guide online income.\n\n\ud83d\udcac Comment \u201cEARN\u201d like and Repost.\n\ud83d\udc64 Follow me \u2192 I\u2019ll DM you the guide.\n\nFree for 48 hours. https://t.co/tkkntmpTZ2",
+      "url": "https://x.com/ayesha52334/status/2114176745884811464"
+     },
+     {
+      "author_id": "2033461253478465536",
+      "created_at": "2026-10-24T03:49:01.000Z",
+      "edit_history_tweet_ids": [
+       "2113840157539680681"
+      ],
+      "id": "2113840157539680681",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 42,
+       "like_count": 3,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $8k/month.\n\nI usually charge $98 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my killer guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/cHAiq13WEs",
+      "url": "https://x.com/Ai_Tanvir_X/status/2113840157539680681"
+     },
+     {
+      "author_id": "2014497713807884289",
+      "created_at": "2026-10-24T06:48:18.000Z",
+      "edit_history_tweet_ids": [
+       "2113885276351164868"
+      ],
+      "id": "2113885276351164868",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 6947,
+       "like_count": 58,
+       "quote_count": 0,
+       "reply_count": 78,
+       "retweet_count": 5
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/tdnQMXClZt",
+      "url": "https://x.com/Tanaypawar27/status/2113885276351164868"
+     },
+     {
+      "author_id": "1960397867052621824",
+      "created_at": "2026-10-24T05:10:34.000Z",
+      "edit_history_tweet_ids": [
+       "2113860681435119971"
+      ],
+      "id": "2113860681435119971",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 245,
+       "like_count": 17,
+       "quote_count": 0,
+       "reply_count": 7,
+       "retweet_count": 11
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/KpWobmwh8q",
+      "url": "https://x.com/ayaat_coder/status/2113860681435119971"
+     },
+     {
+      "author_id": "1828746905985429504",
+      "created_at": "2026-10-21T04:28:08.000Z",
+      "edit_history_tweet_ids": [
+       "2112762836850200895"
+      ],
+      "id": "2112762836850200895",
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 583,
+       "like_count": 10,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 9
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/E078yR5cBh",
+      "url": "https://x.com/smratitiwa86867/status/2112762836850200895"
+     },
+     {
+      "author_id": "1961104436593618944",
+      "created_at": "2026-10-24T07:32:48.000Z",
+      "edit_history_tweet_ids": [
+       "2113896475025637452"
+      ],
+      "id": "2113896475025637452",
+      "public_metrics": {
+       "bookmark_count": 46,
+       "impression_count": 16602,
+       "like_count": 182,
+       "quote_count": 3,
+       "reply_count": 226,
+       "retweet_count": 72
+      },
+      "text": "Earn $540 per day with AI. Here\u2019s what you\u2019ll use to get started:\n\nYou only need:\n\n\ud83d\udcbb A laptop\n\ud83c\udf10 Internet\n\u23f0 60 minutes a day\n\nI made a FREE guide online income.\n\n\ud83d\udcac Comment \u201cEARN\u201d like and Repost.\n\ud83d\udc64 Follow me \u2192 I\u2019ll DM you the guide.\n\nFree for 48 hours. https://t.co/hKaV5IXUVm",
+      "url": "https://x.com/monami_ai01/status/2113896475025637452"
+     },
+     {
+      "author_id": "1939658959235022848",
+      "created_at": "2026-10-24T10:53:51.000Z",
+      "edit_history_tweet_ids": [
+       "2113947072248602842"
+      ],
+      "id": "2113947072248602842",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 34,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Earn $540 per day with AI. Here\u2019s what you\u2019ll use to get started:\n\nYou only need:\n\n\ud83d\udcbb A laptop\n\ud83c\udf10 Internet\n\u23f0 60 minutes a day\n\nI made a FREE guide online income.\n\n\ud83d\udcac Comment \u201cEARN\u201d like and Repost.\n\ud83d\udc64 Follow me \u2192 I\u2019ll DM you the guide.\n\nFree for 48 hours. https://t.co/69Uwy2Wh0F",
+      "url": "https://x.com/hey_liku/status/2113947072248602842"
+     },
+     {
+      "author_id": "1956038717954486274",
+      "created_at": "2026-10-21T06:34:16.000Z",
+      "edit_history_tweet_ids": [
+       "2112794579275743538"
+      ],
+      "id": "2112794579275743538",
+      "public_metrics": {
+       "bookmark_count": 12,
+       "impression_count": 7323,
+       "like_count": 145,
+       "quote_count": 0,
+       "reply_count": 141,
+       "retweet_count": 39
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/TIkjSHvIpA",
+      "url": "https://x.com/tomreiai/status/2112794579275743538"
+     },
+     {
+      "author_id": "2026583706400600067",
+      "created_at": "2026-10-24T11:16:57.000Z",
+      "edit_history_tweet_ids": [
+       "2113952885486854388"
+      ],
+      "id": "2113952885486854388",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 23,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Earn $540 per day with AI. Here\u2019s what you\u2019ll use to get started:\n\nYou only need:\n\n\ud83d\udcbb A laptop\n\ud83c\udf10 Internet\n\u23f0 60 minutes a day\n\nI made a FREE guide online income.\n\n\ud83d\udcac Comment \u201cEARN\u201d like and Repost.\n\ud83d\udc64 Follow me \u2192 I\u2019ll DM you the guide.\n\nFree for 48 hours. https://t.co/FpSvGiVBPb",
+      "url": "https://x.com/Riyajul_islams/status/2113952885486854388"
+     },
+     {
+      "author_id": "1960397867052621824",
+      "created_at": "2026-10-26T03:30:51.000Z",
+      "edit_history_tweet_ids": [
+       "2114560361533964547"
+      ],
+      "id": "2114560361533964547",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 67,
+       "like_count": 15,
+       "quote_count": 0,
+       "reply_count": 6,
+       "retweet_count": 11
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/t2To8VWJg7",
+      "url": "https://x.com/ayaat_coder/status/2114560361533964547"
+     },
+     {
+      "author_id": "1828746905985429504",
+      "created_at": "2026-10-20T19:33:32.000Z",
+      "edit_history_tweet_ids": [
+       "2112628302863294830"
+      ],
+      "id": "2112628302863294830",
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 839,
+       "like_count": 15,
+       "quote_count": 0,
+       "reply_count": 13,
+       "retweet_count": 13
+      },
+      "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it\u2019s yours 100% FREE.\n\nTo get: -\n\n1. Follow me (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 https://t.co/dQ41OH7wpE",
+      "url": "https://x.com/smratitiwa86867/status/2112628302863294830"
+     },
+     {
+      "author_id": "2100853427714785280",
+      "created_at": "2026-10-23T13:10:42.000Z",
+      "edit_history_tweet_ids": [
+       "2113619123158810892"
+      ],
+      "id": "2113619123158810892",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 315,
+       "like_count": 18,
+       "quote_count": 0,
+       "reply_count": 12,
+       "retweet_count": 13
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $8k/month.\n\nI usually charge $98 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my killer guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/acq9LUZAxQ",
+      "url": "https://x.com/Shukhi_coder/status/2113619123158810892"
+     },
+     {
+      "author_id": "1933619890180796419",
+      "created_at": "2026-10-23T13:16:31.000Z",
+      "edit_history_tweet_ids": [
+       "2113620584135602592"
+      ],
+      "id": "2113620584135602592",
+      "public_metrics": {
+       "bookmark_count": 44,
+       "impression_count": 15219,
+       "like_count": 201,
+       "quote_count": 3,
+       "reply_count": 234,
+       "retweet_count": 49
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/kPKbeeIw7N",
+      "url": "https://x.com/SimslearnAi/status/2113620584135602592"
+     },
+     {
+      "author_id": "2110510569342332928",
+      "created_at": "2026-10-23T23:02:41.000Z",
+      "edit_history_tweet_ids": [
+       "2113768101435387914"
+      ],
+      "id": "2113768101435387914",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 7,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "ChatGPT + laptop + internet connection + an hour a day = $329/day\n\nI usually charge $87 for this guide, but today it's absolutely free.\n\nLike + comment 'AI' and I'll send you my step-by-step guide for FREE.\n\nMust follow me to get this guide in DM.\n\nFREE for 48 hours only. https://t.co/o2xx5OrBvO",
+      "url": "https://x.com/momo_tech_ai/status/2113768101435387914"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "\ud83e\udd16 AI \u2022 Creativity \u2022 Digital Influence\n\ud83d\ude80 Exploring the future, one idea at a time.\n\ud83c\udfa8 AI-generated visuals | Innovation | Digital Culture\n\u26a1 Welcome to the REXO",
+       "id": "2048811892530167808",
+       "name": "REXO",
+       "url": "",
+       "username": "REXO_TECH",
+       "verified_type": "none"
+      },
+      {
+       "description": "NFL \u279c real life \u279c real money Sports picks, discipline, and shit nobody wants to say \ud83d\udcf2 Picks + plays in the bio",
+       "id": "53922990",
+       "name": "Tony \u201cThe Closer\u201d Robinson",
+       "url": "https://t.co/FoHJGmClcZ",
+       "username": "tonythecloser_",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Exploring AI & Tech Innovation || Sharing AI Tools to 10x Your Business || Helping Creators Grow with AI || Collabs \u2192 DM or Email : theolevi099@gmail.com",
+       "id": "2052404875099787265",
+       "name": "Theo Levi",
+       "url": "",
+       "username": "Theolevi_XAi",
+       "verified_type": "none"
+      },
+      {
+       "description": "Ai and Tech Creator | X Campaign Execution | Influencer Marketing | 20+ Influencer Network | biz:- harshpawar67892@gmail.com",
+       "id": "1884055598314184705",
+       "name": "Harsh Pawar",
+       "url": "",
+       "username": "HarshBisen143",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI doesn\u2019t have to be complicated \ud83e\udd16\u2728\nI break tech into simple, practical ideas\nDaily insights \u2022 Tool updates biz:- tanayharinkhede27@gmail.com\nHIGGS-JG3IT",
+       "id": "2014497713807884289",
+       "name": "Tanay Harinkhede",
+       "url": "",
+       "username": "Tanaypawar27",
+       "verified_type": "blue"
+      },
+      {
+       "description": "\ud83e\udd16 AI Tools \u2022 Prompts \u2022 Automation\n\ud83d\ude80 Making AI simple & useful\n\ud83d\udca1 Learn AI. Work smarter. Grow faster.\nDM for everything \ud83d\udc46",
+       "id": "2065665618020560896",
+       "name": "Poonam Bais",
+       "url": "",
+       "username": "Aiwithpoonam",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Breaking down AI, automation, emerging tech & digital innovation into actionable insights.\n\n\ud83d\udce9 Open to collaborations.",
+       "id": "1272044358024347649",
+       "name": "TwinkuAI",
+       "url": "",
+       "username": "TwinkuAI",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI & Tech Content \ud83e\udd16\nPromotions \u2022 Brand Collaborations \u2022 Partnerships \ud83e\udd1d\n\ud83d\udce9 DM @Ayesha52334 for Business Inquiries",
+       "id": "2057309660643033088",
+       "name": "Ayesha AI",
+       "url": "",
+       "username": "ayesha52334",
+       "verified_type": "none"
+      },
+      {
+       "description": "Tech & AI Content Creator | Sharing free AI resources, websites & digital growth tips | Building smarter workflows with AI | DM for collabs",
+       "id": "2033461253478465536",
+       "name": "AI Tanvir X",
+       "url": "",
+       "username": "Ai_Tanvir_X",
+       "verified_type": "blue"
+      },
+      {
+       "description": "\ud83c\udf1f AI Educator | Unlocking Tech Tools & Digital Skills | Making AI Simple for Everyone \ud83d\ude80 |  DM for Collaboration \u2709\ufe0f",
+       "id": "1960397867052621824",
+       "name": "Ayaat",
+       "url": "",
+       "username": "ayaat_coder",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI & tech creator sharing what actually works, not just what\u2019s trending\n\nOpen to collaborations\ud83e\udd1d\n smratitiwari49@gmail.com",
+       "id": "1828746905985429504",
+       "name": "smrati tiwari",
+       "url": "https://t.co/lBzeI0zeZ1",
+       "username": "smratitiwa86867",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI Video Creator | Cinematic AI Content | Viral Short Videos | Brand Collaborations \u2709\ufe0f DM for Collab\n\nthisismonami.rose@gmail.com\nX Number: 8489440022",
+       "id": "1961104436593618944",
+       "name": "Monami",
+       "url": "https://t.co/MGoFfUl2Ly",
+       "username": "monami_ai01",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI Educator. Helping you to your AI, Tech Tools & Digital skills.\ud83d\udcac DM for collaboration",
+       "id": "1939658959235022848",
+       "name": "Liku",
+       "url": "",
+       "username": "hey_liku",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Research @ Next AI Lab. Generative AI, Deep learning, and training pipelines. Follow me for the hottest posts!! \u2709\ufe0f DM for promotions. \u2709\ufe0fheytomrei@gmail.com",
+       "id": "1956038717954486274",
+       "name": "Tom Rei",
+       "url": "",
+       "username": "tomreiai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI Creator | Daily AI tools, No-Code apps & productivity hacks | Exploring tech that saves time & makes money | Open for partnerships",
+       "id": "2026583706400600067",
+       "name": "Riyajul islams",
+       "url": "",
+       "username": "Riyajul_islams",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Exploring the frontiers of Artificial Intelligence \ud83e\udd16 | Tech Enthusiast | Building the future, one prompt at a time \ud83d\ude80",
+       "id": "2100853427714785280",
+       "name": "Shukhi | Ai",
+       "url": "",
+       "username": "Shukhi_coder",
+       "verified_type": "none"
+      },
+      {
+       "description": "Learn AI Today and Future proof yourself. I help you to 10x Your Business with AI. \u2709 DM or Mail for collab: coderpaulsims@gmail.com",
+       "id": "1933619890180796419",
+       "name": "Paul Sims",
+       "url": "",
+       "username": "SimslearnAi",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Exploring AI, sharing useful tools. \ud83d\udc99\nLearn new skills. Think smarter.\nBuilding a better future with AI. \ud83d\ude80",
+       "id": "2110510569342332928",
+       "name": "Sinha Momo",
+       "url": "",
+       "username": "momo_tech_ai",
+       "verified_type": "none"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2114560361533964547",
+     "next_token": "b26v89c19zqg8o3juzlwehc7jiqi38q4m4bwhbfs0c29p",
+     "oldest_id": "2112295123317141527",
+     "result_count": 23
+    }
+   }
+  }
+ ]
+}
