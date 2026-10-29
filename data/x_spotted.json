@@ -1,5 +1,27 @@
 [
  {
+  "post_id": "2115488773832376794",
+  "url": "https://x.com/FishAudio/status/2115488773832376794",
+  "author": "@FishAudio",
+  "author_evidence": "https://fish.audio/claim/twitter",
+  "tool": "Fish Audio",
+  "type": "promo_time_limited",
+  "offer": "50% off all Creator plans, Oct 28 – Nov 4.",
+  "discount_pct": 50,
+  "comment_keyword": null,
+  "posted_at": "2026-10-28T17:00:02.000Z",
+  "deadline": "2026-11-05T07:59:59Z",
+  "deadline_basis": "Oct 28 – Nov 4 (end of day PT)",
+  "metrics": {
+   "like_count": 16,
+   "reply_count": 2,
+   "retweet_count": 1,
+   "impression_count": 1603
+  },
+  "status": "unverified",
+  "first_seen": "2026-10-29"
+ },
+ {
   "post_id": "2113772401351647360",
   "url": "https://x.com/Replit/status/2113772401351647360",
   "author": "@Replit",
