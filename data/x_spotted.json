@@ -108,49 +108,5 @@
   },
   "status": "unverified",
   "first_seen": "2026-10-20"
- },
- {
-  "post_id": "2111487458819145893",
-  "url": "https://x.com/OpenRouter/status/2111487458819145893",
-  "author": "@OpenRouter",
-  "author_evidence": "https://openrouter.ai",
-  "tool": "OpenRouter (Scaledown models)",
-  "type": "promo_time_limited",
-  "offer": "Scaledown's task-specific models are currently 20% off on OpenRouter.",
-  "discount_pct": 20,
-  "comment_keyword": null,
-  "posted_at": "2026-10-17T16:00:14.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 102,
-   "reply_count": 16,
-   "retweet_count": 4,
-   "impression_count": 10256
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-18"
- },
- {
-  "post_id": "2109681164806177267",
-  "url": "https://x.com/higgsfield_ai/status/2109681164806177267",
-  "author": "@higgsfield_ai",
-  "author_evidence": "https://higgsfield.ai",
-  "tool": "Higgsfield",
-  "type": "promo_time_limited",
-  "offer": "Get 50% OFF the Genjutsu API.",
-  "discount_pct": 50,
-  "comment_keyword": null,
-  "posted_at": "2026-10-12T16:22:40.000Z",
-  "deadline": "2026-10-31T23:59:00Z",
-  "deadline_basis": "through October 31",
-  "metrics": {
-   "like_count": 803,
-   "reply_count": 85,
-   "retweet_count": 263,
-   "impression_count": 1098266
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-14"
  }
 ]
