@@ -1,5 +1,27 @@
 [
  {
+  "post_id": "2117353153352069485",
+  "url": "https://x.com/OpenRouter/status/2117353153352069485",
+  "author": "@OpenRouter",
+  "author_evidence": "https://openrouter.ai",
+  "tool": "OpenRouter",
+  "type": "promo_time_limited",
+  "offer": "Krea 3 is 50% off on OpenRouter through Nov 10.",
+  "discount_pct": 50,
+  "comment_keyword": null,
+  "posted_at": "2026-11-02T20:28:24.000Z",
+  "deadline": "2026-11-11T05:59:59Z",
+  "deadline_basis": "through Nov 10 (end of day CT)",
+  "metrics": {
+   "like_count": 48,
+   "reply_count": 8,
+   "retweet_count": 5,
+   "impression_count": 11360
+  },
+  "status": "unverified",
+  "first_seen": "2026-11-03"
+ },
+ {
   "post_id": "2115929160447393797",
   "url": "https://x.com/higgsfield/status/2115929160447393797",
   "author": "@higgsfield",
@@ -28,12 +50,12 @@
   "author_evidence": "https://fish.audio/claim/twitter",
   "tool": "Fish Audio",
   "type": "promo_time_limited",
-  "offer": "50% off all Creator plans, Oct 28 – Nov 4.",
+  "offer": "50% off all Creator plans, Oct 28 \u2013 Nov 4.",
   "discount_pct": 50,
   "comment_keyword": null,
   "posted_at": "2026-10-28T17:00:02.000Z",
   "deadline": "2026-11-05T07:59:59Z",
-  "deadline_basis": "Oct 28 – Nov 4 (end of day PT)",
+  "deadline_basis": "Oct 28 \u2013 Nov 4 (end of day PT)",
   "metrics": {
    "like_count": 16,
    "reply_count": 2,
@@ -86,27 +108,5 @@
   },
   "status": "unverified",
   "first_seen": "2026-10-22"
- },
- {
-  "post_id": "2112225779782398131",
-  "url": "https://x.com/OpenRouter/status/2112225779782398131",
-  "author": "@OpenRouter",
-  "author_evidence": "https://openrouter.ai",
-  "tool": "OpenRouter (Inception Mercury 3)",
-  "type": "promo_time_limited",
-  "offer": "Inception's Mercury 3 diffusion model is 50% off at launch on OpenRouter: $0.10/M input, $0.35/M output.",
-  "discount_pct": 50,
-  "comment_keyword": null,
-  "posted_at": "2026-10-19T16:54:03.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 690,
-   "reply_count": 35,
-   "retweet_count": 30,
-   "impression_count": 38368
-  },
-  "status": "unverified",
-  "first_seen": "2026-10-20"
  }
 ]
