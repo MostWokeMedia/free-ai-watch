@@ -1,0 +1,450 @@
+{
+ "fetched_at": "2026-11-05T12:09:41.000482Z",
+ "_note": "Official-account queries are faithful to the API responses (some fields trimmed); discovery_broad results are condensed (all non-allowlisted authors).",
+ "results": [
+  {
+   "name": "official_time_limited",
+   "response": {
+    "data": [
+     {
+      "id": "2118239441902768505",
+      "author_id": "1799294856822673408",
+      "created_at": "2026-11-05T07:10:12.000Z",
+      "text": "Over the past few weeks, @TechHalla has been using Kling 4.0 and Kling 4.0 Flash across a range of creative projects. #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2118239441902768505",
+      "lang": "en"
+     },
+     {
+      "id": "2117353153352069485",
+      "author_id": "1681349314797240320",
+      "created_at": "2026-11-02T20:28:24.000Z",
+      "text": "Krea 3 is 50% off on OpenRouter through Nov 10. Give it a product shot, a person, and a location, and it puts them together in one 2K image in as little as 9 seconds. @krea_ai https://t.co/GbfhZG0vs9",
+      "url": "https://x.com/OpenRouter/status/2117353153352069485",
+      "lang": "en"
+     },
+     {
+      "id": "2116319244531241432",
+      "author_id": "366289783",
+      "created_at": "2026-10-31T00:00:01.000Z",
+      "text": "This Week in Replit (weekly product roundup; no promo; full text trimmed)",
+      "url": "https://x.com/Replit/status/2116319244531241432",
+      "lang": "en"
+     },
+     {
+      "id": "2116223310086475791",
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-30T17:38:49.000Z",
+      "text": "We had way too much fun with these Halloween voices. Your turn. 🎃 🔉\n50% off all Creator plans. \nLet your voices dress up too. 👻 https://t.co/WMly4NdAzf",
+      "url": "https://x.com/FishAudio/status/2116223310086475791",
+      "lang": "en"
+     },
+     {
+      "id": "2115929160447393797",
+      "author_id": "1895453094361890816",
+      "created_at": "2026-10-29T22:09:58.000Z",
+      "text": "Unlimited Seedance 2.5 on Higgsfield for 7 days.\n\nPlus 3 image models:\n&gt; GPT Image 2.5\n&gt; Nano Banana Pro\n&gt; Seedream 5.0 Pro\n\nZero credit cost, all week.\n\nAvailable now for new users.\nLimited-time offer, terms apply. https://t.co/21o512QRkN",
+      "url": "https://x.com/higgsfield/status/2115929160447393797",
+      "lang": "en"
+     },
+     {
+      "id": "2115488773832376794",
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-28T17:00:02.000Z",
+      "text": "Spooky season calls for spooky good deals. 🎃\n\nThis Halloween, bring your whole cast to life with Drama 3.\n\n50% off all Creator plans, Oct 28 – Nov 4. 👻 https://t.co/rIsaBRrViq",
+      "url": "https://x.com/FishAudio/status/2115488773832376794",
+      "lang": "en"
+     },
+     {
+      "id": "2115153375096611237",
+      "author_id": "1504221988814049289",
+      "created_at": "2026-10-27T18:47:16.000Z",
+      "text": "something is coming. \n\nfirst Krea 3 expert model dropping this week.\n\nwho can guess what expert is first? 👇 https://t.co/BuDx8JDm05",
+      "url": "https://x.com/krea_ai/status/2115153375096611237",
+      "lang": "en"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "id": "1799294856822673408",
+       "username": "Kling_ai",
+       "verified_type": "blue"
+      },
+      {
+       "id": "1681349314797240320",
+       "username": "OpenRouter",
+       "verified_type": "business"
+      },
+      {
+       "id": "366289783",
+       "username": "Replit",
+       "verified_type": "business"
+      },
+      {
+       "id": "1779922590645235713",
+       "username": "FishAudio",
+       "verified_type": "business"
+      },
+      {
+       "id": "1895453094361890816",
+       "username": "higgsfield",
+       "verified_type": "business"
+      },
+      {
+       "id": "1504221988814049289",
+       "username": "krea_ai",
+       "verified_type": "business"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "name": "official_engagement_gated",
+   "response": {
+    "data": [
+     {
+      "id": "2115762821619192038",
+      "author_id": "1799294856822673408",
+      "created_at": "2026-10-29T11:09:00.000Z",
+      "text": "Friendship, aging, and the bittersweetness of farewell. 🎬 See how @AmirAigc brings this heartfelt story to life with Kling 4.0.",
+      "url": "https://x.com/Kling_ai/status/2115762821619192038",
+      "lang": "en"
+     },
+     {
+      "id": "2110038429199450126",
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-13T16:02:18.000Z",
+      "text": "Introducing Drama 3 (open-weight TTS). Comment “DRAMA” within the next 48 hours for 1 month free. (older post, 2026-10-13)",
+      "url": "https://x.com/FishAudio/status/2110038429199450126",
+      "lang": "en"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "id": "1799294856822673408",
+       "username": "Kling_ai",
+       "verified_type": "blue"
+      },
+      {
+       "id": "1779922590645235713",
+       "username": "FishAudio",
+       "verified_type": "business"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "name": "discovery_broad",
+   "response": {
+    "data": [
+     {
+      "id": "2116169364944642065",
+      "author_id": "1942598213011156992",
+      "created_at": "2026-10-30T14:04:27.000Z",
+      "text": "Try ScoutBall AI free for 7 days",
+      "url": "https://x.com/Scoutball_AI/status/2116169364944642065",
+      "lang": "en"
+     },
+     {
+      "id": "2117542384573554752",
+      "author_id": "1021126785818349568",
+      "created_at": "2026-11-03T09:00:21.000Z",
+      "text": "Seam on Product Hunt: $19.90 once, free for 48 hours with no card.",
+      "url": "https://x.com/heyramzi/status/2117542384573554752",
+      "lang": "en"
+     },
+     {
+      "id": "2117291983479935275",
+      "author_id": "1993254329965543424",
+      "created_at": "2026-11-02T16:25:20.000Z",
+      "text": "ChatGPT money guide FREE for 48 hours, Like + Comment Money (spam)",
+      "url": "https://x.com/TShuovo96226/status/2117291983479935275",
+      "lang": "en"
+     },
+     {
+      "id": "2116534411483283566",
+      "author_id": "323506510",
+      "created_at": "2026-10-31T14:15:01.000Z",
+      "text": "AI MONEY GUIDE free 48 hours (spam)",
+      "url": "https://x.com/AndrewBolis/status/2116534411483283566",
+      "lang": "en"
+     },
+     {
+      "id": "2117229908619575680",
+      "author_id": "2048811892530167808",
+      "created_at": "2026-11-02T12:18:41.000Z",
+      "text": "$79 guide FREE 48 hours (spam)",
+      "url": "https://x.com/REXO_TECH/status/2117229908619575680",
+      "lang": "en"
+     },
+     {
+      "id": "2115807605725507758",
+      "author_id": "2112668157131317248",
+      "created_at": "2026-10-29T14:06:57.000Z",
+      "text": "Try StaffGPT free for 7 days.",
+      "url": "https://x.com/staffgpt/status/2115807605725507758",
+      "lang": "en"
+     },
+     {
+      "id": "2116729847213178943",
+      "author_id": "1978571065262813185",
+      "created_at": "2026-11-01T03:11:37.000Z",
+      "text": "$79 guide FREE 48 hours (spam)",
+      "url": "https://x.com/Ai_rosalieX/status/2116729847213178943",
+      "lang": "en"
+     },
+     {
+      "id": "2116895740001923542",
+      "author_id": "1948269923287044096",
+      "created_at": "2026-11-01T14:10:49.000Z",
+      "text": "Earn $540 per day guide (spam)",
+      "url": "https://x.com/heyfionaai/status/2116895740001923542",
+      "lang": "en"
+     },
+     {
+      "id": "2117541493720428551",
+      "author_id": "1978571065262813185",
+      "created_at": "2026-11-03T08:56:48.000Z",
+      "text": "$79 guide FREE 48 hours (spam)",
+      "url": "https://x.com/Ai_rosalieX/status/2117541493720428551",
+      "lang": "en"
+     },
+     {
+      "id": "2116893265257730424",
+      "author_id": "1961104436593618944",
+      "created_at": "2026-11-01T14:00:59.000Z",
+      "text": "Earn $540 per day guide (spam)",
+      "url": "https://x.com/monami_ai01/status/2116893265257730424",
+      "lang": "en"
+     },
+     {
+      "id": "2116012687301697741",
+      "author_id": "1736246905892671488",
+      "created_at": "2026-10-30T03:41:52.000Z",
+      "text": "AI side hustle guide (spam)",
+      "url": "https://x.com/konig0000/status/2116012687301697741",
+      "lang": "en"
+     },
+     {
+      "id": "2115861934365086107",
+      "author_id": "1993254329965543424",
+      "created_at": "2026-10-29T17:42:50.000Z",
+      "text": "Earn $540 per day guide (spam)",
+      "url": "https://x.com/TShuovo96226/status/2115861934365086107",
+      "lang": "en"
+     },
+     {
+      "id": "2116928525550637196",
+      "author_id": "1509879392339738627",
+      "created_at": "2026-11-01T16:21:05.000Z",
+      "text": "Amazon KDP guide free (spam)",
+      "url": "https://x.com/TommiPedruzzi/status/2116928525550637196",
+      "lang": "en"
+     },
+     {
+      "id": "2115877666800955476",
+      "author_id": "1334725813543919617",
+      "created_at": "2026-10-29T18:45:21.000Z",
+      "text": "side hustle guide (spam)",
+      "url": "https://x.com/AndrewBo1is/status/2115877666800955476",
+      "lang": "en"
+     },
+     {
+      "id": "2115837298776723957",
+      "author_id": "1939658959235022848",
+      "created_at": "2026-10-29T16:04:57.000Z",
+      "text": "side hustle guide (spam)",
+      "url": "https://x.com/hey_liku/status/2115837298776723957",
+      "lang": "en"
+     },
+     {
+      "id": "2117162326197666235",
+      "author_id": "2010916076033622017",
+      "created_at": "2026-11-02T07:50:08.000Z",
+      "text": "Earn $540 per day guide (spam)",
+      "url": "https://x.com/Sumaiya_Aix/status/2117162326197666235",
+      "lang": "en"
+     },
+     {
+      "id": "2116536484379656332",
+      "author_id": "2098063216345751552",
+      "created_at": "2026-10-31T14:23:15.000Z",
+      "text": "$79 guide free 48 hours (spam)",
+      "url": "https://x.com/jiboncoder/status/2116536484379656332",
+      "lang": "en"
+     },
+     {
+      "id": "2115840581285134342",
+      "author_id": "2111181564906274816",
+      "created_at": "2026-10-29T16:17:59.000Z",
+      "text": "Super IQ try free for 7 days",
+      "url": "https://x.com/superIQio/status/2115840581285134342",
+      "lang": "en"
+     },
+     {
+      "id": "2116059046218170665",
+      "author_id": "2006739899098267648",
+      "created_at": "2026-10-30T06:46:05.000Z",
+      "text": "chart setups free for 7 days",
+      "url": "https://x.com/siwai_app/status/2116059046218170665",
+      "lang": "en"
+     },
+     {
+      "id": "2115809636330971508",
+      "author_id": "323506510",
+      "created_at": "2026-10-29T14:15:01.000Z",
+      "text": "AI side hustle guide (spam)",
+      "url": "https://x.com/AndrewBolis/status/2115809636330971508",
+      "lang": "en"
+     },
+     {
+      "id": "2116190988997935257",
+      "author_id": "2114939485792485376",
+      "created_at": "2026-10-30T15:30:23.000Z",
+      "text": "AdoCraft launches 14 November, try free for 7 days",
+      "url": "https://x.com/adocraftai/status/2116190988997935257",
+      "lang": "en"
+     },
+     {
+      "id": "2116334699857498126",
+      "author_id": "2097192524888821760",
+      "created_at": "2026-10-31T01:01:26.000Z",
+      "text": "try any plan free for 7 days",
+      "url": "https://x.com/Gymratstrength/status/2116334699857498126",
+      "lang": "en"
+     },
+     {
+      "id": "2117952732292419681",
+      "author_id": "1907736018767499264",
+      "created_at": "2026-11-04T12:10:55.000Z",
+      "text": "Lynqo: every feature free 7 days; repost+reply for 50% off Pro code via DM",
+      "url": "https://x.com/godfidens/status/2117952732292419681",
+      "lang": "en"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "id": "1942598213011156992",
+       "username": "Scoutball_AI",
+       "verified_type": ""
+      },
+      {
+       "id": "1021126785818349568",
+       "username": "heyramzi",
+       "verified_type": ""
+      },
+      {
+       "id": "1993254329965543424",
+       "username": "TShuovo96226",
+       "verified_type": ""
+      },
+      {
+       "id": "323506510",
+       "username": "AndrewBolis",
+       "verified_type": ""
+      },
+      {
+       "id": "2048811892530167808",
+       "username": "REXO_TECH",
+       "verified_type": ""
+      },
+      {
+       "id": "2112668157131317248",
+       "username": "staffgpt",
+       "verified_type": ""
+      },
+      {
+       "id": "1978571065262813185",
+       "username": "Ai_rosalieX",
+       "verified_type": ""
+      },
+      {
+       "id": "1948269923287044096",
+       "username": "heyfionaai",
+       "verified_type": ""
+      },
+      {
+       "id": "1978571065262813185",
+       "username": "Ai_rosalieX",
+       "verified_type": ""
+      },
+      {
+       "id": "1961104436593618944",
+       "username": "monami_ai01",
+       "verified_type": ""
+      },
+      {
+       "id": "1736246905892671488",
+       "username": "konig0000",
+       "verified_type": ""
+      },
+      {
+       "id": "1993254329965543424",
+       "username": "TShuovo96226",
+       "verified_type": ""
+      },
+      {
+       "id": "1509879392339738627",
+       "username": "TommiPedruzzi",
+       "verified_type": ""
+      },
+      {
+       "id": "1334725813543919617",
+       "username": "AndrewBo1is",
+       "verified_type": ""
+      },
+      {
+       "id": "1939658959235022848",
+       "username": "hey_liku",
+       "verified_type": ""
+      },
+      {
+       "id": "2010916076033622017",
+       "username": "Sumaiya_Aix",
+       "verified_type": ""
+      },
+      {
+       "id": "2098063216345751552",
+       "username": "jiboncoder",
+       "verified_type": ""
+      },
+      {
+       "id": "2111181564906274816",
+       "username": "superIQio",
+       "verified_type": ""
+      },
+      {
+       "id": "2006739899098267648",
+       "username": "siwai_app",
+       "verified_type": ""
+      },
+      {
+       "id": "323506510",
+       "username": "AndrewBolis",
+       "verified_type": ""
+      },
+      {
+       "id": "2114939485792485376",
+       "username": "adocraftai",
+       "verified_type": ""
+      },
+      {
+       "id": "2097192524888821760",
+       "username": "Gymratstrength",
+       "verified_type": ""
+      },
+      {
+       "id": "1907736018767499264",
+       "username": "godfidens",
+       "verified_type": ""
+      }
+     ]
+    }
+   }
+  }
+ ]
+}
