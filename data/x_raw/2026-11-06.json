@@ -1,0 +1,904 @@
+{
+ "fetched_at": "2026-11-06T12:12:16.660531Z",
+ "_note": "Daily X source dump via built-in public x.search_posts_all; 3 queries from config/x_sources.json",
+ "results": [
+  {
+   "name": "official_time_limited",
+   "response": {
+    "data": [
+     {
+      "author_id": "1695890961094909952",
+      "created_at": "2026-11-05T21:41:10.000Z",
+      "edit_history_tweet_ids": [
+       "2118458629091426304"
+      ],
+      "id": "2118458629091426304",
+      "public_metrics": {
+       "bookmark_count": 1021,
+       "impression_count": 305232,
+       "like_count": 2946,
+       "quote_count": 258,
+       "reply_count": 351,
+       "retweet_count": 265
+      },
+      "text": "You can now build live apps in Cursor and share them with a link.\n\nAgents have made it easier to write code, but most apps never make it off localhost. Describe the tool you want - Cursor will build it, set up a database, run deterministic and agentic security checks, and deploy. https://t.co/v09VJrLwHw",
+      "url": "https://x.com/cursor_ai/status/2118458629091426304"
+     },
+     {
+      "author_id": "2279695508",
+      "created_at": "2026-11-05T19:10:02.000Z",
+      "edit_history_tweet_ids": [
+       "2118420594349756420"
+      ],
+      "id": "2118420594349756420",
+      "public_metrics": {
+       "bookmark_count": 4,
+       "impression_count": 2182,
+       "like_count": 35,
+       "quote_count": 1,
+       "reply_count": 3,
+       "retweet_count": 0
+      },
+      "text": "The website you've been putting off? Consider it handled ⚡️\n\nFour more free website templates just dropped in Bolt:\n\n• Mobile veterinary services \n• Family healthcare clinics \n• Adventure photographers \n• Bed &amp; breakfasts \n\nFind yours 👉 https://t.co/zQcKG47J0Z https://t.co/Df3rK1BRTq",
+      "url": "https://x.com/boltdotnew/status/2118420594349756420"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-11-05T17:59:04.000Z",
+      "edit_history_tweet_ids": [
+       "2118402735322378253"
+      ],
+      "id": "2118402735322378253",
+      "public_metrics": {
+       "bookmark_count": 13,
+       "impression_count": 6844,
+       "like_count": 51,
+       "quote_count": 0,
+       "reply_count": 5,
+       "retweet_count": 5
+      },
+      "text": "New cookbook just dropped so you can set up Ori with your MDM and keep API keys off your developers' machines.\n\nYour engineers just sign in from their terminal, and there's no long-lived key on the laptop for a malicious package to steal. https://t.co/yZDOoiNkKQ",
+      "url": "https://x.com/OpenRouter/status/2118402735322378253"
+     },
+     {
+      "article": {
+       "title": "TechHalla: Kling 4.0 for Control, 4.0 Flash for Speed"
+      },
+      "author_id": "1799294856822673408",
+      "created_at": "2026-11-05T07:10:12.000Z",
+      "edit_history_tweet_ids": [
+       "2118239441902768505"
+      ],
+      "id": "2118239441902768505",
+      "public_metrics": {
+       "bookmark_count": 8,
+       "impression_count": 5647,
+       "like_count": 59,
+       "quote_count": 2,
+       "reply_count": 27,
+       "retweet_count": 8
+      },
+      "text": "Over the past few weeks, @TechHalla has been using Kling 4.0 and Kling 4.0 Flash across a range of creative projects. Along the way, he explored what each model could bring to his creative process, and where they made the biggest difference. #KlingAI https://t.co/MBHWS1vgCj",
+      "url": "https://x.com/Kling_ai/status/2118239441902768505"
+     },
+     {
+      "author_id": "1681349314797240320",
+      "created_at": "2026-11-02T20:28:24.000Z",
+      "edit_history_tweet_ids": [
+       "2117353153352069485"
+      ],
+      "id": "2117353153352069485",
+      "public_metrics": {
+       "bookmark_count": 12,
+       "impression_count": 14881,
+       "like_count": 53,
+       "quote_count": 4,
+       "reply_count": 8,
+       "retweet_count": 6
+      },
+      "text": "Krea 3 is 50% off on OpenRouter through Nov 10. Give it a product shot, a person, and a location, and it puts them together in one 2K image in as little as 9 seconds. @krea_ai https://t.co/GbfhZG0vs9",
+      "url": "https://x.com/OpenRouter/status/2117353153352069485"
+     },
+     {
+      "author_id": "366289783",
+      "created_at": "2026-10-31T00:00:01.000Z",
+      "edit_history_tweet_ids": [
+       "2116319244531241432"
+      ],
+      "id": "2116319244531241432",
+      "public_metrics": {
+       "bookmark_count": 15,
+       "impression_count": 7969,
+       "like_count": 53,
+       "quote_count": 4,
+       "reply_count": 16,
+       "retweet_count": 6
+      },
+      "text": "This Week in Replit\n\n1) The Self-Driving Company. We believe by the end of 2030, every Fortune 500 will be a Self-Driving Company. That doesn't mean AI replaces people. People remain in the driver's seat leading judgment, creativity and taste, while agents fuel execution.\n\n→ https://t.co/qNlH2qT1bW",
+      "url": "https://x.com/Replit/status/2116319244531241432"
+     },
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-30T17:38:49.000Z",
+      "edit_history_tweet_ids": [
+       "2116223310086475791"
+      ],
+      "id": "2116223310086475791",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 2226,
+       "like_count": 18,
+       "quote_count": 0,
+       "reply_count": 4,
+       "retweet_count": 2
+      },
+      "text": "We had way too much fun with these Halloween voices. Your turn. 🎃 🔉\n50% off all Creator plans. \nLet your voices dress up too. 👻 https://t.co/WMly4NdAzf",
+      "url": "https://x.com/FishAudio/status/2116223310086475791"
+     },
+     {
+      "author_id": "1895453094361890816",
+      "created_at": "2026-10-29T22:09:58.000Z",
+      "edit_history_tweet_ids": [
+       "2115929160447393797"
+      ],
+      "id": "2115929160447393797",
+      "public_metrics": {
+       "bookmark_count": 647,
+       "impression_count": 338235,
+       "like_count": 1392,
+       "quote_count": 57,
+       "reply_count": 362,
+       "retweet_count": 374
+      },
+      "text": "Unlimited Seedance 2.5 on Higgsfield for 7 days.\n\nPlus 3 image models:\n&gt; GPT Image 2.5\n&gt; Nano Banana Pro\n&gt; Seedream 5.0 Pro\n\nZero credit cost, all week.\n\nAvailable now for new users.\nLimited-time offer, terms apply. https://t.co/21o512QRkN",
+      "url": "https://x.com/higgsfield/status/2115929160447393797"
+     },
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-28T17:00:02.000Z",
+      "edit_history_tweet_ids": [
+       "2115488773832376794"
+      ],
+      "id": "2115488773832376794",
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 2497,
+       "like_count": 20,
+       "quote_count": 1,
+       "reply_count": 3,
+       "retweet_count": 1
+      },
+      "text": "Spooky season calls for spooky good deals. 🎃\n\nThis Halloween, bring your whole cast to life with Drama 3.\n\n50% off all Creator plans, Oct 28 – Nov 4. 👻 https://t.co/rIsaBRrViq",
+      "url": "https://x.com/FishAudio/status/2115488773832376794"
+     },
+     {
+      "author_id": "1504221988814049289",
+      "created_at": "2026-10-27T18:47:16.000Z",
+      "edit_history_tweet_ids": [
+       "2115153375096611237"
+      ],
+      "id": "2115153375096611237",
+      "public_metrics": {
+       "bookmark_count": 81,
+       "impression_count": 38651,
+       "like_count": 349,
+       "quote_count": 10,
+       "reply_count": 41,
+       "retweet_count": 26
+      },
+      "text": "something is coming. \n\nfirst Krea 3 expert model dropping this week.\n\nwho can guess what expert is first? 👇 https://t.co/BuDx8JDm05",
+      "url": "https://x.com/krea_ai/status/2115153375096611237"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "Coding agent for building ambitious software",
+       "id": "1695890961094909952",
+       "name": "Cursor",
+       "url": "https://t.co/mH7Dszv9Sa",
+       "username": "cursor_ai",
+       "verified_type": "business"
+      },
+      {
+       "description": "Build without boundaries. Create stunning web apps that scale to millions by collaborating with AI.",
+       "id": "2279695508",
+       "name": "bolt.new",
+       "url": "https://t.co/0eDjZKerjU",
+       "username": "boltdotnew",
+       "verified_type": "business"
+      },
+      {
+       "description": "The unified interface for LLMs. 400+ models (incl. 50+ free), the best prices, explorable data, private chat, & a unified API. https://t.co/qJG5mKrQ6j",
+       "id": "1681349314797240320",
+       "name": "OpenRouter",
+       "url": "https://t.co/o0u65kcJeL",
+       "username": "OpenRouter",
+       "verified_type": "business"
+      },
+      {
+       "description": "Join KLING AI Community💫\nDiscord:https://t.co/kUVSFwBlEu \nTikTok:https://t.co/J7oMx5kPxn \nIG:https://t.co/DDAKgGvLqh",
+       "id": "1799294856822673408",
+       "name": "Kling AI",
+       "url": "https://t.co/qiuazczD2J",
+       "username": "Kling_ai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Idea to app, fast. Create beautiful, modern web applications at the speed of thought with the power of Replit's AI Agent.",
+       "id": "366289783",
+       "name": "Replit ⠕",
+       "url": "https://t.co/2pVzkujPGx",
+       "username": "Replit",
+       "verified_type": "business"
+      },
+      {
+       "description": "AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs. \n👉 https://t.co/gzh4M4drSq @FishCreativeHQ",
+       "id": "1779922590645235713",
+       "name": "Fish Audio",
+       "url": "https://t.co/fOVWGwSC2C",
+       "username": "FishAudio",
+       "verified_type": "business"
+      },
+      {
+       "description": "The AI-native creative suite",
+       "id": "1895453094361890816",
+       "name": "Higgsfield AI 🧩",
+       "url": "https://t.co/BP9sfWmDW4",
+       "username": "higgsfield",
+       "verified_type": "business"
+      },
+      {
+       "description": "delightful creative tools with AI inside – we're hiring! https://t.co/mWn3JiDT0n",
+       "id": "1504221988814049289",
+       "name": "Krea",
+       "url": "https://t.co/QRXqASFGhA",
+       "username": "krea_ai",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2118458629091426304",
+     "next_token": "b26v89c19zqg8o3juzlxnw03wmgjs03g18rnjvwag5lz1",
+     "oldest_id": "2115153375096611237",
+     "result_count": 10
+    }
+   }
+  },
+  {
+   "name": "official_engagement_gated",
+   "response": {
+    "data": [
+     {
+      "author_id": "1779922590645235713",
+      "created_at": "2026-10-13T16:02:18.000Z",
+      "edit_history_tweet_ids": [
+       "2110038429199450126"
+      ],
+      "id": "2110038429199450126",
+      "public_metrics": {
+       "bookmark_count": 14367,
+       "impression_count": 13058175,
+       "like_count": 16640,
+       "quote_count": 855,
+       "reply_count": 8223,
+       "retweet_count": 1645
+      },
+      "text": "$52M seed round. 15M+ users. But this is what we're most proud of yet.\n\nIntroducing Drama 3: the most emotive and controllable TTS model in the world\n\nAnd yes, it's open-weight.\n\nYou can now control how even a single word should sound, change its tone, and shift your voice https://t.co/9QnmoRZIaP",
+      "url": "https://x.com/FishAudio/status/2110038429199450126"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "AI voices you can't tell from humans. Expressive multilingual speech models and developer-first APIs. \n👉 https://t.co/gzh4M4drSq @FishCreativeHQ",
+       "id": "1779922590645235713",
+       "name": "Fish Audio",
+       "url": "https://t.co/fOVWGwSC2C",
+       "username": "FishAudio",
+       "verified_type": "business"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2110038429199450126",
+     "next_token": "b26v89c19zqg8o3juzlvk1t2sr2obrglri6a404rq0fp9",
+     "oldest_id": "2110038429199450126",
+     "result_count": 1
+    }
+   }
+  },
+  {
+   "name": "discovery_broad",
+   "response": {
+    "data": [
+     {
+      "author_id": "1942598213011156992",
+      "created_at": "2026-10-30T14:04:27.000Z",
+      "edit_history_tweet_ids": [
+       "2116169364944642065"
+      ],
+      "id": "2116169364944642065",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 18,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "A scrolling issue slowed down an intrasquad game. Coach Nunez called us afterward. Within 24 hours, the fix was ready. Here's his experience.\n\nTry ScoutBall AI free for 7 days: https://t.co/avOywCTlxW https://t.co/iNbxl7s1JM",
+      "url": "https://x.com/Scoutball_AI/status/2116169364944642065"
+     },
+     {
+      "author_id": "951106021098971136",
+      "created_at": "2026-11-05T12:09:00.000Z",
+      "edit_history_tweet_ids": [
+       "2118314636059512978"
+      ],
+      "id": "2118314636059512978",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 60,
+       "like_count": 3,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "𝐅𝐑𝐄𝐄 𝐟𝐨𝐫 𝟒𝟖 𝐇𝐎𝐔𝐑𝐒:\n\nMy “AI Delegation Checklist”\n\n- 5 things to hand to AI first\n- A simple onboarding brief\n- What needs your approval\n\nLike + follow + comment “DELEGATE” and I’ll send it!",
+      "url": "https://x.com/DigitalLauraA/status/2118314636059512978"
+     },
+     {
+      "author_id": "1021126785818349568",
+      "created_at": "2026-11-03T09:00:21.000Z",
+      "edit_history_tweet_ids": [
+       "2117542384573554752"
+      ],
+      "id": "2117542384573554752",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 354,
+       "like_count": 18,
+       "quote_count": 0,
+       "reply_count": 19,
+       "retweet_count": 0
+      },
+      "text": "Seam is back on Product Hunt today.\n\nIt turns your Mac's notch into a Dynamic Island. Dictate into any app, control music, and see when Claude Code finishes. The voice model runs on your Mac.\n\n$19.90 once, free for 48 hours with no card.",
+      "url": "https://x.com/heyramzi/status/2117542384573554752"
+     },
+     {
+      "author_id": "1993254329965543424",
+      "created_at": "2026-11-02T16:25:20.000Z",
+      "edit_history_tweet_ids": [
+       "2117291983479935275"
+      ],
+      "id": "2117291983479935275",
+      "public_metrics": {
+       "bookmark_count": 2,
+       "impression_count": 16,
+       "like_count": 2,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 1
+      },
+      "text": "💸 ChatGPT + 60 mins/day = AI income potential! 🚀\n\n💻 Just a laptop &amp; ChatGPT.\n\nMy $79 guide is FREE for 48 hours\n\n❤️ Like + Comment “Money” 📩 Follow me for the DM! https://t.co/mk4O1cYXMg",
+      "url": "https://x.com/TShuovo96226/status/2117291983479935275"
+     },
+     {
+      "author_id": "323506510",
+      "created_at": "2026-10-31T14:15:01.000Z",
+      "edit_history_tweet_ids": [
+       "2116534411483283566"
+      ],
+      "id": "2116534411483283566",
+      "public_metrics": {
+       "bookmark_count": 78,
+       "impression_count": 23420,
+       "like_count": 203,
+       "quote_count": 1,
+       "reply_count": 202,
+       "retweet_count": 23
+      },
+      "text": "ChatGPT experts are earning $8,000 to $12,000 per month\n\nI just made an AI MONEY GUIDE to help you earn $8,000 a month with ChatGPT\n\nI usually charge $189, but today it’s 100% FREE\n\nLike + comment \"MONEY\" &amp; I'll DM it to you FREE\n\nMust follow me to get DM\n\nFree for 48 hours https://t.co/3A2DzmgM9W",
+      "url": "https://x.com/AndrewBolis/status/2116534411483283566"
+     },
+     {
+      "author_id": "2048811892530167808",
+      "created_at": "2026-11-02T12:18:41.000Z",
+      "edit_history_tweet_ids": [
+       "2117229908619575680"
+      ],
+      "id": "2117229908619575680",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 54,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "💻 ChatGPT + Laptop + 1 Hour/Day!\n\n🚀 Explore AI Income Opportunities\n\n🎁 $79 Guide — FREE for 48 Hours!\n\n❤️ Like + 💬 Comment “MONEY”\n\n👤 Follow me\n\n📩 Get it via DM!\n\nResults vary. No income guaranteed. https://t.co/KkcmY63V2R",
+      "url": "https://x.com/REXO_TECH/status/2117229908619575680"
+     },
+     {
+      "author_id": "1978571065262813185",
+      "created_at": "2026-11-01T03:11:37.000Z",
+      "edit_history_tweet_ids": [
+       "2116729847213178943"
+      ],
+      "id": "2116729847213178943",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 116,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 1
+      },
+      "text": "💻 ChatGPT + Laptop + 60 Min/Day!\n\n🚀 Explore AI-powered income opportunities.\n\n🎁 My $79 Guide — 100% FREE for 48 Hours!\n\n❤️ Like + 💬 Comment “MONEY”\n\n👤 Follow me to receive your guide via DM!\n\nResults vary by skills, effort &amp; platform. No income \nguaranteed. https://t.co/zEeDkjgben",
+      "url": "https://x.com/Ai_rosalieX/status/2116729847213178943"
+     },
+     {
+      "author_id": "2009299086894399488",
+      "created_at": "2026-11-06T12:01:11.000Z",
+      "edit_history_tweet_ids": [
+       "2118675058722058666"
+      ],
+      "id": "2118675058722058666",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 25,
+       "like_count": 5,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 3
+      },
+      "text": "💻 ChatGPT + Laptop + 60 Mins/Day\n\n🚀 Explore AI Side Hustles\n\n🎁 $79 Guide — FREE for 48 Hours!\n\n❤️ Like + 💬 Comment “MONEY”\n\n👤 Follow me to get it via DM!\n\n🔥 Start Learning Today!\n\n⚠️ Results vary. No income guaranteed.   \n\n@Tech_BobbyJack https://t.co/opGggmBylB",
+      "url": "https://x.com/Tech_BobbyJack/status/2118675058722058666"
+     },
+     {
+      "author_id": "2048811892530167808",
+      "created_at": "2026-11-06T02:44:35.000Z",
+      "edit_history_tweet_ids": [
+       "2118534984248230112"
+      ],
+      "id": "2118534984248230112",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 27,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "💻 ChatGPT + Laptop + 1 Hour/Day!\n\n🚀 Explore AI Income Ideas\n\n🎁 $79 Guide — FREE for 48 Hours!\n\n❤️ Like + 💬 Comment “MONEY”\n\n👤 Follow me to get it via DM!\n\n📩 Start Exploring Today!\n\nResults vary. No income guaranteed. https://t.co/nr6x1R0tjA",
+      "url": "https://x.com/REXO_TECH/status/2118534984248230112"
+     },
+     {
+      "author_id": "1948269923287044096",
+      "created_at": "2026-11-01T14:10:49.000Z",
+      "edit_history_tweet_ids": [
+       "2116895740001923542"
+      ],
+      "id": "2116895740001923542",
+      "public_metrics": {
+       "bookmark_count": 5,
+       "impression_count": 2309,
+       "like_count": 25,
+       "quote_count": 0,
+       "reply_count": 30,
+       "retweet_count": 10
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/uSDszA0Itc",
+      "url": "https://x.com/heyfionaai/status/2116895740001923542"
+     },
+     {
+      "author_id": "1978571065262813185",
+      "created_at": "2026-11-03T08:56:48.000Z",
+      "edit_history_tweet_ids": [
+       "2117541493720428551"
+      ],
+      "id": "2117541493720428551",
+      "public_metrics": {
+       "bookmark_count": 8,
+       "impression_count": 136,
+       "like_count": 9,
+       "quote_count": 0,
+       "reply_count": 9,
+       "retweet_count": 4
+      },
+      "text": "💻 ChatGPT + Laptop + 60 Min/Day! 🚀\n\n🤖 Explore AI-Powered Income Opportunities\n\n🎁 My $79 Guide — 100% FREE for 48 Hours!\n\n❤️ Like + 💬 Comment “MONEY”\n\n👤 Follow me to get your FREE guide via DM!\n\nResults vary by skills, effort &amp; platform. No income\n\n guaranteed. https://t.co/jm3p9Z8u9K",
+      "url": "https://x.com/Ai_rosalieX/status/2117541493720428551"
+     },
+     {
+      "author_id": "2118545815455064064",
+      "created_at": "2026-11-06T03:42:22.000Z",
+      "edit_history_tweet_ids": [
+       "2118549526680043630"
+      ],
+      "id": "2118549526680043630",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 9,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "18-year-olds are making $10K/month with AI. 👀\n\nI found 5,000+ AI tools that could help you build, create and earn.\n\nFREE for 48 HOURS! 🚀\n\n❤️ Like\n🔁 Repost\n💬 Comment \"AI\"\n➕ Follow @EverydayTechGuide\n\nI'll DM you the link!\n\nYour opportunity starts here. 🔥 https://t.co/Ks2fOTd1yi",
+      "url": "https://x.com/Everydayteq5sz/status/2118549526680043630"
+     },
+     {
+      "author_id": "1961104436593618944",
+      "created_at": "2026-11-01T14:00:59.000Z",
+      "edit_history_tweet_ids": [
+       "2116893265257730424"
+      ],
+      "id": "2116893265257730424",
+      "public_metrics": {
+       "bookmark_count": 16,
+       "impression_count": 5958,
+       "like_count": 71,
+       "quote_count": 1,
+       "reply_count": 93,
+       "retweet_count": 24
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/EfZA0LeFms",
+      "url": "https://x.com/monami_ai01/status/2116893265257730424"
+     },
+     {
+      "author_id": "1736246905892671488",
+      "created_at": "2026-11-05T15:45:24.000Z",
+      "edit_history_tweet_ids": [
+       "2118369095909539861"
+      ],
+      "id": "2118369095909539861",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 282,
+       "like_count": 1,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 0
+      },
+      "text": "Free AI tools helped me earn $4,800 in 7 days, with zero tech skills.\n\nGet my FREE step-by-step guide on making money with AI, working just 2 hours a day.\n\nLike + comment \"Guide\" and I’ll DM it to you.\n\nMust follow me to get this guide in your DM.\n\nFREE for 48 hours\nJ",
+      "url": "https://x.com/konig0000/status/2118369095909539861"
+     },
+     {
+      "author_id": "1509879392339738627",
+      "created_at": "2026-11-01T16:21:05.000Z",
+      "edit_history_tweet_ids": [
+       "2116928525550637196"
+      ],
+      "id": "2116928525550637196",
+      "public_metrics": {
+       "bookmark_count": 53,
+       "impression_count": 14288,
+       "like_count": 111,
+       "quote_count": 1,
+       "reply_count": 61,
+       "retweet_count": 19
+      },
+      "text": "Amazon KDP is literally a money-printing machine.\n\nI made $65K last month selling AI eBooks on it.\n\nI usually charge $91, but today it’s 100% FREE\n\nLike + comment \"SEND\" &amp; I'll DM it you a free training breaking down my training with you.\n\nMust follow me to get DM\n\nFree for 48 https://t.co/PCAtNhFvtE",
+      "url": "https://x.com/TommiPedruzzi/status/2116928525550637196"
+     },
+     {
+      "author_id": "323506510",
+      "created_at": "2026-11-05T15:15:01.000Z",
+      "edit_history_tweet_ids": [
+       "2118361449055858742"
+      ],
+      "id": "2118361449055858742",
+      "public_metrics": {
+       "bookmark_count": 21,
+       "impression_count": 13723,
+       "like_count": 114,
+       "quote_count": 2,
+       "reply_count": 109,
+       "retweet_count": 19
+      },
+      "text": "Free AI tools helped me earn $4,800 in 7 days, with zero tech skills.\n\nGet my FREE step-by-step guide on making money with AI, working just 2 hours a day.\n\nLike + comment \"Guide\" and I’ll DM it to you.\n\nMust follow me to get this guide in your DM.\n\nFREE for 48 hours only. https://t.co/fsD1fIkVza",
+      "url": "https://x.com/AndrewBolis/status/2118361449055858742"
+     },
+     {
+      "author_id": "2010916076033622017",
+      "created_at": "2026-11-02T07:50:08.000Z",
+      "edit_history_tweet_ids": [
+       "2117162326197666235"
+      ],
+      "id": "2117162326197666235",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 22,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Earn $540 per day with AI. Here’s what you’ll use to get started:\n\nYou only need:\n\n💻 A laptop\n🌐 Internet\n⏰ 60 minutes a day\n\nI made a FREE guide online income.\n\n💬 Comment “EARN” like and Repost.\n👤 Follow me → I’ll DM you the guide.\n\nFree for 48 hours. https://t.co/hjIEaB52UL",
+      "url": "https://x.com/Sumaiya_Aix/status/2117162326197666235"
+     },
+     {
+      "author_id": "1939658959235022848",
+      "created_at": "2026-11-06T11:18:51.000Z",
+      "edit_history_tweet_ids": [
+       "2118664403914776732"
+      ],
+      "id": "2118664403914776732",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 10,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Free AI tools helped me earn $4,800 in 7 days, with zero tech skills.\n\nGet my FREE step-by-step guide on making money with AI, working just 2 hours a day.\n\nLike + comment \"Guide\" and I’ll DM it to you.\n\nMust follow me to get this guide in your DM.\n\nFREE for 48 hours only. https://t.co/w7Pb7bXGyx",
+      "url": "https://x.com/hey_liku/status/2118664403914776732"
+     },
+     {
+      "author_id": "2033461253478465536",
+      "created_at": "2026-11-06T01:32:38.000Z",
+      "edit_history_tweet_ids": [
+       "2118516879195242899"
+      ],
+      "id": "2118516879195242899",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 27,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Free AI tools helped me earn $4,800 in 7 days, with zero tech skills.\n\nGet my FREE step-by-step guide on making money with AI, working just 2 hours a day.\n\nLike + comment \"Guide\" and I’ll DM it to you.\n\nMust follow me to get this guide in your DM.\n\nFREE for 48 hours only. https://t.co/RTk6xu0MM7",
+      "url": "https://x.com/Ai_Tanvir_X/status/2118516879195242899"
+     },
+     {
+      "author_id": "2062575856246202368",
+      "created_at": "2026-11-06T03:59:08.000Z",
+      "edit_history_tweet_ids": [
+       "2118553745177100714"
+      ],
+      "id": "2118553745177100714",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 117,
+       "like_count": 26,
+       "quote_count": 0,
+       "reply_count": 9,
+       "retweet_count": 18
+      },
+      "text": "Free AI tools helped me earn $4,800 in 7 days, with zero tech skills.\n\nGet my FREE step-by-step guide on making money with AI, working just 2 hours a day.\n\nLike + comment \"Guide\" and I’ll DM it to you.\n\nMust follow me to get this guide in your DM.\n\nFREE for 48 hours only. https://t.co/3yL7IrLrY2",
+      "url": "https://x.com/Samaira234/status/2118553745177100714"
+     },
+     {
+      "author_id": "2098063216345751552",
+      "created_at": "2026-10-31T14:23:15.000Z",
+      "edit_history_tweet_ids": [
+       "2116536484379656332"
+      ],
+      "id": "2116536484379656332",
+      "public_metrics": {
+       "bookmark_count": 1,
+       "impression_count": 78,
+       "like_count": 3,
+       "quote_count": 0,
+       "reply_count": 1,
+       "retweet_count": 2
+      },
+      "text": "💻 ChatGPT + Laptop + 60 mins/day = AI income potential!\n\n🎁 My $79 guide is FREE for 48 hours!\n\n❤️ Like + Reply “MONEY”\n➕ Follow to get it in your DM! https://t.co/aMkXRUvQy2",
+      "url": "https://x.com/jiboncoder/status/2116536484379656332"
+     },
+     {
+      "author_id": "2097192524888821760",
+      "created_at": "2026-10-31T01:01:26.000Z",
+      "edit_history_tweet_ids": [
+       "2116334699857498126"
+      ],
+      "id": "2116334699857498126",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 6,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "Start with a free evaluation, get matched to your program, then try any plan free for 7 days. Cancel anytime.\n\nGet the app (link in bio): https://t.co/wlQWyRUtjv\nShop gear + supplements: https://t.co/DgaDSopD2t\n\nAI-generated video\n#GymRatStrength #ELITEFIT #pullups https://t.co/S9Zw0bcEfg",
+      "url": "https://x.com/Gymratstrength/status/2116334699857498126"
+     },
+     {
+      "author_id": "2114939485792485376",
+      "created_at": "2026-10-30T15:30:23.000Z",
+      "edit_history_tweet_ids": [
+       "2116190988997935257"
+      ],
+      "id": "2116190988997935257",
+      "public_metrics": {
+       "bookmark_count": 0,
+       "impression_count": 0,
+       "like_count": 0,
+       "quote_count": 0,
+       "reply_count": 0,
+       "retweet_count": 0
+      },
+      "text": "AdoCraft launches on 14 November 🚀 Your AI social media team in one calm app. AI posts, 12 platforms, scheduling, inbox, analytics, AutoDM, and more. Try free for 7 days at https://t.co/M5S1BSCA0r #AdoCraft https://t.co/gqmGMISYmQ",
+      "url": "https://x.com/adocraftai/status/2116190988997935257"
+     }
+    ],
+    "includes": {
+     "users": [
+      {
+       "description": "Your digital assistant coach.\nAI-driven command center for  baseball & softball coaches.\nLineups, defense, pitching & player development,powered by  analytics.",
+       "id": "1942598213011156992",
+       "name": "ScoutBall AI",
+       "url": "https://t.co/iMb5hsjdme",
+       "username": "Scoutball_AI",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Helping antiworkaholics build a 7-figure business working 10 hours a month\n\n🌐 https://t.co/mcsEq7Ljf8\n📍 Meta + Tiktok Ads + Email Marketing + AI Tech",
+       "id": "951106021098971136",
+       "name": "Digital Laura Anderson",
+       "url": "https://t.co/uLodpBbuhC",
+       "username": "DigitalLauraA",
+       "verified_type": "none"
+      },
+      {
+       "description": "⚡️ Helping humans with better systems. • https://t.co/6gkZqucNFj • https://t.co/ALLn36AO8Y • https://t.co/5X13qhx1jg",
+       "id": "1021126785818349568",
+       "name": "Ramzi",
+       "url": "https://t.co/7JjffCp5K8",
+       "username": "heyramzi",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI & Machine Learning Specialist | Building intelligent systems that scale | Research-driven, impact-focused.",
+       "id": "1993254329965543424",
+       "name": "Tyler AI",
+       "url": "",
+       "username": "TShuovo96226",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI & Marketing Consultant 📢 Former CMO 📒 Get My Free Guides: https://t.co/UjSQZDlQ3N  📧 biz@abdigital.cc ➡️ Follow for AI & business growth tips",
+       "id": "323506510",
+       "name": "Andrew Bolis",
+       "url": "https://t.co/q58vcup3L8",
+       "username": "AndrewBolis",
+       "verified_type": "blue"
+      },
+      {
+       "description": "🤖 AI • Creativity • Digital Influence\n🚀 Exploring the future, one idea at a time.\n🎨 AI-generated visuals | Innovation | Digital Culture\n⚡ Welcome to the REXO",
+       "id": "2048811892530167808",
+       "name": "REXO",
+       "url": "",
+       "username": "REXO_TECH",
+       "verified_type": "none"
+      },
+      {
+       "description": "Daily AI insights, tools, and workflows. 🤖",
+       "id": "1978571065262813185",
+       "name": "Rosalie",
+       "url": "",
+       "username": "Ai_rosalieX",
+       "verified_type": "none"
+      },
+      {
+       "description": "I Help You Turn AI & Tech Skills into Income 🚀\n💬 Open for Collaborations & Partnerships",
+       "id": "2009299086894399488",
+       "name": "Bobby Jack",
+       "url": "",
+       "username": "Tech_BobbyJack",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI Video Creator | Cinematic AI Content | Viral Short Videos | Brand Collaborations ✉️ DM for Collab\n\nhellofiona7@gmail.com\nX Number: 9572754460",
+       "id": "1948269923287044096",
+       "name": "Fiona",
+       "url": "https://t.co/LXj9XRCdgT",
+       "username": "heyfionaai",
+       "verified_type": "blue"
+      },
+      {
+       "description": "",
+       "id": "2118545815455064064",
+       "name": "Everyday tech and guide",
+       "url": "",
+       "username": "Everydayteq5sz",
+       "verified_type": "none"
+      },
+      {
+       "description": "AI Video Creator | Cinematic AI Content | Viral Short Videos | Brand Collaborations ✉️ DM for Collab\n\nthisismonami.rose@gmail.com\nX Number: 8489440022",
+       "id": "1961104436593618944",
+       "name": "Monami",
+       "url": "https://t.co/MGoFfUl2Ly",
+       "username": "monami_ai01",
+       "verified_type": "blue"
+      },
+      {
+       "description": "part-time writer\nDM for Collab / paid promotion\n\ncreator | gentleman",
+       "id": "1736246905892671488",
+       "name": "chaos",
+       "url": "",
+       "username": "konig0000",
+       "verified_type": "blue"
+      },
+      {
+       "description": "7-Figure by selling eBooks on Amazon KDP (without writing) • CEO & Founder at @nespola_io",
+       "id": "1509879392339738627",
+       "name": "Tommi Pedruzzi",
+       "url": "https://t.co/kgH3vQ8UDr",
+       "username": "TommiPedruzzi",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI & Tech Enthusiast | Sharing AI tools, automation hacks & online income ideas | Helping creators & founders grow with AI | DM for collabs",
+       "id": "2010916076033622017",
+       "name": "Sumaiya Mim",
+       "url": "",
+       "username": "Sumaiya_Aix",
+       "verified_type": "blue"
+      },
+      {
+       "description": "AI Educator. Helping you to your AI, Tech Tools & Digital skills.💬 DM for collaboration",
+       "id": "1939658959235022848",
+       "name": "Liku",
+       "url": "",
+       "username": "hey_liku",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Tech & AI Content Creator | Sharing free AI resources, websites & digital growth tips | Building smarter workflows with AI | DM for collabs",
+       "id": "2033461253478465536",
+       "name": "AI Tanvir X",
+       "url": "",
+       "username": "Ai_Tanvir_X",
+       "verified_type": "blue"
+      },
+      {
+       "description": "Exploring the power of AI and tomorrow’s technology 🤖✨\nSharing ideas, learning, and growing 🚀. 📩 DM for Collaboration",
+       "id": "2062575856246202368",
+       "name": "Samaira",
+       "url": "",
+       "username": "Samaira234",
+       "verified_type": "none"
+      },
+      {
+       "description": "🤖 AI Mindset | 💡 Powered by Creativity | 🚀 Creating the Future, One Prompt at a Time.",
+       "id": "2098063216345751552",
+       "name": "Jemes Wilson",
+       "url": "",
+       "username": "jiboncoder",
+       "verified_type": "none"
+      },
+      {
+       "description": "",
+       "id": "2097192524888821760",
+       "name": "Chris Anderson",
+       "url": "",
+       "username": "Gymratstrength",
+       "verified_type": "none"
+      },
+      {
+       "description": "",
+       "id": "2114939485792485376",
+       "name": "AdoCraft",
+       "url": "",
+       "username": "adocraftai",
+       "verified_type": "none"
+      }
+     ]
+    },
+    "meta": {
+     "newest_id": "2118675058722058666",
+     "next_token": "b26v89c19zqg8o3juzly31mcv7kgnyhx740sm4q122d19",
+     "oldest_id": "2116169364944642065",
+     "result_count": 23
+    }
+   }
+  }
+ ]
+}
