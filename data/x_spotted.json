@@ -1,5 +1,27 @@
 [
  {
+  "post_id": "2119975721909301684",
+  "url": "https://x.com/higgsfield_ai/status/2119975721909301684",
+  "author": "@higgsfield_ai",
+  "author_evidence": "https://higgsfield.ai",
+  "tool": "Higgsfield",
+  "type": "promo_time_limited",
+  "offer": "3 days of FREE & UNLIMITED access to Seedance 2.5, Seedream 5.5 & every other top model.",
+  "discount_pct": null,
+  "comment_keyword": null,
+  "posted_at": "2026-11-10T02:09:34.000Z",
+  "deadline": "2026-11-13T02:09:34.000Z",
+  "deadline_basis": "post time + 3 days (hand-set)",
+  "metrics": {
+   "like_count": 502,
+   "reply_count": 34,
+   "retweet_count": 212,
+   "impression_count": 71730
+  },
+  "status": "unverified",
+  "first_seen": "2026-11-10"
+ },
+ {
   "post_id": "2118887225152970840",
   "url": "https://x.com/FishAudio/status/2118887225152970840",
   "author": "@FishAudio",
