@@ -1,5 +1,27 @@
 [
  {
+  "post_id": "2120571551313506317",
+  "url": "https://x.com/higgsfield/status/2120571551313506317",
+  "author": "@higgsfield",
+  "author_evidence": "https://higgsfield.ai/s/general-higgsfield-IdlJnW",
+  "tool": "Higgsfield",
+  "type": "promo_time_limited",
+  "offer": "Up to 60% OFF SALE is LIVE.",
+  "discount_pct": 60,
+  "comment_keyword": null,
+  "posted_at": "2026-11-11T17:37:10.000Z",
+  "deadline": null,
+  "deadline_basis": null,
+  "metrics": {
+   "like_count": 641,
+   "reply_count": 70,
+   "retweet_count": 283,
+   "impression_count": 1769289
+  },
+  "status": "unverified",
+  "first_seen": "2026-11-12"
+ },
+ {
   "post_id": "2119975721909301684",
   "url": "https://x.com/higgsfield_ai/status/2119975721909301684",
   "author": "@higgsfield_ai",
