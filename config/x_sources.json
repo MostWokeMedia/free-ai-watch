@@ -49,7 +49,7 @@
   {
    "label": "engagement_gated",
    "example_url": "https://x.com/FishAudio/status/2110038429199450126",
-   "example_text": "Comment “DRAMA” within the next 48 hours for 1 month free.",
+   "example_text": "Comment \u201cDRAMA\u201d within the next 48 hours for 1 month free.",
    "tool": "Fish Audio (Drama 3)"
   }
  ],
@@ -95,6 +95,30 @@
   {
    "post_id": "2119851653964898719",
    "reason": "Krea 'coming soon, comment for early access' is a waitlist, not a free offer (hand-check 2026-11-10)"
+  },
+  {
+   "post_id": "2120852147549917645",
+   "reason": "Repeat post of the Higgsfield up to 60% off sale already listed from 2120571551313506317 (hand-check 2026-11-13)"
+  },
+  {
+   "post_id": "2121016919188967741",
+   "reason": "Repeat post of the Higgsfield up to 60% off sale already listed from 2120571551313506317 (hand-check 2026-11-13)"
+  },
+  {
+   "post_id": "2121062168523423950",
+   "reason": "Repeat post of the Higgsfield up to 60% off sale already listed from 2120571551313506317 (hand-check 2026-11-13)"
+  },
+  {
+   "post_id": "2121067332546294023",
+   "reason": "Repeat post of the Higgsfield up to 60% off sale already listed from 2120571551313506317 (hand-check 2026-11-13)"
+  },
+  {
+   "post_id": "2121069908952076661",
+   "reason": "Repeat post of the Higgsfield up to 60% off sale already listed from 2120571551313506317 (hand-check 2026-11-13)"
+  },
+  {
+   "post_id": "2121084870189580303",
+   "reason": "Repeat post of the Higgsfield up to 60% off sale already listed from 2120571551313506317 (hand-check 2026-11-13)"
   }
  ]
 }
