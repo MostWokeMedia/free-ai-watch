@@ -1,134 +1,46 @@
 [
- {
-  "post_id": "2121316991474843915",
-  "url": "https://x.com/higgsfield/status/2121316991474843915",
-  "author": "@higgsfield",
-  "author_evidence": "https://higgsfield.ai/s/general-higgsfield-IdlJnW",
-  "tool": "Higgsfield",
-  "type": "promo_time_limited",
-  "offer": "Up to 60% OFF premium plans.",
-  "discount_pct": 60,
-  "comment_keyword": null,
-  "posted_at": "2026-11-13T18:59:17.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 374,
-   "reply_count": 25,
-   "retweet_count": 194,
-   "impression_count": 29475
+  {
+    "post_id": "2120571551313506317",
+    "url": "https://x.com/higgsfield/status/2120571551313506317",
+    "author": "@higgsfield",
+    "author_evidence": "https://higgsfield.ai/s/general-higgsfield-IdlJnW",
+    "tool": "Higgsfield",
+    "type": "promo_time_limited",
+    "offer": "Up to 60% OFF SALE is LIVE.",
+    "discount_pct": 60,
+    "comment_keyword": null,
+    "posted_at": "2026-11-11T17:37:10.000Z",
+    "deadline": null,
+    "deadline_basis": null,
+    "metrics": {
+      "like_count": 641,
+      "reply_count": 70,
+      "retweet_count": 283,
+      "impression_count": 1769289
+    },
+    "status": "unverified",
+    "first_seen": "2026-11-12"
   },
-  "status": "unverified",
-  "first_seen": "2026-11-14"
- },
- {
-  "post_id": "2121065524205605209",
-  "url": "https://x.com/higgsfield_ai/status/2121065524205605209",
-  "author": "@higgsfield_ai",
-  "author_evidence": "https://higgsfield.ai",
-  "tool": "Higgsfield",
-  "type": "promo_time_limited",
-  "offer": "Get up to 60% OFF premium plans.",
-  "discount_pct": 60,
-  "comment_keyword": null,
-  "posted_at": "2026-11-13T02:20:03.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 119,
-   "reply_count": 10,
-   "retweet_count": 13,
-   "impression_count": 13574
-  },
-  "status": "unverified",
-  "first_seen": "2026-11-14"
- },
- {
-  "post_id": "2120940607195754847",
-  "url": "https://x.com/higgsfield_ai/status/2120940607195754847",
-  "author": "@higgsfield_ai",
-  "author_evidence": "https://higgsfield.ai",
-  "tool": "Higgsfield",
-  "type": "promo_time_limited",
-  "offer": "Start creating with up to 60% OFF premium plans.",
-  "discount_pct": 60,
-  "comment_keyword": null,
-  "posted_at": "2026-11-12T18:03:40.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 118,
-   "reply_count": 6,
-   "retweet_count": 9,
-   "impression_count": 11961
-  },
-  "status": "unverified",
-  "first_seen": "2026-11-14"
- },
- {
-  "post_id": "2120571551313506317",
-  "url": "https://x.com/higgsfield/status/2120571551313506317",
-  "author": "@higgsfield",
-  "author_evidence": "https://higgsfield.ai/s/general-higgsfield-IdlJnW",
-  "tool": "Higgsfield",
-  "type": "promo_time_limited",
-  "offer": "Up to 60% OFF SALE is LIVE.",
-  "discount_pct": 60,
-  "comment_keyword": null,
-  "posted_at": "2026-11-11T17:37:10.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 641,
-   "reply_count": 70,
-   "retweet_count": 283,
-   "impression_count": 1769289
-  },
-  "status": "unverified",
-  "first_seen": "2026-11-12"
- },
- {
-  "post_id": "2119975721909301684",
-  "url": "https://x.com/higgsfield_ai/status/2119975721909301684",
-  "author": "@higgsfield_ai",
-  "author_evidence": "https://higgsfield.ai",
-  "tool": "Higgsfield",
-  "type": "promo_time_limited",
-  "offer": "3 days of FREE & UNLIMITED access to Seedance 2.5, Seedream 5.5 & every other top model.",
-  "discount_pct": null,
-  "comment_keyword": null,
-  "posted_at": "2026-11-10T02:09:34.000Z",
-  "deadline": null,
-  "deadline_basis": null,
-  "metrics": {
-   "like_count": 875,
-   "reply_count": 61,
-   "retweet_count": 256,
-   "impression_count": 167276
-  },
-  "status": "unverified",
-  "first_seen": "2026-11-14"
- },
- {
-  "post_id": "2118887225152970840",
-  "url": "https://x.com/FishAudio/status/2118887225152970840",
-  "author": "@FishAudio",
-  "author_evidence": "https://fish.audio/claim/twitter",
-  "tool": "Fish Audio",
-  "type": "promo_time_limited",
-  "offer": "50% off creator plans and 80% off API extended through the end of November.",
-  "discount_pct": 50,
-  "comment_keyword": null,
-  "posted_at": "2026-11-07T02:04:16.000Z",
-  "deadline": "2026-12-01T05:59:59Z",
-  "deadline_basis": "through end of November (end of day CT, hand-check 2026-11-07)",
-  "metrics": {
-   "like_count": 39,
-   "reply_count": 8,
-   "retweet_count": 1,
-   "impression_count": 2642
-  },
-  "status": "unverified",
-  "first_seen": "2026-11-07"
- }
+  {
+    "post_id": "2118887225152970840",
+    "url": "https://x.com/FishAudio/status/2118887225152970840",
+    "author": "@FishAudio",
+    "author_evidence": "https://fish.audio/claim/twitter",
+    "tool": "Fish Audio",
+    "type": "promo_time_limited",
+    "offer": "50% off creator plans and 80% off API extended through the end of November.",
+    "discount_pct": 50,
+    "comment_keyword": null,
+    "posted_at": "2026-11-07T02:04:16.000Z",
+    "deadline": "2026-12-01T05:59:59Z",
+    "deadline_basis": "through end of November (end of day CT, hand-check 2026-11-07)",
+    "metrics": {
+      "like_count": 39,
+      "reply_count": 8,
+      "retweet_count": 1,
+      "impression_count": 2642
+    },
+    "status": "unverified",
+    "first_seen": "2026-11-07"
+  }
 ]
