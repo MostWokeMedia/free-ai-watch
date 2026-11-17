@@ -49,7 +49,7 @@
     {
       "label": "engagement_gated",
       "example_url": "https://x.com/FishAudio/status/2110038429199450126",
-      "example_text": "Comment “DRAMA” within the next 48 hours for 1 month free.",
+      "example_text": "Comment \u201cDRAMA\u201d within the next 48 hours for 1 month free.",
       "tool": "Fish Audio (Drama 3)"
     }
   ],
@@ -143,6 +143,14 @@
     {
       "post_id": "2121061284406009888",
       "reason": "Higgsfield (@higgsfield_ai) repeat of the up-to-60% off premium plans sale already listed from 2120571551313506317 (hand-check 2026-11-16)"
+    },
+    {
+      "post_id": "2122441171771265172",
+      "reason": "Higgsfield (@higgsfield) repeat of the up-to-65% Black Friday sale already kept from 2122377853215936697 (hand-check 2026-11-17)"
+    },
+    {
+      "post_id": "2121059411976487017",
+      "reason": "Higgsfield (@higgsfield_ai) repeat of the up-to-60% off sale already listed from 2120571551313506317 (hand-check 2026-11-17)"
     }
   ]
 }

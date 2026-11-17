@@ -1,5 +1,27 @@
 [
   {
+    "post_id": "2122377853215936697",
+    "url": "https://x.com/higgsfield_ai/status/2122377853215936697",
+    "author": "@higgsfield_ai",
+    "author_evidence": "https://higgsfield.ai",
+    "tool": "Higgsfield",
+    "type": "promo_time_limited",
+    "offer": "Up to 65% OFF on Higgsfield for Black Friday.",
+    "discount_pct": 65,
+    "comment_keyword": null,
+    "posted_at": "2026-11-16T17:14:46.000Z",
+    "deadline": null,
+    "deadline_basis": null,
+    "metrics": {
+      "like_count": 1389,
+      "reply_count": 121,
+      "retweet_count": 322,
+      "impression_count": 464848
+    },
+    "status": "unverified",
+    "first_seen": "2026-11-17"
+  },
+  {
     "post_id": "2120571551313506317",
     "url": "https://x.com/higgsfield/status/2120571551313506317",
     "author": "@higgsfield",
