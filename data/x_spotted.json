@@ -1,5 +1,49 @@
 [
   {
+    "post_id": "2122963026919977161",
+    "url": "https://x.com/Kling_ai/status/2122963026919977161",
+    "author": "@Kling_ai",
+    "author_evidence": "https://kling.ai",
+    "tool": "Kling AI",
+    "type": "promo_time_limited",
+    "offer": "🖤 Kling AI Black Friday Deals: Up to 50% OFF!",
+    "discount_pct": 50,
+    "comment_keyword": null,
+    "posted_at": "2026-11-18T08:00:03.000Z",
+    "deadline": null,
+    "deadline_basis": null,
+    "metrics": {
+      "like_count": 24,
+      "reply_count": 2,
+      "retweet_count": 2,
+      "impression_count": 2668
+    },
+    "status": "unverified",
+    "first_seen": "2026-11-18"
+  },
+  {
+    "post_id": "2122717327464747307",
+    "url": "https://x.com/suno/status/2122717327464747307",
+    "author": "@suno",
+    "author_evidence": "https://suno.com",
+    "tool": "Suno",
+    "type": "promo_time_limited",
+    "offer": "Limited time only.",
+    "discount_pct": null,
+    "comment_keyword": null,
+    "posted_at": "2026-11-17T15:43:43.000Z",
+    "deadline": null,
+    "deadline_basis": null,
+    "metrics": {
+      "like_count": 491,
+      "reply_count": 101,
+      "retweet_count": 88,
+      "impression_count": 64817
+    },
+    "status": "unverified",
+    "first_seen": "2026-11-18"
+  },
+  {
     "post_id": "2122377853215936697",
     "url": "https://x.com/higgsfield_ai/status/2122377853215936697",
     "author": "@higgsfield_ai",
