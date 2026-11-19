@@ -1,5 +1,27 @@
 [
   {
+    "post_id": "2123188968472948999",
+    "url": "https://x.com/higgsfield/status/2123188968472948999",
+    "author": "@higgsfield",
+    "author_evidence": "https://higgsfield.ai/s/general-higgsfield-IdlJnW",
+    "tool": "Higgsfield",
+    "type": "promo_time_limited",
+    "offer": "Try it free for 3 days with unlimited generations in MCP 2.0 https://t.co/3p8ARUvrtp",
+    "discount_pct": null,
+    "comment_keyword": null,
+    "posted_at": "2026-11-18T22:57:51.000Z",
+    "deadline": "2026-11-21T22:57:51Z",
+    "deadline_basis": "for 3 days",
+    "metrics": {
+      "like_count": 1157,
+      "reply_count": 51,
+      "retweet_count": 265,
+      "impression_count": 76005
+    },
+    "status": "unverified",
+    "first_seen": "2026-11-19"
+  },
+  {
     "post_id": "2122963026919977161",
     "url": "https://x.com/Kling_ai/status/2122963026919977161",
     "author": "@Kling_ai",
