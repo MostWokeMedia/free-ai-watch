@@ -1,5 +1,27 @@
 [
  {
+  "post_id": "2125284417786773720",
+  "url": "https://x.com/pika_labs/status/2125284417786773720",
+  "author": "@pika_labs",
+  "author_evidence": "https://pika.art",
+  "tool": "Pika",
+  "type": "promo_time_limited",
+  "offer": "Up to 60% off new subscriptions, and 67% off for current subscribers.",
+  "discount_pct": 60,
+  "comment_keyword": null,
+  "posted_at": "2026-11-24T17:44:25.000Z",
+  "deadline": "2026-12-01T05:59:59Z",
+  "deadline_basis": "post says \"before November 30th\"",
+  "metrics": {
+   "like_count": 53,
+   "reply_count": 13,
+   "retweet_count": 5,
+   "impression_count": 4586
+  },
+  "status": "unverified",
+  "first_seen": "2026-11-25"
+ },
+ {
   "post_id": "2122963026919977161",
   "url": "https://x.com/Kling_ai/status/2122963026919977161",
   "author": "@Kling_ai",
